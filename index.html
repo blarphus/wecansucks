@@ -108,7 +108,7 @@
   .addr-box { flex: 1 1 300px; position: relative; }
   .addr-box input {
     width: 100%;
-    padding: 10px 12px;
+    padding: 10px 34px 10px 12px;
     font: inherit;
     border: 1px solid var(--line);
     border-radius: 3px;
@@ -119,6 +119,12 @@
     appearance: none;
   }
   .addr-box input:focus { border-color: var(--accent); }
+  .confirm-icon {
+    position: absolute; right: 10px; top: 50%; transform: translateY(-50%);
+    width: 17px; height: 17px; color: var(--accent-ink);
+    display: none; pointer-events: none;
+  }
+  .confirm-icon.show { display: block; }
   .addr-box input::-webkit-search-cancel-button { -webkit-appearance: none; appearance: none; }
   .suggestions {
     position: absolute; top: 100%; left: 0; right: 0; z-index: 30;
@@ -137,6 +143,7 @@
   }
   .suggestion-item:first-child { border-top: none; }
   .suggestion-item:hover, .suggestion-item.active { background: var(--surface-2); }
+  .suggestion-item.loading { color: var(--muted); cursor: default; font-style: italic; }
   select, .btn {
     font: inherit; font-size: 14.5px;
     border-radius: 3px;
@@ -308,6 +315,7 @@
                placeholder="Street address, city, e.g. 515 Pinney St, Madison"
                aria-label="Your address" role="combobox" aria-expanded="false"
                aria-autocomplete="list" aria-controls="addrSuggest">
+        <svg class="confirm-icon" id="addrConfirm" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"></polyline></svg>
         <div class="suggestions" id="addrSuggest" role="listbox"></div>
       </div>
       <select id="radiusSelect" aria-label="Search radius">
@@ -381,7 +389,7 @@
 
   <section class="alerts" id="alertsCard" aria-label="Email alerts">
     <h2>Get notified about new jobs</h2>
-    <p>Both job boards get checked every morning. An alert goes out only when a new posting matches these preferences:</p>
+    <p>Both job boards get checked every morning. Emails are sent only when a new posting matches these preferences:</p>
 
     <div class="alert-field fgroup">
       <div class="flabel">Location</div>
@@ -390,6 +398,7 @@
                placeholder="Street address, city, e.g. 515 Pinney St, Madison"
                aria-label="Alert location" role="combobox" aria-expanded="false"
                aria-autocomplete="list" aria-controls="alertAddrSuggest">
+        <svg class="confirm-icon" id="alertAddrConfirm" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"></polyline></svg>
         <div class="suggestions" id="alertAddrSuggest" role="listbox"></div>
       </div>
     </div>
@@ -766,6 +775,7 @@
         document.getElementById("clearLoc").addEventListener("click", function () {
           $("addrInput").value = DEFAULT_HOME.label;
           setHome(DEFAULT_HOME);
+          addrAutocomplete.setConfirmed(true);
         });
       }
       if (state.sortKey !== "distance") {
@@ -803,15 +813,23 @@
   // Self-contained address-suggestions widget. Each call wires one input +
   // its dropdown independently, so the top search box and the alert form's
   // location field don't share state or interfere with each other.
-  function createAddressAutocomplete(inputEl, boxEl, onPick) {
+  function createAddressAutocomplete(inputEl, boxEl, confirmEl, onPick) {
     var wrapper = inputEl.closest(".addr-box");
     var timer = null, controller = null, items = [], active = -1;
 
+    function setConfirmed(v) {
+      if (confirmEl) confirmEl.classList.toggle("show", !!v);
+    }
     function hide() {
       boxEl.classList.remove("show");
       boxEl.innerHTML = "";
       items = []; active = -1;
       inputEl.setAttribute("aria-expanded", "false");
+    }
+    function showLoading() {
+      boxEl.innerHTML = '<div class="suggestion-item loading">Searching…</div>';
+      boxEl.classList.add("show");
+      inputEl.setAttribute("aria-expanded", "true");
     }
     function highlight(idx) {
       var nodes = boxEl.querySelectorAll(".suggestion-item");
@@ -823,6 +841,7 @@
       var hit = featureToHit(item);
       inputEl.value = hit.label;
       hide();
+      setConfirmed(true);
       onPick(hit);
     }
     function render(list) {
@@ -844,6 +863,7 @@
     function fetchSug(q) {
       if (controller) controller.abort();
       controller = new AbortController();
+      showLoading();
       geoapifyFeatures(q, 6, controller.signal)
         .then(function (list) { render(list); })
         .catch(function (e) { if (e.name !== "AbortError") hide(); });
@@ -851,9 +871,10 @@
 
     inputEl.addEventListener("input", function () {
       var q = this.value.trim();
+      setConfirmed(false);
       clearTimeout(timer);
       if (q.length < 3) { hide(); return; }
-      timer = setTimeout(function () { fetchSug(q); }, 150);
+      timer = setTimeout(function () { fetchSug(q); }, 60);
     });
     inputEl.addEventListener("keydown", function (e) {
       // stopImmediatePropagation so a second keydown listener on the same
@@ -870,10 +891,10 @@
       if (!wrapper.contains(e.target)) hide();
     });
 
-    return { hide: hide };
+    return { hide: hide, setConfirmed: setConfirmed };
   }
 
-  var addrAutocomplete = createAddressAutocomplete($("addrInput"), $("addrSuggest"), function (hit) {
+  var addrAutocomplete = createAddressAutocomplete($("addrInput"), $("addrSuggest"), $("addrConfirm"), function (hit) {
     setHome(hit);
   });
 
@@ -881,7 +902,7 @@
     var addr = $("addrInput").value.trim();
     var hint = $("searchHint");
     addrAutocomplete.hide();
-    if (!addr) { $("addrInput").value = DEFAULT_HOME.label; setHome(DEFAULT_HOME); return; }
+    if (!addr) { $("addrInput").value = DEFAULT_HOME.label; setHome(DEFAULT_HOME); addrAutocomplete.setConfirmed(true); return; }
     $("searchBtn").disabled = true;
     hint.className = "search-hint";
     hint.textContent = "Looking up address…";
@@ -893,6 +914,7 @@
         return;
       }
       setHome(hit);
+      addrAutocomplete.setConfirmed(true);
     });
   }
 
@@ -904,7 +926,7 @@
     levels: new Set()
   };
 
-  createAddressAutocomplete($("alertAddrInput"), $("alertAddrSuggest"), function (hit) {
+  var alertAutocomplete = createAddressAutocomplete($("alertAddrInput"), $("alertAddrSuggest"), $("alertAddrConfirm"), function (hit) {
     alertState.home = hit;
   });
 
@@ -941,6 +963,7 @@
       return;
     }
     $("alertAddrInput").value = DEFAULT_HOME.label;
+    alertAutocomplete.setConfirmed(true);
     $("alertRadiusSelect").value = String(alertState.radius);
     $("alertRadiusSelect").addEventListener("change", function () {
       alertState.radius = this.value === "any" ? "any" : Number(this.value);
@@ -1005,7 +1028,10 @@
     hint.className = "search-hint";
     hint.textContent = "Getting your location…";
     navigator.geolocation.getCurrentPosition(function (pos) {
-      setHome({ lat: pos.coords.latitude, lng: pos.coords.longitude, label: "your current location" });
+      var hit = { lat: pos.coords.latitude, lng: pos.coords.longitude, label: "your current location" };
+      $("addrInput").value = hit.label;
+      setHome(hit);
+      addrAutocomplete.setConfirmed(true);
     }, function () {
       hint.className = "search-hint err";
       hint.textContent = "Couldn't get your location, type an address instead.";
@@ -1054,6 +1080,7 @@
     if (state.home) {
       $("addrInput").value = state.home.label || "";
       setHome(state.home);
+      addrAutocomplete.setConfirmed(true);
     } else {
       render();
     }
