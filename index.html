@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Wisconsin Teacher Job Board</title>
+<title>WECAN Sucks</title>
 <meta name="description" content="Recent teaching jobs across Wisconsin, searchable by distance from your address. Updated every morning from WECAN and MMSD.">
 <script>
   (function () {
@@ -285,7 +285,7 @@
 
   <header class="masthead">
     <div class="mast-top">
-      <h1 class="wordmark">Teacher Job Board <span class="st">of Wisconsin</span></h1>
+      <h1 class="wordmark">WECAN <span class="st">Sucks</span></h1>
       <button class="theme-btn" id="themeBtn" aria-label="Switch color theme">Dark mode</button>
     </div>
     <div class="mast-sub">
@@ -485,6 +485,23 @@
   }
 
   /* ---------- geocoding ---------- */
+  // Geoapify Address Autocomplete — purpose-built for live-typing suggestions,
+  // unlike Nominatim/Census which are batch geocoders. Free tier, no
+  // server-side secret needed (key is scoped/rate-limited on Geoapify's end).
+  var GEOAPIFY_KEY = "c1fbd21cbf3340fa968f0db7ed479400";
+  // This site only covers Wisconsin jobs — hard-restrict results to the state.
+  var WI_RECT = "rect:-92.8894,42.4919,-86.2495,47.3025";
+
+  function geoapifyFeatures(addr, limit, signal) {
+    var url = "https://api.geoapify.com/v1/geocode/autocomplete?text=" + encodeURIComponent(addr) +
+      "&filter=" + WI_RECT + "&limit=" + limit + "&apiKey=" + GEOAPIFY_KEY;
+    return fetch(url, signal ? { signal: signal } : undefined).then(function (r) { return r.json(); })
+      .then(function (j) { return (j && j.features) || []; });
+  }
+  function featureToHit(f) {
+    var p = f.properties;
+    return { lat: p.lat, lng: p.lon, label: p.formatted };
+  }
   function geocodeCensus(addr) {
     var url = "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?benchmark=Public_AR_Current&format=json&address=" + encodeURIComponent(addr);
     return fetch(url).then(function (r) { return r.json(); }).then(function (j) {
@@ -493,25 +510,12 @@
       return { lat: m.coordinates.y, lng: m.coordinates.x, label: m.matchedAddress };
     });
   }
-  // This site only covers Wisconsin jobs. Nominatim's freeform "q" search
-  // treats the final word as a prefix (unlike its structured "street="
-  // param, which requires whole words) — appending ", Wisconsin" scopes
-  // results to the state while keeping that prefix matching for live typing.
-  function wiQuery(addr) {
-    return /wisconsin|\bwi\b/i.test(addr) ? addr : addr + ", Wisconsin";
-  }
-
-  function geocodeNominatim(addr) {
-    var url = "https://nominatim.openstreetmap.org/search?format=json&limit=1&countrycodes=us&q=" + encodeURIComponent(wiQuery(addr));
-    return fetch(url).then(function (r) { return r.json(); }).then(function (j) {
-      if (!j || !j.length) return null;
-      return { lat: Number(j[0].lat), lng: Number(j[0].lon), label: j[0].display_name.split(",").slice(0, 3).join(",") };
-    });
-  }
   function geocode(addr) {
-    return geocodeCensus(addr).catch(function () { return null; }).then(function (hit) {
-      if (hit) return hit;
-      return geocodeNominatim(addr).catch(function () { return null; });
+    return geoapifyFeatures(addr, 1).then(function (feats) {
+      if (feats.length) return featureToHit(feats[0]);
+      return geocodeCensus(addr).catch(function () { return null; });
+    }).catch(function () {
+      return geocodeCensus(addr).catch(function () { return null; });
     });
   }
 
@@ -745,7 +749,7 @@
   var suggestActive = -1;
 
   function suggestionLabel(item) {
-    return item.display_name.split(",").slice(0, 4).join(",");
+    return item.properties.formatted;
   }
 
   function hideSuggestions() {
@@ -764,13 +768,26 @@
   }
 
   function pickSuggestion(item) {
-    $("addrInput").value = suggestionLabel(item);
+    var hit = featureToHit(item);
+    $("addrInput").value = hit.label;
     hideSuggestions();
-    setHome({ lat: Number(item.lat), lng: Number(item.lon), label: suggestionLabel(item) });
+    setHome(hit);
+  }
+
+  // Drop low-confidence city/postcode-level matches once a precise
+  // building/street match exists, so picking "317 s mills" doesn't bury the
+  // real address under unrelated "Lake Mills"/"Gays Mills" noise.
+  function rankSuggestions(features) {
+    var strong = features.filter(function (f) {
+      var p = f.properties;
+      return (p.rank && p.rank.confidence >= 1) ||
+        ["building", "street", "amenity"].indexOf(p.result_type) !== -1;
+    });
+    return strong.length ? strong : features;
   }
 
   function renderSuggestions(list) {
-    suggestItems = list || [];
+    suggestItems = rankSuggestions(list || []);
     suggestActive = -1;
     if (!suggestItems.length) { hideSuggestions(); return; }
     suggestBox.innerHTML = suggestItems.map(function (item, i) {
@@ -789,8 +806,7 @@
   function fetchSuggestions(q) {
     if (suggestController) suggestController.abort();
     suggestController = new AbortController();
-    var url = "https://nominatim.openstreetmap.org/search?format=json&limit=6&countrycodes=us&q=" + encodeURIComponent(wiQuery(q));
-    fetch(url, { signal: suggestController.signal }).then(function (r) { return r.json(); })
+    geoapifyFeatures(q, 6, suggestController.signal)
       .then(function (list) { renderSuggestions(list); })
       .catch(function (e) { if (e.name !== "AbortError") hideSuggestions(); });
   }
