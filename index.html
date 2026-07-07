@@ -116,8 +116,11 @@
     background: var(--bg);
     color: var(--text);
     outline: none;
+    -webkit-appearance: none;
+    appearance: none;
   }
   .addr-box input:focus { border-color: var(--accent); }
+  .addr-box input::-webkit-search-cancel-button { -webkit-appearance: none; appearance: none; }
   .suggestions {
     position: absolute; top: 100%; left: 0; right: 0; z-index: 30;
     margin-top: -1px;
@@ -298,7 +301,7 @@
     <p class="lede">Enter your address to sort openings by distance from home, then narrow by radius, subject, and grade level.</p>
     <div class="search-row">
       <div class="addr-box">
-        <input id="addrInput" type="text" autocomplete="off"
+        <input id="addrInput" type="search" name="job-search-location" autocomplete="off" spellcheck="false"
                placeholder="Street address, city &mdash; e.g. 515 Pinney St, Madison"
                aria-label="Your address" role="combobox" aria-expanded="false"
                aria-autocomplete="list" aria-controls="addrSuggest">
