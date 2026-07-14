@@ -41,10 +41,6 @@
     44.243206,
     -88.365804
   ],
-  "brillion public schools": [
-    44.1735573,
-    -88.0663209
-  ],
   "bristol school district # 1": [
     44.960917,
     -92.703225
@@ -64,6 +60,10 @@
   ],
   "cedar grove-belgium area school district": null,
   "cesa 1": null,
+  "cesa 10": [
+    44.9168142,
+    -91.3971449
+  ],
   "cesa 2": null,
   "cesa 5": null,
   "cesa 7": null,
@@ -75,6 +75,10 @@
     44.9371325,
     -91.3932118
   ],
+  "colby school district": [
+    44.9099665,
+    -90.3156911
+  ],
   "corpus christi parish school": null,
   "d.c. everest area school district": [
     44.9391683,
@@ -84,11 +88,6 @@
     43.4230306,
     -91.1990204
   ],
-  "delavan-darien school district": [
-    42.6309356,
-    -88.6614499
-  ],
-  "department of health services- mendota mental health institute": null,
   "diocese of madison catholic schools": [
     43.0514334,
     -89.5229716
@@ -113,6 +112,10 @@
   "elkhorn area school district": [
     42.6719206,
     -88.543494
+  ],
+  "ellsworth community school district": [
+    44.732122,
+    -92.4831218
   ],
   "elmbrook schools": [
     43.0227593,
@@ -148,10 +151,6 @@
     43.2444487,
     -88.32704
   ],
-  "hope christian schools": [
-    43.1786458,
-    -88.0225466
-  ],
   "hortonville area school district": [
     44.3350374,
     -88.639343
@@ -163,10 +162,6 @@
   "hudson school district": [
     44.9750953,
     -92.7554671
-  ],
-  "iola-scandinavia school district": [
-    44.5020673,
-    -89.1270679
   ],
   "iowa-grant school district": [
     42.9313785,
@@ -205,10 +200,17 @@
     43.1029333,
     -88.354607
   ],
-  "lakeland uhs district": null,
+  "lake geneva schools": [
+    42.571693,
+    -88.4152537
+  ],
+  "little chute area school district": [
+    44.2799872,
+    -88.3184394
+  ],
   "luxemburg-casco school district": [
-    44.548052,
-    -87.7056351
+    44.5479649,
+    -87.7054499
   ],
   "madison country day school": [
     43.1633642,
@@ -235,10 +237,6 @@
     43.0379584,
     -87.9558448
   ],
-  "menasha joint school district": [
-    44.2022293,
-    -88.4465361
-  ],
   "menominee indian school district": [
     44.9762964,
     -88.7347165
@@ -246,10 +244,6 @@
   "mequon-thiensville school district": [
     43.2396327,
     -87.9859619
-  ],
-  "merton community school district": [
-    43.1541501,
-    -88.3695085
   ],
   "mmsd:black hawk": null,
   "mmsd:capital high": [
@@ -297,7 +291,6 @@
     43.0684477,
     -89.4944267
   ],
-  "mmsd:nuestro mundo": null,
   "mmsd:o'keeffe": [
     43.0858389,
     -89.3579845
@@ -332,6 +325,10 @@
     43.0484371,
     -89.4002258
   ],
+  "montello school district": [
+    43.7918612,
+    -89.3288187
+  ],
   "mosinee school district": [
     44.7927669,
     -89.7030748
@@ -358,8 +355,13 @@
     44.3154564,
     -89.8918206
   ],
+  "newman catholic schools": [
+    44.97248,
+    -89.6492298
+  ],
   "north wisconsin district lcms": null,
   "northern ozaukee school district": null,
+  "norway j7 school district/drought school": null,
   "oak creek-franklin joint school district": [
     42.9054721,
     -87.9265921
@@ -381,10 +383,6 @@
     42.8740009,
     -88.5928511
   ],
-  "pathways high": [
-    43.0529695,
-    -87.9153682
-  ],
   "plymouth joint school district": [
     43.7486054,
     -87.977038
@@ -397,6 +395,10 @@
   "prairie farm": [
     45.237184,
     -91.9815675
+  ],
+  "providence academy": [
+    43.8386569,
+    -91.2457452
   ],
   "randall consolidated joint district #1": null,
   "regis catholic schools": null,
@@ -411,10 +413,6 @@
   "ripon area school district": [
     43.8442406,
     -88.8387158
-  ],
-  "river valley school district": [
-    43.0298809,
-    -87.9201256
   ],
   "rural virtual academy": null,
   "sauk prairie school district": [
@@ -497,10 +495,6 @@
     43.317744,
     -88.3788508
   ],
-  "school district of hilbert": [
-    44.139411,
-    -88.1586094
-  ],
   "school district of holmen": [
     43.9632211,
     -91.2563658
@@ -529,10 +523,6 @@
     43.1790768,
     -88.1170784
   ],
-  "school district of mercer": [
-    46.165642,
-    -90.0633148
-  ],
   "school district of milton": [
     42.7753567,
     -88.9390017
@@ -557,9 +547,9 @@
     45.636623,
     -89.412075
   ],
-  "school district of shiocton": [
-    44.4420959,
-    -88.5791057
+  "school district of river falls": [
+    44.8596498,
+    -92.6255048
   ],
   "school district of the menomonie area": [
     44.9012628,
@@ -573,11 +563,6 @@
     43.1185591,
     -87.906804
   ],
-  "school district of wisconsin dells": [
-    43.6256168,
-    -89.7715646
-  ],
-  "seton school": null,
   "seymour community school district": [
     44.5429082,
     -88.312718
@@ -589,6 +574,10 @@
   "silver lake j1": [
     42.5459345,
     -88.1657846
+  ],
+  "siren school district": [
+    45.7874336,
+    -92.3819709
   ],
   "southern door county school district": [
     44.774689,
@@ -618,13 +607,9 @@
     -87.377042
   ],
   "the richardson school": null,
-  "tomorrow river school district": [
-    44.430922,
-    -89.2760799
-  ],
-  "twin lakes school district #4": [
-    42.5315239,
-    -88.2479278
+  "unified school district of antigo": [
+    45.161232,
+    -89.0933548
   ],
   "unified school district of de pere": [
     44.4467461,
