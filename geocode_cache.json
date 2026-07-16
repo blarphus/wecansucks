@@ -1,4 +1,8 @@
 {
+  "21st century preparatory school": [
+    42.728657,
+    -87.7953505
+  ],
   "adams-friendship area school district": [
     43.9653066,
     -89.8014791
@@ -6,6 +10,14 @@
   "aquinas catholic schools": [
     45.0935808,
     -87.6182613
+  ],
+  "ashwaubenon school district": [
+    44.4752606,
+    -88.060735
+  ],
+  "augusta area school district": [
+    44.6798428,
+    -91.1208384
   ],
   "bader hillel academy": null,
   "bader hillel high": [
@@ -20,21 +32,17 @@
     45.423557,
     -91.8454099
   ],
-  "belmont community school district": [
-    42.7384162,
-    -90.3341659
-  ],
   "berlin area school district": [
     43.9684264,
     -88.9466233
   ],
+  "big foot area schools": [
+    42.5510515,
+    -88.5739338
+  ],
   "birchwood schools": [
     45.6565578,
     -91.5557084
-  ],
-  "blair-taylor school district": [
-    44.2911843,
-    -91.208753
   ],
   "blessed savior catholic school": null,
   "brighton #1 school district": [
@@ -54,11 +62,19 @@
     43.5981718,
     -88.2849664
   ],
+  "cashton school district": [
+    43.7430214,
+    -90.7788501
+  ],
   "cassville school district": [
     42.7144408,
     -90.9907697
   ],
   "cedar grove-belgium area school district": null,
+  "cedarburg school district": [
+    43.2966545,
+    -87.9875348
+  ],
   "cesa 1": null,
   "cesa 10": [
     44.9168142,
@@ -70,10 +86,6 @@
   "chetek-weyerhaeuser area school district": [
     45.309305,
     -91.6619192
-  ],
-  "chippewa falls area unified school district": [
-    44.9371325,
-    -91.3932118
   ],
   "colby school district": [
     44.9099665,
@@ -88,6 +100,10 @@
     43.4230306,
     -91.1990204
   ],
+  "delavan-darien school district": [
+    42.6309356,
+    -88.6614499
+  ],
   "diocese of madison catholic schools": [
     43.0514334,
     -89.5229716
@@ -95,6 +111,14 @@
   "diocese of superior": [
     45.3103081,
     -90.1977969
+  ],
+  "divine mercy catholic school": [
+    42.9290586,
+    -87.8554529
+  ],
+  "dodgeland school district": [
+    43.4016194,
+    -88.7166629
   ],
   "dover #1 kansasville": null,
   "downtown montessori academy": [
@@ -109,10 +133,7 @@
     42.7851871,
     -88.4054374
   ],
-  "elkhorn area school district": [
-    42.6719206,
-    -88.543494
-  ],
+  "elkhart lake-glenbeulah school district": null,
   "ellsworth community school district": [
     44.732122,
     -92.4831218
@@ -121,10 +142,19 @@
     43.0227593,
     -88.1684094
   ],
+  "fall river school district": [
+    43.3873717,
+    -89.0442238
+  ],
   "fennimore community school district": [
     42.9836218,
     -90.6555931
   ],
+  "fox point-bayside school district": [
+    43.1760575,
+    -87.9116753
+  ],
+  "fundamentals llc": null,
   "geneva joint 4 - woods school": null,
   "germantown school district": [
     43.2286174,
@@ -134,10 +164,6 @@
   "granton area schools": [
     44.5872517,
     -90.4624637
-  ],
-  "hayward community schools": [
-    46.0129676,
-    -91.4848728
   ],
   "heritage christian schools": [
     43.018643,
@@ -163,14 +189,7 @@
     44.9750953,
     -92.7554671
   ],
-  "iowa-grant school district": [
-    42.9313785,
-    -90.3967571
-  ],
-  "ithaca public schools": [
-    43.3408176,
-    -90.2817921
-  ],
+  "indian community school, inc.": null,
   "johnson creek school district": [
     43.0700694,
     -88.7859681
@@ -209,8 +228,8 @@
     -88.3184394
   ],
   "luxemburg-casco school district": [
-    44.5479649,
-    -87.7054499
+    44.5492553,
+    -87.6999895
   ],
   "madison country day school": [
     43.1633642,
@@ -237,6 +256,10 @@
     43.0379584,
     -87.9558448
   ],
+  "medford area public school district": [
+    45.1391437,
+    -90.3460806
+  ],
   "menominee indian school district": [
     44.9762964,
     -88.7347165
@@ -244,6 +267,10 @@
   "mequon-thiensville school district": [
     43.2396327,
     -87.9859619
+  ],
+  "merton community school district": [
+    43.1541501,
+    -88.3695085
   ],
   "mmsd:black hawk": null,
   "mmsd:capital high": [
@@ -253,10 +280,6 @@
   "mmsd:crestwood": [
     43.0763026,
     -89.4820007
-  ],
-  "mmsd:franklin": [
-    43.0554226,
-    -89.3876581
   ],
   "mmsd:henderson": [
     43.057534,
@@ -283,21 +306,9 @@
     43.0639225,
     -89.5010366
   ],
-  "mmsd:midvale": [
-    43.0573476,
-    -89.4501056
-  ],
   "mmsd:muir": [
     43.0684477,
     -89.4944267
-  ],
-  "mmsd:o'keeffe": [
-    43.0858389,
-    -89.3579845
-  ],
-  "mmsd:orchard ridge": [
-    43.0333441,
-    -89.4746197
   ],
   "mmsd:schenk": [
     43.092265,
@@ -321,10 +332,6 @@
     -89.4271064
   ],
   "mmsd:whitehorse": null,
-  "mmsd:wright": [
-    43.0484371,
-    -89.4002258
-  ],
   "montello school district": [
     43.7918612,
     -89.3288187
@@ -374,6 +381,10 @@
     44.8747779,
     -88.1432681
   ],
+  "oconto unified school district": [
+    44.9988053,
+    -88.2480072
+  ],
   "open wings learning community": null,
   "osceola school district": [
     45.310284,
@@ -382,6 +393,10 @@
   "palmyra-eagle area school district": [
     42.8740009,
     -88.5928511
+  ],
+  "pewaukee school district": [
+    43.0846017,
+    -88.2139452
   ],
   "plymouth joint school district": [
     43.7486054,
@@ -402,10 +417,6 @@
   ],
   "randall consolidated joint district #1": null,
   "regis catholic schools": null,
-  "rice lake area school district": [
-    45.5027926,
-    -91.733423
-  ],
   "richland school district": [
     43.3662526,
     -90.4557081
@@ -431,6 +442,14 @@
     44.8046825,
     -91.4429355
   ],
+  "school district of amery": [
+    45.3125385,
+    -92.3620836
+  ],
+  "school district of arcadia": [
+    44.2527212,
+    -91.5014893
+  ],
   "school district of ashland": [
     46.2062319,
     -90.6802594
@@ -451,14 +470,6 @@
     44.7399556,
     -88.4461285
   ],
-  "school district of brown deer": [
-    43.1744352,
-    -87.972722
-  ],
-  "school district of clear lake": [
-    45.2514424,
-    -92.2702808
-  ],
   "school district of cudahy": [
     42.959738,
     -87.861471
@@ -474,10 +485,6 @@
   "school district of florence county": [
     45.8379973,
     -88.3902943
-  ],
-  "school district of gilman": [
-    45.1664338,
-    -90.8110628
   ],
   "school district of glenwood city": [
     45.0586304,
@@ -495,13 +502,17 @@
     43.317744,
     -88.3788508
   ],
-  "school district of holmen": [
-    43.9632211,
-    -91.2563658
+  "school district of hillsboro": [
+    43.6508619,
+    -90.3399082
   ],
   "school district of jefferson": [
     43.0224668,
     -88.7673031
+  ],
+  "school district of lake holcombe": [
+    45.2418035,
+    -91.099884
   ],
   "school district of lomira": [
     43.591382,
@@ -539,34 +550,35 @@
     43.6836929,
     -88.5474431
   ],
-  "school district of plum city": [
-    44.6296289,
-    -92.1925779
-  ],
   "school district of rhinelander": [
     45.636623,
     -89.412075
   ],
-  "school district of river falls": [
-    44.8596498,
-    -92.6255048
+  "school district of shiocton": [
+    44.4420959,
+    -88.5791057
+  ],
+  "school district of slinger": [
+    43.3343237,
+    -88.2850959
   ],
   "school district of the menomonie area": [
     44.9012628,
     -91.9297247
   ],
-  "school district of westfield": [
-    43.8856953,
-    -89.493266
-  ],
   "school district of whitefish bay": [
     43.1185591,
     -87.906804
+  ],
+  "school district of wisconsin dells": [
+    43.6256168,
+    -89.7715646
   ],
   "seymour community school district": [
     44.5429082,
     -88.312718
   ],
+  "shepherd's watch christian academy": null,
   "shorewood school district": [
     43.0883957,
     -87.8881302
@@ -579,18 +591,22 @@
     45.7874336,
     -92.3819709
   ],
-  "southern door county school district": [
-    44.774689,
-    -87.5246702
-  ],
   "sparta area school district": [
     43.9732475,
     -90.8516564
   ],
   "st. bruno parish school": null,
+  "st. croix central school district": [
+    44.9768064,
+    -92.4363528
+  ],
   "st. francis school district": [
     42.9744081,
     -87.8709308
+  ],
+  "st. john's lutheran school": [
+    42.7396306,
+    -87.7864198
   ],
   "st. joseph academy": [
     42.9890468,
@@ -607,16 +623,23 @@
     -87.377042
   ],
   "the richardson school": null,
+  "twin lakes school district #4": [
+    42.5315239,
+    -88.2479278
+  ],
+  "two rivers public school district": [
+    44.149206,
+    -87.5682149
+  ],
   "unified school district of antigo": [
     45.161232,
     -89.0933548
   ],
   "unified school district of de pere": [
-    44.4467461,
-    -88.067779
+    44.4460334,
+    -88.0681845
   ],
   "union grove elementary school - j1": null,
-  "walworth county lakeland school": null,
   "waterford graded school district": null,
   "waupun area school district": [
     43.633216,
@@ -652,9 +675,5 @@
   "winneconne community school district": [
     44.1109462,
     -88.7136515
-  ],
-  "wisconsin department of corrections": [
-    43.1054808,
-    -89.3387153
   ]
 }
