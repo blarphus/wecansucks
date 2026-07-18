@@ -25,10 +25,6 @@
     -91.1208384
   ],
   "bader hillel academy": null,
-  "bader hillel high": [
-    43.140365,
-    -87.9340603
-  ],
   "bangor school district": [
     43.8919819,
     -90.9891728
@@ -57,10 +53,6 @@
   "bristol school district # 1": [
     44.960916,
     -92.703225
-  ],
-  "brodhead school district": [
-    42.6197428,
-    -89.376795
   ],
   "calumet county special education": null,
   "campbellsport school district": [
@@ -97,6 +89,10 @@
     44.9099665,
     -90.3156911
   ],
+  "cornell school district": [
+    45.1671881,
+    -91.1493107
+  ],
   "corpus christi parish school": null,
   "d.c. everest area school district": [
     44.9391683,
@@ -130,10 +126,6 @@
   "downtown montessori academy": [
     42.9985182,
     -87.9038278
-  ],
-  "drummond area school district": [
-    46.3368945,
-    -91.2579668
   ],
   "east troy community school district": [
     42.7851871,
@@ -230,8 +222,8 @@
     -88.3184394
   ],
   "luxemburg-casco school district": [
-    44.548052,
-    -87.7056351
+    44.5492553,
+    -87.6999895
   ],
   "madison country day school": [
     43.1633642,
@@ -267,10 +259,6 @@
     -88.3695085
   ],
   "mmsd:black hawk": null,
-  "mmsd:capital high": [
-    43.0690022,
-    -89.439327
-  ],
   "mmsd:crestwood": [
     43.0763026,
     -89.4820007
@@ -291,7 +279,6 @@
     43.057534,
     -89.3120861
   ],
-  "mmsd:innovative high": null,
   "mmsd:kennedy": [
     43.0940072,
     -89.2973904
@@ -299,18 +286,6 @@
   "mmsd:la follette": [
     43.0641796,
     -89.3199528
-  ],
-  "mmsd:lapham": [
-    43.0854961,
-    -89.3720388
-  ],
-  "mmsd:lindbergh": [
-    43.1434361,
-    -89.3892471
-  ],
-  "mmsd:memorial": [
-    43.0639225,
-    -89.5010366
   ],
   "mmsd:midvale": [
     43.0573476,
@@ -320,11 +295,6 @@
     43.0684477,
     -89.4944267
   ],
-  "mmsd:schenk": [
-    43.092265,
-    -89.3247882
-  ],
-  "mmsd:sennett": null,
   "mmsd:sherman": [
     43.1177357,
     -89.3621885
@@ -336,14 +306,6 @@
   "mmsd:stephens": [
     43.0656506,
     -89.4802776
-  ],
-  "mmsd:west": [
-    43.0686283,
-    -89.4271064
-  ],
-  "mmsd:west high": [
-    43.0686283,
-    -89.4271064
   ],
   "mmsd:whitehorse": null,
   "mmsd:wright": [
@@ -361,10 +323,6 @@
   "mukwonago area school district": [
     42.8666803,
     -88.3334274
-  ],
-  "muskego-norway school district": [
-    42.8451651,
-    -88.1340107
   ],
   "national heritage academies": null,
   "nativity jesuit academy": null,
@@ -415,6 +373,10 @@
   "pewaukee school district": [
     43.0846017,
     -88.2139452
+  ],
+  "pittsville school district": [
+    44.4393732,
+    -90.1275138
   ],
   "plymouth joint school district": [
     43.7486054,
@@ -617,14 +579,18 @@
     45.7874336,
     -92.3819709
   ],
+  "somerset school district": [
+    45.124894,
+    -92.6730433
+  ],
   "sparta area school district": [
     43.9732475,
     -90.8516564
   ],
   "st. bruno parish school": null,
   "st. croix central school district": [
-    44.9823306,
-    -92.4486371
+    44.9768064,
+    -92.4363528
   ],
   "st. john's lutheran school": [
     42.7396306,
@@ -634,7 +600,6 @@
     42.9890468,
     -87.934382
   ],
-  "st. leonard catholic school": null,
   "st. mary parish school (hales corners)": [
     42.9488989,
     -88.0335528
@@ -644,26 +609,18 @@
     44.8341639,
     -87.377042
   ],
-  "superior school district": [
-    46.4800042,
-    -92.1829648
-  ],
   "the richardson school": null,
   "twin lakes school district #4": [
     42.5315239,
     -88.2479278
-  ],
-  "two rivers public school district": [
-    44.149206,
-    -87.5682149
   ],
   "unified school district of antigo": [
     45.161232,
     -89.0933548
   ],
   "unified school district of de pere": [
-    44.4460334,
-    -88.0681845
+    44.4467461,
+    -88.067779
   ],
   "waterford graded school district": null,
   "waterford union": [
