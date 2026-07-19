@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-18T08:57:20.388590-05:00",
+ "generated_at": "2026-07-19T09:01:26.109271-05:00",
  "weeks": 3,
  "subject_labels": {
   "english": "English / ELA",
@@ -19,6 +19,40 @@
   "high": "High school"
  },
  "jobs": [
+  {
+   "id": "269183",
+   "title": "Innovation Lab Specialist - Makerspace & Innovation",
+   "district": "Cristo Rey Jesuit High School Milwaukee",
+   "location": "Cristo Rey Jesuit High School",
+   "posted": "2026-07-19",
+   "start": "As Soon as Possible",
+   "close": "10/17/2026",
+   "url": "https://wecan.waspa.org/Vacancy/269183",
+   "source": "wecan",
+   "lat": 43.0389,
+   "lng": -87.9065,
+   "subjects": [],
+   "levels": [
+    "high"
+   ]
+  },
+  {
+   "id": "269180",
+   "title": "Elementary Classroom Teacher",
+   "district": "Catholic Diocese of Green Bay",
+   "location": "Assumption BVM Catholic School",
+   "posted": "2026-07-18",
+   "start": "8/17/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269180",
+   "source": "wecan",
+   "lat": 44.5133,
+   "lng": -88.0133,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
   {
    "id": "269177",
    "title": "Kindergarten Teacher, Marshfield, WI",
@@ -213,7 +247,7 @@
    "id": "269128",
    "title": "High School Science Teacher",
    "district": "Somerset School District",
-   "location": "HS",
+   "location": "Somerset High School",
    "posted": "2026-07-17",
    "start": "8/4/2026",
    "close": "Until filled",
@@ -2055,8 +2089,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/268781",
    "source": "wecan",
-   "lat": 44.4467461,
-   "lng": -88.067779,
+   "lat": 44.4460334,
+   "lng": -88.0681845,
    "subjects": [],
    "levels": [
     "elementary",
@@ -2886,8 +2920,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/268670",
    "source": "wecan",
-   "lat": 43.4025756,
-   "lng": -88.7162216,
+   "lat": 43.4016194,
+   "lng": -88.7166629,
    "subjects": [
     "pe_health"
    ],
@@ -6968,8 +7002,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/267949",
    "source": "wecan",
-   "lat": 44.4467461,
-   "lng": -88.067779,
+   "lat": 44.4460334,
+   "lng": -88.0681845,
    "subjects": [],
    "levels": [
     "high"
@@ -7913,8 +7947,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/267772",
    "source": "wecan",
-   "lat": 44.5492553,
-   "lng": -87.6999895,
+   "lat": 44.548052,
+   "lng": -87.7056351,
    "subjects": [
     "math"
    ],
@@ -8596,6 +8630,25 @@
    "subjects": [],
    "levels": [
     "middle"
+   ]
+  },
+  {
+   "id": "267619",
+   "title": "K-5 Reading Interventionist",
+   "district": "School District of North Fond du Lac",
+   "location": "Friendship Learning Center: School District of North Fond du Lac",
+   "posted": "2026-07-01",
+   "start": "8/10/2026",
+   "close": "7/24/2026",
+   "url": "https://wecan.waspa.org/Vacancy/267619",
+   "source": "wecan",
+   "lat": 43.812,
+   "lng": -88.483,
+   "subjects": [
+    "english"
+   ],
+   "levels": [
+    "elementary"
    ]
   },
   {
@@ -9715,23 +9768,6 @@
    "lng": -89.927346,
    "subjects": [],
    "levels": []
-  },
-  {
-   "id": "267304",
-   "title": "6th Grade Teacher",
-   "district": "Atlas Preparatory Academy",
-   "location": "Kansas Campus",
-   "posted": "2026-06-27",
-   "start": "8/20/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/267304",
-   "source": "wecan",
-   "lat": 43.0389,
-   "lng": -87.9065,
-   "subjects": [],
-   "levels": [
-    "middle"
-   ]
   },
   {
    "id": "mmsd:9387",
