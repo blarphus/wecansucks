@@ -51,7 +51,7 @@
     -88.365804
   ],
   "bristol school district # 1": [
-    44.960916,
+    44.960917,
     -92.703225
   ],
   "calumet county special education": null,
@@ -119,8 +119,8 @@
     -87.8554529
   ],
   "dodgeland school district": [
-    43.4016194,
-    -88.7166629
+    43.4025756,
+    -88.7162216
   ],
   "dover #1 kansasville": null,
   "downtown montessori academy": [
@@ -217,6 +217,10 @@
     42.571693,
     -88.4152537
   ],
+  "lena": [
+    44.9510985,
+    -88.0469998
+  ],
   "little chute area school district": [
     44.2799872,
     -88.3184394
@@ -234,10 +238,6 @@
     -87.827992
   ],
   "maple dale-indian hill school district": null,
-  "marinette school district": [
-    45.3834983,
-    -88.0409574
-  ],
   "markesan": [
     43.7073195,
     -88.9900685
@@ -490,6 +490,10 @@
     43.6508619,
     -90.3399082
   ],
+  "school district of holmen": [
+    43.9632211,
+    -91.2563658
+  ],
   "school district of jefferson": [
     43.0224668,
     -88.7673031
@@ -546,6 +550,10 @@
     43.3343237,
     -88.2850959
   ],
+  "school district of spring valley": [
+    44.8452476,
+    -92.2384167
+  ],
   "school district of the menomonie area": [
     44.9012628,
     -91.9297247
@@ -571,10 +579,6 @@
     43.0883957,
     -87.8881302
   ],
-  "silver lake j1": [
-    42.5459345,
-    -88.1657846
-  ],
   "siren school district": [
     45.7874336,
     -92.3819709
@@ -591,6 +595,10 @@
   "st. croix central school district": [
     44.9768064,
     -92.4363528
+  ],
+  "st. francis school district": [
+    42.9744081,
+    -87.8709308
   ],
   "st. john's lutheran school": [
     42.7396306,
@@ -619,8 +627,8 @@
     -89.0933548
   ],
   "unified school district of de pere": [
-    44.4460334,
-    -88.0681845
+    44.4467461,
+    -88.067779
   ],
   "waterford graded school district": null,
   "waterford union": [

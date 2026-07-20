@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-19T09:01:26.109271-05:00",
+ "generated_at": "2026-07-20T09:39:02.299199-05:00",
  "weeks": 3,
  "subject_labels": {
   "english": "English / ELA",
@@ -19,6 +19,260 @@
   "high": "High school"
  },
  "jobs": [
+  {
+   "id": "269217",
+   "title": "SEL (Social Emotional Learning) Technical Support Specialist",
+   "district": "Oshkosh Area School District",
+   "location": "District Wide - Grades 6-12",
+   "posted": "2026-07-20",
+   "start": "8/18/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269217",
+   "source": "wecan",
+   "lat": 44.0247,
+   "lng": -88.5426,
+   "subjects": [],
+   "levels": [
+    "high",
+    "middle"
+   ]
+  },
+  {
+   "id": "269216",
+   "title": "Technology Education Teacher",
+   "district": "Lena",
+   "location": "Lena Middle/High School",
+   "posted": "2026-07-20",
+   "start": "8/25/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269216",
+   "source": "wecan",
+   "lat": 44.9510985,
+   "lng": -88.0469998,
+   "subjects": [
+    "cs_tech"
+   ],
+   "levels": [
+    "high"
+   ]
+  },
+  {
+   "id": "269215",
+   "title": "Cross Categorical Teacher",
+   "district": "Oshkosh Area School District",
+   "location": "Franklin Elementary School",
+   "posted": "2026-07-20",
+   "start": "8/18/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269215",
+   "source": "wecan",
+   "lat": 44.0247,
+   "lng": -88.5426,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "269209",
+   "title": "Primary School Teacher (3rd Grade)",
+   "district": "St. Francis School District",
+   "location": "St. Francis Public School District - Willow Glen Primary School",
+   "posted": "2026-07-20",
+   "start": "8/24/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269209",
+   "source": "wecan",
+   "lat": 42.9744081,
+   "lng": -87.8709308,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "269205",
+   "title": "Elementary School Physical Education/Health Teacher",
+   "district": "Atlas Preparatory Academy",
+   "location": "Kansas Campus",
+   "posted": "2026-07-20",
+   "start": "8/20/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269205",
+   "source": "wecan",
+   "lat": 43.0389,
+   "lng": -87.9065,
+   "subjects": [
+    "pe_health"
+   ],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "269204",
+   "title": "Middle School PE Teacher",
+   "district": "Platteville School District",
+   "location": "Platteville Middle School",
+   "posted": "2026-07-20",
+   "start": "8/17/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269204",
+   "source": "wecan",
+   "lat": 42.7343,
+   "lng": -90.4785,
+   "subjects": [
+    "pe_health"
+   ],
+   "levels": [
+    "middle"
+   ]
+  },
+  {
+   "id": "269203",
+   "title": "Art Teacher / Art Therapist",
+   "district": "The Richardson School",
+   "location": "The Richardson School - Appleton",
+   "posted": "2026-07-20",
+   "start": "8/3/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269203",
+   "source": "wecan",
+   "lat": null,
+   "lng": null,
+   "subjects": [
+    "art"
+   ],
+   "levels": []
+  },
+  {
+   "id": "269200",
+   "title": "Teacher - 5th Grade - Lowell",
+   "district": "School District of Waukesha",
+   "location": "Lowell Elementary School",
+   "posted": "2026-07-20",
+   "start": "8/17/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269200",
+   "source": "wecan",
+   "lat": 43.0117,
+   "lng": -88.2315,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "269190",
+   "title": "Technology Education Teacher",
+   "district": "Fond du Lac School District",
+   "location": "Fond du Lac High School",
+   "posted": "2026-07-20",
+   "start": "8/20/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269190",
+   "source": "wecan",
+   "lat": 43.773,
+   "lng": -88.447,
+   "subjects": [
+    "cs_tech"
+   ],
+   "levels": [
+    "high"
+   ]
+  },
+  {
+   "id": "269188",
+   "title": "Holmen Middle School Special Education Teacher - Cross-Categorical",
+   "district": "School District of Holmen",
+   "location": "Holmen Middle School",
+   "posted": "2026-07-20",
+   "start": "8/11/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269188",
+   "source": "wecan",
+   "lat": 43.9632211,
+   "lng": -91.2563658,
+   "subjects": [],
+   "levels": [
+    "middle"
+   ]
+  },
+  {
+   "id": "269187",
+   "title": "English Teacher - Tenor High School - Journal Square Campus",
+   "district": "Seeds of Health, Inc.",
+   "location": "Tenor High School - Journal Square Campus",
+   "posted": "2026-07-19",
+   "start": "8/12/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269187",
+   "source": "wecan",
+   "lat": 43.0389,
+   "lng": -87.9065,
+   "subjects": [
+    "english"
+   ],
+   "levels": [
+    "high"
+   ]
+  },
+  {
+   "id": "269186",
+   "title": "Long-Term 6th Grade ELA Substitute Teacher",
+   "district": "Holy Hill Area School District",
+   "location": "Richfield Middle School",
+   "posted": "2026-07-19",
+   "start": "8/19/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269186",
+   "source": "wecan",
+   "lat": 43.2444487,
+   "lng": -88.32704,
+   "subjects": [
+    "english"
+   ],
+   "levels": [
+    "middle"
+   ]
+  },
+  {
+   "id": "269185",
+   "title": "Special Education Teacher - Elementary",
+   "district": "Holy Hill Area School District",
+   "location": "Friess Lake Elementary School",
+   "posted": "2026-07-19",
+   "start": "8/19/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269185",
+   "source": "wecan",
+   "lat": 43.2444487,
+   "lng": -88.32704,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "269184",
+   "title": "26-27 Cross Categorical Teacher (Bilingual Preferred)",
+   "district": "Racine Unified School District",
+   "location": "Mitchell K-8 Campus",
+   "posted": "2026-07-19",
+   "start": "8/25/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269184",
+   "source": "wecan",
+   "lat": 42.7261,
+   "lng": -87.7829,
+   "subjects": [
+    "esl"
+   ],
+   "levels": [
+    "elementary",
+    "middle"
+   ]
+  },
   {
    "id": "269183",
    "title": "Innovation Lab Specialist - Makerspace & Innovation",
@@ -48,6 +302,23 @@
    "source": "wecan",
    "lat": 44.5133,
    "lng": -88.0133,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "269178",
+   "title": "4K Teacher",
+   "district": "Waunakee Community School District",
+   "location": "The Goddard School of Waunakee",
+   "posted": "2026-07-17",
+   "start": "8/24/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269178",
+   "source": "wecan",
+   "lat": 43.1919,
+   "lng": -89.4554,
    "subjects": [],
    "levels": [
     "elementary"
@@ -2089,8 +2360,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/268781",
    "source": "wecan",
-   "lat": 44.4460334,
-   "lng": -88.0681845,
+   "lat": 44.4467461,
+   "lng": -88.067779,
    "subjects": [],
    "levels": [
     "elementary",
@@ -2911,6 +3182,25 @@
    ]
   },
   {
+   "id": "268671",
+   "title": "Personal Financial Literacy Teacher",
+   "district": "School District of Greenfield",
+   "location": "Greenfield High School",
+   "posted": "2026-07-14",
+   "start": "8/11/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/268671",
+   "source": "wecan",
+   "lat": 42.9596903,
+   "lng": -87.98132,
+   "subjects": [
+    "english"
+   ],
+   "levels": [
+    "high"
+   ]
+  },
+  {
    "id": "268670",
    "title": "Elementary Physical Education Teacher",
    "district": "Dodgeland School District",
@@ -2920,8 +3210,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/268670",
    "source": "wecan",
-   "lat": 43.4016194,
-   "lng": -88.7166629,
+   "lat": 43.4025756,
+   "lng": -88.7162216,
    "subjects": [
     "pe_health"
    ],
@@ -3446,23 +3736,6 @@
    "subjects": [],
    "levels": [
     "elementary"
-   ]
-  },
-  {
-   "id": "268574",
-   "title": "Special Education Teacher",
-   "district": "Elmbrook Schools",
-   "location": "Brookfield Central High School",
-   "posted": "2026-07-13",
-   "start": "8/24/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/268574",
-   "source": "wecan",
-   "lat": 43.0227593,
-   "lng": -88.1684094,
-   "subjects": [],
-   "levels": [
-    "high"
    ]
   },
   {
@@ -4881,6 +5154,21 @@
    ]
   },
   {
+   "id": "268309",
+   "title": "Special Education Teacher & Interventionist (1.0 FTE)",
+   "district": "School District of Spring Valley",
+   "location": "School District of Spring Valley",
+   "posted": "2026-07-09",
+   "start": "8/17/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/268309",
+   "source": "wecan",
+   "lat": 44.8452476,
+   "lng": -92.2384167,
+   "subjects": [],
+   "levels": []
+  },
+  {
    "id": "268307",
    "title": "Technology Education Teacher",
    "district": "School District of Altoona",
@@ -4962,7 +5250,7 @@
    "close": "7/23/2026",
    "url": "https://wecan.waspa.org/Vacancy/268292",
    "source": "wecan",
-   "lat": 44.960916,
+   "lat": 44.960917,
    "lng": -92.703225,
    "subjects": [
     "art"
@@ -5826,21 +6114,6 @@
     "elementary",
     "middle"
    ]
-  },
-  {
-   "id": "268141",
-   "title": "5K Teacher",
-   "district": "East Troy Community School District",
-   "location": "Little Prairie Primary",
-   "posted": "2026-07-08",
-   "start": "8/17/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/268141",
-   "source": "wecan",
-   "lat": 42.7851871,
-   "lng": -88.4054374,
-   "subjects": [],
-   "levels": []
   },
   {
    "id": "268138",
@@ -7002,27 +7275,12 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/267949",
    "source": "wecan",
-   "lat": 44.4460334,
-   "lng": -88.0681845,
+   "lat": 44.4467461,
+   "lng": -88.067779,
    "subjects": [],
    "levels": [
     "high"
    ]
-  },
-  {
-   "id": "267948",
-   "title": "School Counselor",
-   "district": "School District of Milton",
-   "location": "Northside Intermediate",
-   "posted": "2026-07-06",
-   "start": "8/19/2026",
-   "close": "7/19/2026",
-   "url": "https://wecan.waspa.org/Vacancy/267948",
-   "source": "wecan",
-   "lat": 42.7753567,
-   "lng": -88.9390017,
-   "subjects": [],
-   "levels": []
   },
   {
    "id": "267947",
@@ -7224,7 +7482,7 @@
   },
   {
    "id": "267904",
-   "title": "Special Education Teacher Vacancy",
+   "title": "Special Education Teacher - Middle School",
    "district": "Holy Hill Area School District",
    "location": "Richfield Middle School",
    "posted": "2026-07-06",
@@ -8504,23 +8762,6 @@
    ]
   },
   {
-   "id": "267641",
-   "title": "2nd Grade Teacher",
-   "district": "Silver Lake J1",
-   "location": "Riverview Elementary",
-   "posted": "2026-07-01",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/267641",
-   "source": "wecan",
-   "lat": 42.5459345,
-   "lng": -88.1657846,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
    "id": "267640",
    "title": "Reading Specialist & Interventionist (K-6)",
    "district": "School District of Niagara",
@@ -9386,25 +9627,6 @@
    ]
   },
   {
-   "id": "267390",
-   "title": "High School Science Teacher",
-   "district": "Gillett School District",
-   "location": "Gillett Secondary School",
-   "posted": "2026-06-29",
-   "start": "8/18/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/267390",
-   "source": "wecan",
-   "lat": 44.891,
-   "lng": -88.307,
-   "subjects": [
-    "science"
-   ],
-   "levels": [
-    "high"
-   ]
-  },
-  {
    "id": "267379",
    "title": "Kindergarten Teacher",
    "district": "Chetek-Weyerhaeuser Area School District",
@@ -9674,23 +9896,6 @@
    ]
   },
   {
-   "id": "267316",
-   "title": "Special Education Teacher (Intellectual Disabilities)",
-   "district": "Marinette School District",
-   "location": "Marinette High School",
-   "posted": "2026-06-29",
-   "start": "8/19/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/267316",
-   "source": "wecan",
-   "lat": 45.3834983,
-   "lng": -88.0409574,
-   "subjects": [],
-   "levels": [
-    "high"
-   ]
-  },
-  {
    "id": "267314",
    "title": "SEL/Behavior Instructor",
    "district": "De Soto Area School District",
@@ -9752,21 +9957,6 @@
    "subjects": [
     "social"
    ],
-   "levels": []
-  },
-  {
-   "id": "267305",
-   "title": "Agriculutral Education Teacher / FFA Advisor",
-   "district": "School District of Black Hawk",
-   "location": "Black Hawk H.S.",
-   "posted": "2026-06-28",
-   "start": "8/24/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/267305",
-   "source": "wecan",
-   "lat": 43.269156,
-   "lng": -89.927346,
-   "subjects": [],
    "levels": []
   },
   {
