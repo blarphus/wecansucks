@@ -24,7 +24,6 @@
     44.6798428,
     -91.1208384
   ],
-  "bader hillel academy": null,
   "bangor school district": [
     43.8919819,
     -90.9891728
@@ -47,14 +46,18 @@
   ],
   "blessed savior catholic school": null,
   "brighton #1 school district": [
-    44.243206,
-    -88.365804
+    44.243205,
+    -88.365803
   ],
   "bristol school district # 1": [
-    44.960917,
+    44.960916,
     -92.703225
   ],
   "calumet county special education": null,
+  "cambria-friesland school district": [
+    43.5414362,
+    -89.1020736
+  ],
   "campbellsport school district": [
     43.5981718,
     -88.2849664
@@ -81,9 +84,9 @@
   "cesa 5": null,
   "cesa 6": null,
   "cesa 7": null,
-  "chetek-weyerhaeuser area school district": [
-    45.309305,
-    -91.6619192
+  "chippewa falls area unified school district": [
+    44.9371325,
+    -91.3932118
   ],
   "colby school district": [
     44.9099665,
@@ -94,10 +97,6 @@
     -91.1493107
   ],
   "corpus christi parish school": null,
-  "d.c. everest area school district": [
-    44.9391683,
-    -89.6397653
-  ],
   "de soto area school district": [
     43.4230306,
     -91.1990204
@@ -132,6 +131,10 @@
     -88.4054374
   ],
   "elkhart lake-glenbeulah school district": null,
+  "elkhorn area school district": [
+    42.6719206,
+    -88.543494
+  ],
   "elmbrook schools": [
     43.0227593,
     -88.1684094
@@ -175,19 +178,11 @@
     44.3350374,
     -88.639343
   ],
-  "howard-suamico school district": [
-    44.5842757,
-    -88.0253874
-  ],
   "hudson school district": [
     44.9750953,
     -92.7554671
   ],
   "indian community school, inc.": null,
-  "johnson creek school district": [
-    43.0700694,
-    -88.7859681
-  ],
   "kaukauna area school district": [
     44.2780432,
     -88.2720503
@@ -226,8 +221,8 @@
     -88.3184394
   ],
   "luxemburg-casco school district": [
-    44.548052,
-    -87.7056351
+    44.5492553,
+    -87.6999895
   ],
   "madison country day school": [
     43.1633642,
@@ -325,7 +320,6 @@
     -88.3334274
   ],
   "national heritage academies": null,
-  "nativity jesuit academy": null,
   "necedah area school district": [
     44.0254284,
     -90.07213
@@ -345,6 +339,7 @@
   "north wisconsin district lcms": null,
   "northern ozaukee school district": null,
   "norway j7 school district/drought school": null,
+  "notre dame de la baie academy": null,
   "oak creek-franklin joint school district": [
     42.9054721,
     -87.9265921
@@ -377,6 +372,10 @@
   "pittsville school district": [
     44.4393732,
     -90.1275138
+  ],
+  "pius xi catholic high school": [
+    43.03192,
+    -88.0086016
   ],
   "plymouth joint school district": [
     43.7486054,
@@ -413,10 +412,6 @@
   "sauk prairie school district": [
     43.2981475,
     -89.7565455
-  ],
-  "school district of abbotsford": [
-    44.9471087,
-    -90.3194786
   ],
   "school district of alma center": [
     44.4371047,
@@ -458,10 +453,6 @@
     43.1744352,
     -87.972722
   ],
-  "school district of cudahy": [
-    42.959738,
-    -87.861471
-  ],
   "school district of denmark": [
     44.3479362,
     -87.8269868
@@ -470,17 +461,9 @@
     45.518201,
     -91.1121797
   ],
-  "school district of glenwood city": [
-    45.0586304,
-    -92.1723345
-  ],
   "school district of greenfield": [
     42.9596903,
     -87.98132
-  ],
-  "school district of greenwood": [
-    44.7661835,
-    -90.5982667
   ],
   "school district of hartford j1": [
     43.317744,
@@ -513,10 +496,6 @@
   "school district of maple": [
     46.5896621,
     -91.7207434
-  ],
-  "school district of mauston": [
-    43.7968543,
-    -90.0756767
   ],
   "school district of menomonee falls": [
     43.1790768,
@@ -648,6 +627,10 @@
     -88.0079271
   ],
   "wauzeka-steuben school district": null,
+  "webster school district": [
+    45.8774768,
+    -92.3668049
+  ],
   "wecan demo/testing account": null,
   "west bend school district": [
     43.4252776,
@@ -657,10 +640,6 @@
   "white lake school district": [
     45.157193,
     -88.764551
-  ],
-  "whitewater unified school district": [
-    42.8283755,
-    -88.7512805
   ],
   "whitnall school district": [
     42.9347867,
