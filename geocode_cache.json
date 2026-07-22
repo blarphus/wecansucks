@@ -46,14 +46,13 @@
   ],
   "blessed savior catholic school": null,
   "brighton #1 school district": [
-    44.243205,
-    -88.365803
+    44.243206,
+    -88.365804
   ],
   "bristol school district # 1": [
     44.960916,
     -92.703225
   ],
-  "calumet county special education": null,
   "cambria-friesland school district": [
     43.5414362,
     -89.1020736
@@ -97,6 +96,14 @@
     -91.1493107
   ],
   "corpus christi parish school": null,
+  "cumberland school district": [
+    45.5332856,
+    -92.0214764
+  ],
+  "d.c. everest area school district": [
+    44.9391683,
+    -89.6397653
+  ],
   "de soto area school district": [
     43.4230306,
     -91.1990204
@@ -109,17 +116,13 @@
     43.0514334,
     -89.5229716
   ],
-  "diocese of superior": [
-    45.3103081,
-    -90.1977969
-  ],
   "divine mercy catholic school": [
     42.9290586,
     -87.8554529
   ],
   "dodgeland school district": [
-    43.4025756,
-    -88.7162216
+    43.4016194,
+    -88.7166629
   ],
   "dover #1 kansasville": null,
   "downtown montessori academy": [
@@ -138,6 +141,10 @@
   "elmbrook schools": [
     43.0227593,
     -88.1684094
+  ],
+  "evansville community school district": [
+    42.7803486,
+    -89.2992249
   ],
   "fall river school district": [
     43.3873717,
@@ -158,6 +165,10 @@
     43.2286174,
     -88.1103691
   ],
+  "grantsburg school district": [
+    45.7789661,
+    -92.6824002
+  ],
   "hamilton school district": [
     43.9222491,
     -91.1060036
@@ -177,6 +188,10 @@
   "hortonville area school district": [
     44.3350374,
     -88.639343
+  ],
+  "howard-suamico school district": [
+    44.5842757,
+    -88.0253874
   ],
   "hudson school district": [
     44.9750953,
@@ -203,6 +218,10 @@
     45.9702769,
     -89.8928015
   ],
+  "lad lake": [
+    43.0144033,
+    -88.4506222
+  ],
   "lake country classical academy": null,
   "lake country school district": [
     43.1029333,
@@ -221,8 +240,8 @@
     -88.3184394
   ],
   "luxemburg-casco school district": [
-    44.5492553,
-    -87.6999895
+    44.548052,
+    -87.7056351
   ],
   "madison country day school": [
     43.1633642,
@@ -233,6 +252,10 @@
     -87.827992
   ],
   "maple dale-indian hill school district": null,
+  "marinette school district": [
+    45.3834983,
+    -88.0409574
+  ],
   "markesan": [
     43.7073195,
     -88.9900685
@@ -332,6 +355,10 @@
     44.3154564,
     -89.8918206
   ],
+  "new glarus school district": [
+    42.8144683,
+    -89.6339362
+  ],
   "newman catholic schools": [
     44.97248,
     -89.6492298
@@ -357,10 +384,6 @@
     -88.2480072
   ],
   "open wings learning community": null,
-  "osceola school district": [
-    45.310284,
-    -92.6814452
-  ],
   "palmyra-eagle area school district": [
     42.8740009,
     -88.5928511
@@ -368,10 +391,6 @@
   "pewaukee school district": [
     43.0846017,
     -88.2139452
-  ],
-  "pittsville school district": [
-    44.4393732,
-    -90.1275138
   ],
   "pius xi catholic high school": [
     43.03192,
@@ -456,6 +475,10 @@
   "school district of denmark": [
     44.3479362,
     -87.8269868
+  ],
+  "school district of edgerton": [
+    42.8334758,
+    -89.0693988
   ],
   "school district of flambeau": [
     45.518201,
@@ -545,6 +568,10 @@
     43.6256168,
     -89.7715646
   ],
+  "seton catholic schools": [
+    43.9694465,
+    -91.2614797
+  ],
   "seymour community school district": [
     44.5429082,
     -88.312718
@@ -565,6 +592,10 @@
   "somerset school district": [
     45.124894,
     -92.6730433
+  ],
+  "southern door county school district": [
+    44.774689,
+    -87.5246702
   ],
   "sparta area school district": [
     43.9732475,
@@ -596,18 +627,26 @@
     44.8341639,
     -87.377042
   ],
+  "superior school district": [
+    46.4800042,
+    -92.1829648
+  ],
   "the richardson school": null,
   "twin lakes school district #4": [
     42.5315239,
     -88.2479278
+  ],
+  "two rivers public school district": [
+    44.149206,
+    -87.5682149
   ],
   "unified school district of antigo": [
     45.161232,
     -89.0933548
   ],
   "unified school district of de pere": [
-    44.4467461,
-    -88.067779
+    44.4460334,
+    -88.0681845
   ],
   "waterford graded school district": null,
   "waterford union": [
@@ -644,9 +683,5 @@
   "whitnall school district": [
     42.9347867,
     -88.0384117
-  ],
-  "winneconne community school district": [
-    44.1109462,
-    -88.7136515
   ]
 }
