@@ -40,18 +40,10 @@
     43.9684264,
     -88.9466233
   ],
-  "big foot area schools": [
-    42.5510515,
-    -88.5739338
-  ],
   "blessed savior catholic school": null,
   "brighton #1 school district": [
     44.243205,
     -88.365803
-  ],
-  "cambria-friesland school district": [
-    43.5414362,
-    -89.1020736
   ],
   "campbellsport school district": [
     43.5981718,
@@ -67,13 +59,13 @@
     -87.9875348
   ],
   "cesa 1": null,
-  "cesa 10": [
-    44.9168142,
-    -91.3971449
-  ],
   "cesa 2": null,
   "cesa 5": null,
   "cesa 6": null,
+  "chetek-weyerhaeuser area school district": [
+    45.309305,
+    -91.6619192
+  ],
   "chippewa falls area unified school district": [
     44.9371325,
     -91.3932118
@@ -113,8 +105,8 @@
     -87.8554529
   ],
   "dodgeland school district": [
-    43.4025756,
-    -88.7162216
+    43.4016194,
+    -88.7166629
   ],
   "dover #1 kansasville": null,
   "east troy community school district": [
@@ -153,7 +145,6 @@
   ],
   "fundamentals llc": null,
   "genesee lake school": null,
-  "geneva joint 4 - woods school": null,
   "germantown school district": [
     43.2286174,
     -88.1103691
@@ -190,6 +181,10 @@
     44.9750953,
     -92.7554671
   ],
+  "independence public schools": [
+    44.35691,
+    -91.4206949
+  ],
   "indian community school, inc.": null,
   "kewaunee school district": [
     44.521282,
@@ -225,8 +220,8 @@
     -88.3184394
   ],
   "luxemburg-casco school district": [
-    44.5492553,
-    -87.6999895
+    44.548052,
+    -87.7056351
   ],
   "madison country day school": [
     43.1633642,
@@ -260,6 +255,10 @@
   "menominee tribal school": [
     44.978897,
     -88.833996
+  ],
+  "merrill area public schools": [
+    45.180522,
+    -89.683459
   ],
   "merton community school district": [
     43.1541501,
@@ -322,14 +321,6 @@
     43.1177357,
     -89.3621885
   ],
-  "mmsd:shorewood": [
-    43.079418,
-    -89.4423102
-  ],
-  "mmsd:stephens": [
-    43.0656506,
-    -89.4802776
-  ],
   "mmsd:toki": [
     43.0333206,
     -89.4758642
@@ -372,6 +363,7 @@
     44.97248,
     -89.6492298
   ],
+  "north shore catholic schools": null,
   "north wisconsin district lcms": null,
   "northern ozaukee school district": null,
   "norway j7 school district/drought school": null,
@@ -445,13 +437,9 @@
     43.2981475,
     -89.7565455
   ],
-  "school district of alma center": [
-    44.4371047,
-    -90.9126506
-  ],
   "school district of altoona": [
-    44.8046825,
-    -91.4429355
+    44.8064265,
+    -91.4338323
   ],
   "school district of amery": [
     45.3125385,
@@ -565,6 +553,10 @@
     45.636623,
     -89.412075
   ],
+  "school district of river falls": [
+    44.8596498,
+    -92.6255048
+  ],
   "school district of shiocton": [
     44.4420959,
     -88.5791057
@@ -581,13 +573,13 @@
     44.9012628,
     -91.9297247
   ],
+  "school district of west salem": [
+    43.8980198,
+    -91.0813561
+  ],
   "school district of whitefish bay": [
     43.1185591,
     -87.906804
-  ],
-  "school district of wisconsin dells": [
-    43.6256168,
-    -89.7715646
   ],
   "seton catholic schools": [
     43.9694465,
@@ -619,16 +611,17 @@
     -87.5246702
   ],
   "southwestern wi community school district": [
-    46.3112129,
-    -91.3100894
+    46.2002691,
+    -91.3231565
   ],
   "sparta area school district": [
     43.9732475,
     -90.8516564
   ],
+  "st. bruno parish school": null,
   "st. croix central school district": [
-    44.9768064,
-    -92.4363528
+    44.9823306,
+    -92.4486371
   ],
   "st. francis school district": [
     42.9744081,
@@ -674,8 +667,8 @@
     -89.0933548
   ],
   "unified school district of de pere": [
-    44.4460334,
-    -88.0681845
+    44.4467461,
+    -88.067779
   ],
   "unity school district": [
     44.8506143,
