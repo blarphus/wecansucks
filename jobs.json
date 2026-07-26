@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-25T09:10:15.546572-05:00",
+ "generated_at": "2026-07-26T09:09:14.700335-05:00",
  "weeks": 3,
  "subject_labels": {
   "english": "English / ELA",
@@ -19,6 +19,60 @@
   "high": "High school"
  },
  "jobs": [
+  {
+   "id": "269847",
+   "title": "3 year old kindergarten",
+   "district": "Catholic Diocese of Green Bay",
+   "location": "Saint Edward Catholic School",
+   "posted": "2026-07-25",
+   "start": "8/17/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269847",
+   "source": "wecan",
+   "lat": 44.5133,
+   "lng": -88.0133,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "269846",
+   "title": "Full Time K-8 School Counselor",
+   "district": "Richmond School",
+   "location": "Richmond School District- Sussex",
+   "posted": "2026-07-25",
+   "start": "8/18/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269846",
+   "source": "wecan",
+   "lat": 43.1203313,
+   "lng": -88.2746601,
+   "subjects": [],
+   "levels": [
+    "elementary",
+    "middle"
+   ]
+  },
+  {
+   "id": "269844",
+   "title": "Middle School English Teacher",
+   "district": "Prentice School District",
+   "location": "Prentice School",
+   "posted": "2026-07-25",
+   "start": "8/20/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269844",
+   "source": "wecan",
+   "lat": 45.5459408,
+   "lng": -90.2875802,
+   "subjects": [
+    "english"
+   ],
+   "levels": [
+    "middle"
+   ]
+  },
   {
    "id": "269843",
    "title": "8th Grade ELA Teacher",
@@ -966,8 +1020,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/269656",
    "source": "wecan",
-   "lat": 44.548052,
-   "lng": -87.7056351,
+   "lat": 44.5492553,
+   "lng": -87.6999895,
    "subjects": [
     "social"
    ],
@@ -1407,8 +1461,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/269567",
    "source": "wecan",
-   "lat": 44.548052,
-   "lng": -87.7056351,
+   "lat": 44.5492553,
+   "lng": -87.6999895,
    "subjects": [
     "math"
    ],
@@ -2251,7 +2305,7 @@
    "location": "Evansville High School",
    "posted": "2026-07-21",
    "start": "8/19/2026",
-   "close": "7/31/2026",
+   "close": "7/30/2026",
    "url": "https://wecan.waspa.org/Vacancy/269376",
    "source": "wecan",
    "lat": 42.7803486,
@@ -3781,8 +3835,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/269078",
    "source": "wecan",
-   "lat": 44.243205,
-   "lng": -88.365803,
+   "lat": 44.243206,
+   "lng": -88.365804,
    "subjects": [
     "art"
    ],
@@ -5099,8 +5153,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/268793",
    "source": "wecan",
-   "lat": 44.9823306,
-   "lng": -92.4486371,
+   "lat": 44.9768064,
+   "lng": -92.4363528,
    "subjects": [
     "esl"
    ],
@@ -5429,23 +5483,6 @@
    ],
    "levels": [
     "middle"
-   ]
-  },
-  {
-   "id": "268732",
-   "title": "4th and 5th grade teacher",
-   "district": "Catholic Diocese of Green Bay",
-   "location": "Saint Edward Catholic School",
-   "posted": "2026-07-14",
-   "start": "8/17/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/268732",
-   "source": "wecan",
-   "lat": 44.5133,
-   "lng": -88.0133,
-   "subjects": [],
-   "levels": [
-    "elementary"
    ]
   },
   {
@@ -5814,8 +5851,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/268670",
    "source": "wecan",
-   "lat": 43.4016194,
-   "lng": -88.7166629,
+   "lat": 43.4025756,
+   "lng": -88.7162216,
    "subjects": [
     "pe_health"
    ],
@@ -7572,8 +7609,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/268307",
    "source": "wecan",
-   "lat": 44.8064265,
-   "lng": -91.4338323,
+   "lat": 44.8046825,
+   "lng": -91.4429355,
    "subjects": [
     "cs_tech"
    ],
@@ -9299,8 +9336,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/267949",
    "source": "wecan",
-   "lat": 44.4467461,
-   "lng": -88.067779,
+   "lat": 44.4460334,
+   "lng": -88.0681845,
    "subjects": [],
    "levels": [
     "high"
