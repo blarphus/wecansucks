@@ -36,6 +36,7 @@
     45.423557,
     -91.8454099
   ],
+  "beecher-dunbar-pembine school district": null,
   "berlin area school district": [
     43.9684264,
     -88.9466233
@@ -44,6 +45,10 @@
   "brighton #1 school district": [
     44.243206,
     -88.365804
+  ],
+  "cambria-friesland school district": [
+    43.5414362,
+    -89.1020736
   ],
   "campbellsport school district": [
     43.5981718,
@@ -186,6 +191,10 @@
     -91.4206949
   ],
   "indian community school, inc.": null,
+  "kaukauna area school district": [
+    44.2780432,
+    -88.2720503
+  ],
   "kewaunee school district": [
     44.521282,
     -87.6301086
@@ -220,8 +229,8 @@
     -88.3184394
   ],
   "luxemburg-casco school district": [
-    44.5492553,
-    -87.6999895
+    44.548052,
+    -87.7056351
   ],
   "madison country day school": [
     43.1633642,
@@ -446,8 +455,8 @@
     -89.7565455
   ],
   "school district of altoona": [
-    44.8046825,
-    -91.4429355
+    44.8064265,
+    -91.4338323
   ],
   "school district of amery": [
     45.3125385,
@@ -480,6 +489,10 @@
   "school district of brown deer": [
     43.1744352,
     -87.972722
+  ],
+  "school district of cuba city": [
+    42.6054551,
+    -90.4307684
   ],
   "school district of cudahy": [
     42.959738,
@@ -675,8 +688,8 @@
     -89.0933548
   ],
   "unified school district of de pere": [
-    44.4460334,
-    -88.0681845
+    44.4467461,
+    -88.067779
   ],
   "unity school district": [
     44.8506143,
