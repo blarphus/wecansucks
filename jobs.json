@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-27T10:24:57.926370-05:00",
+ "generated_at": "2026-07-28T09:59:39.639165-05:00",
  "weeks": 3,
  "subject_labels": {
   "english": "English / ELA",
@@ -20,6 +20,828 @@
  },
  "jobs": [
   {
+   "id": "270036",
+   "title": "Elementary Teacher - 3rd Grade",
+   "district": "Columbus School District",
+   "location": "Columbus Elementary School",
+   "posted": "2026-07-28",
+   "start": "8/18/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/270036",
+   "source": "wecan",
+   "lat": 43.338,
+   "lng": -89.0153,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "270035",
+   "title": "Science Teacher (Chemistry preferred)",
+   "district": "Beaver Dam Unified School District",
+   "location": "High School (Grades 9-12)",
+   "posted": "2026-07-28",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/270035",
+   "source": "wecan",
+   "lat": 43.4578,
+   "lng": -88.8371,
+   "subjects": [
+    "science"
+   ],
+   "levels": [
+    "high"
+   ]
+  },
+  {
+   "id": "270034",
+   "title": "Music Teacher",
+   "district": "Diocese of Madison Catholic Schools",
+   "location": "Blessed Sacrament School",
+   "posted": "2026-07-28",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/270034",
+   "source": "wecan",
+   "lat": 43.0514334,
+   "lng": -89.5229716,
+   "subjects": [
+    "music"
+   ],
+   "levels": []
+  },
+  {
+   "id": "270032",
+   "title": "Preschool Teacher",
+   "district": "Diocese of Superior",
+   "location": "Cathedral School",
+   "posted": "2026-07-28",
+   "start": "8/17/2026",
+   "close": "8/1/2026",
+   "url": "https://wecan.waspa.org/Vacancy/270032",
+   "source": "wecan",
+   "lat": 45.3103081,
+   "lng": -90.1977969,
+   "subjects": [],
+   "levels": []
+  },
+  {
+   "id": "270025",
+   "title": "Grade 4 Teacher",
+   "district": "Green Bay Area Public School District",
+   "location": "Starr Elementary School",
+   "posted": "2026-07-28",
+   "start": "8/24/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/270025",
+   "source": "wecan",
+   "lat": 44.5133,
+   "lng": -88.0133,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "270024",
+   "title": "Cross Categorical Teacher",
+   "district": "Sun Prairie Area School District",
+   "location": "Eastside Elementary",
+   "posted": "2026-07-28",
+   "start": "8/17/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/270024",
+   "source": "wecan",
+   "lat": 43.1836,
+   "lng": -89.2137,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "270023",
+   "title": "Cross Categorical Teacher",
+   "district": "Sun Prairie Area School District",
+   "location": "Creekside Elementary",
+   "posted": "2026-07-28",
+   "start": "8/17/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/270023",
+   "source": "wecan",
+   "lat": 43.1836,
+   "lng": -89.2137,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "270021",
+   "title": "26/27 Grade 6 Academy Seminar (60%), Grade 7 Academy Survey (60%) Teacher",
+   "district": "Racine Unified School District",
+   "location": "Schulte K-8 Campus",
+   "posted": "2026-07-28",
+   "start": "8/25/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/270021",
+   "source": "wecan",
+   "lat": 42.7261,
+   "lng": -87.7829,
+   "subjects": [],
+   "levels": [
+    "elementary",
+    "middle"
+   ]
+  },
+  {
+   "id": "270018",
+   "title": "Middle School Math Teacher",
+   "district": "Darlington Community School District",
+   "location": "Darlington Elementary Middle School",
+   "posted": "2026-07-28",
+   "start": "8/24/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/270018",
+   "source": "wecan",
+   "lat": 42.6802288,
+   "lng": -90.1178079,
+   "subjects": [
+    "math"
+   ],
+   "levels": [
+    "elementary",
+    "middle"
+   ]
+  },
+  {
+   "id": "270017",
+   "title": "Cross Categorical Special Education Teacher - North Woods International School",
+   "district": "School District of La Crosse",
+   "location": "North Woods International School",
+   "posted": "2026-07-28",
+   "start": "8/11/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/270017",
+   "source": "wecan",
+   "lat": 43.8014,
+   "lng": -91.2396,
+   "subjects": [],
+   "levels": []
+  },
+  {
+   "id": "270016",
+   "title": "Long Term Substitute Pre-K",
+   "district": "Siren School District",
+   "location": "Siren Elementary School",
+   "posted": "2026-07-28",
+   "start": "8/20/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/270016",
+   "source": "wecan",
+   "lat": 45.7874336,
+   "lng": -92.3819709,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "270015",
+   "title": "Cross-Categorical Special Education Teacher (6-8)",
+   "district": "Wausau School District",
+   "location": "John Muir Middle School",
+   "posted": "2026-07-28",
+   "start": "8/24/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/270015",
+   "source": "wecan",
+   "lat": 44.9591,
+   "lng": -89.6301,
+   "subjects": [],
+   "levels": [
+    "middle"
+   ]
+  },
+  {
+   "id": "270010",
+   "title": "Montessori 1-3 Teacher",
+   "district": "Birchwood Schools",
+   "location": "Birchwood Charter School",
+   "posted": "2026-07-28",
+   "start": "8/24/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/270010",
+   "source": "wecan",
+   "lat": 45.6565578,
+   "lng": -91.5557084,
+   "subjects": [],
+   "levels": []
+  },
+  {
+   "id": "270003",
+   "title": "Teacher - 2nd Grade (Franklin Elementary School)",
+   "district": "West Allis-West Milwaukee School District",
+   "location": "Franklin Elementary",
+   "posted": "2026-07-28",
+   "start": "8/25/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/270003",
+   "source": "wecan",
+   "lat": 43.0389,
+   "lng": -87.9065,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "270002",
+   "title": "Middle School Math Teacher",
+   "district": "Diocese of La Crosse",
+   "location": "Columbus Catholic Schools \u2013 Marshfield",
+   "posted": "2026-07-28",
+   "start": "8/17/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/270002",
+   "source": "wecan",
+   "lat": 43.8014,
+   "lng": -91.2396,
+   "subjects": [
+    "math"
+   ],
+   "levels": [
+    "middle"
+   ]
+  },
+  {
+   "id": "270001",
+   "title": "Middle School Spanish",
+   "district": "Lake Country School District",
+   "location": "Lake Country School",
+   "posted": "2026-07-28",
+   "start": "8/24/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/270001",
+   "source": "wecan",
+   "lat": 43.1029333,
+   "lng": -88.354607,
+   "subjects": [
+    "world_lang"
+   ],
+   "levels": [
+    "middle"
+   ]
+  },
+  {
+   "id": "269991",
+   "title": "Learning Specialist (Special Education Teacher)",
+   "district": "Waupun Area School District",
+   "location": "Meadow View Primary",
+   "posted": "2026-07-28",
+   "start": "8/4/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269991",
+   "source": "wecan",
+   "lat": 43.633216,
+   "lng": -88.7296352,
+   "subjects": [],
+   "levels": []
+  },
+  {
+   "id": "269987",
+   "title": "26-27 Librarian (Library Media Specialist)",
+   "district": "Racine Unified School District",
+   "location": "Jerstad Agerholm K-8 Campus 50% / Gilmore Fine Arts K-8 Campus 50%",
+   "posted": "2026-07-28",
+   "start": "8/25/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269987",
+   "source": "wecan",
+   "lat": 42.7261,
+   "lng": -87.7829,
+   "subjects": [
+    "art"
+   ],
+   "levels": [
+    "elementary",
+    "middle"
+   ]
+  },
+  {
+   "id": "269984",
+   "title": "26-27 Cross Categorical Teacher / TPA High School",
+   "district": "Racine Unified School District",
+   "location": "Racine Alternative Learning",
+   "posted": "2026-07-28",
+   "start": "8/25/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269984",
+   "source": "wecan",
+   "lat": 42.7261,
+   "lng": -87.7829,
+   "subjects": [],
+   "levels": [
+    "high"
+   ]
+  },
+  {
+   "id": "269981",
+   "title": "FT High School Science Teacher (work from home)",
+   "district": "McFarland School District",
+   "location": "Insight School of Wisconsin as part of the Wisconsin Virtual Academies, Four Lakes Board Employee",
+   "posted": "2026-07-28",
+   "start": "8/10/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269981",
+   "source": "wecan",
+   "lat": 43.0122,
+   "lng": -89.2901,
+   "subjects": [
+    "science"
+   ],
+   "levels": [
+    "high"
+   ]
+  },
+  {
+   "id": "269976",
+   "title": "Elementary Teacher - 4th Grade",
+   "district": "School District of South Milwaukee",
+   "location": "E. W. Luther Elementary School",
+   "posted": "2026-07-27",
+   "start": "8/17/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269976",
+   "source": "wecan",
+   "lat": 43.0389,
+   "lng": -87.9065,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "269971",
+   "title": "High School Physics Teacher (1.0 FTE)",
+   "district": "Aquinas Catholic Schools",
+   "location": "Aquinas High School",
+   "posted": "2026-07-27",
+   "start": "8/13/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269971",
+   "source": "wecan",
+   "lat": 45.0935808,
+   "lng": -87.6182613,
+   "subjects": [
+    "science"
+   ],
+   "levels": [
+    "high"
+   ]
+  },
+  {
+   "id": "269967",
+   "title": "26-27 Grade 1 Teacher",
+   "district": "Racine Unified School District",
+   "location": "Gilmore Fine Arts K-8 Campus",
+   "posted": "2026-07-27",
+   "start": "8/25/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269967",
+   "source": "wecan",
+   "lat": 42.7261,
+   "lng": -87.7829,
+   "subjects": [
+    "art"
+   ],
+   "levels": [
+    "elementary",
+    "middle"
+   ]
+  },
+  {
+   "id": "269964",
+   "title": "Teacher: Spanish",
+   "district": "Hudson School District",
+   "location": "Middle School",
+   "posted": "2026-07-27",
+   "start": "8/19/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269964",
+   "source": "wecan",
+   "lat": 44.9750953,
+   "lng": -92.7554671,
+   "subjects": [
+    "world_lang"
+   ],
+   "levels": [
+    "middle"
+   ]
+  },
+  {
+   "id": "269961",
+   "title": "Band Teacher",
+   "district": "Marinette School District",
+   "location": "Middle School",
+   "posted": "2026-07-27",
+   "start": "8/19/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269961",
+   "source": "wecan",
+   "lat": 45.3834983,
+   "lng": -88.0409574,
+   "subjects": [
+    "music"
+   ],
+   "levels": [
+    "middle"
+   ]
+  },
+  {
+   "id": "269955",
+   "title": "Speech Language Pathologist - PT FMLA",
+   "district": "CESA 1",
+   "location": "Southeastern WI",
+   "posted": "2026-07-27",
+   "start": "8/18/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269955",
+   "source": "wecan",
+   "lat": null,
+   "lng": null,
+   "subjects": [],
+   "levels": []
+  },
+  {
+   "id": "269950",
+   "title": "Teacher of the Deaf and Hard of Hearing - (Virtual) Part Time Flexible Schedule",
+   "district": "CESA 1",
+   "location": "Virtual support to multiple schools in the region",
+   "posted": "2026-07-27",
+   "start": "8/18/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269950",
+   "source": "wecan",
+   "lat": null,
+   "lng": null,
+   "subjects": [],
+   "levels": []
+  },
+  {
+   "id": "269948",
+   "title": "Long Term Substitute Kindergarten",
+   "district": "Siren School District",
+   "location": "Siren Elementary School",
+   "posted": "2026-07-27",
+   "start": "8/20/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269948",
+   "source": "wecan",
+   "lat": 45.7874336,
+   "lng": -92.3819709,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "269946",
+   "title": "2026-2027 Teacher - Elementary Physical Education @ Robinson",
+   "district": "School District of Beloit",
+   "location": "Robinson Elementary School",
+   "posted": "2026-07-27",
+   "start": "8/22/2025",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269946",
+   "source": "wecan",
+   "lat": 42.5083,
+   "lng": -89.0318,
+   "subjects": [
+    "pe_health"
+   ],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "269940",
+   "title": "High School Life Science Teacher",
+   "district": "Pathways High",
+   "location": "Pathways High",
+   "posted": "2026-07-27",
+   "start": "8/24/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269940",
+   "source": "wecan",
+   "lat": 43.0529695,
+   "lng": -87.9153682,
+   "subjects": [
+    "science"
+   ],
+   "levels": [
+    "high"
+   ]
+  },
+  {
+   "id": "269937",
+   "title": "Eagle After School Program Teacher",
+   "district": "School District of Mauston",
+   "location": "West Side Elementary/Grayside Elementary",
+   "posted": "2026-07-27",
+   "start": "9/7/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269937",
+   "source": "wecan",
+   "lat": 43.7968543,
+   "lng": -90.0756767,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "269936",
+   "title": "Business and Career Education Teacher, 5th -12th Grade",
+   "district": "Birchwood Schools",
+   "location": "Birchwood School District",
+   "posted": "2026-07-27",
+   "start": "8/17/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269936",
+   "source": "wecan",
+   "lat": 45.6565578,
+   "lng": -91.5557084,
+   "subjects": [],
+   "levels": [
+    "high"
+   ]
+  },
+  {
+   "id": "269931",
+   "title": "Long Term Special Education SubstituteTeacher",
+   "district": "Wrightstown Community School District",
+   "location": "Wrightstown High School",
+   "posted": "2026-07-27",
+   "start": "8/17/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269931",
+   "source": "wecan",
+   "lat": 44.3261356,
+   "lng": -88.1628482,
+   "subjects": [],
+   "levels": [
+    "high"
+   ]
+  },
+  {
+   "id": "269929",
+   "title": "Long Term Substitute - Biology Teacher",
+   "district": "Mukwonago Area School District",
+   "location": "Mukwonago High School",
+   "posted": "2026-07-27",
+   "start": "8/24/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269929",
+   "source": "wecan",
+   "lat": 42.8666803,
+   "lng": -88.3334274,
+   "subjects": [
+    "science"
+   ],
+   "levels": [
+    "high"
+   ]
+  },
+  {
+   "id": "269927",
+   "title": "Long Term High School English Substitute Teacher",
+   "district": "Wrightstown Community School District",
+   "location": "Wrightstown High School",
+   "posted": "2026-07-27",
+   "start": "8/17/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269927",
+   "source": "wecan",
+   "lat": 44.3261356,
+   "lng": -88.1628482,
+   "subjects": [
+    "english"
+   ],
+   "levels": [
+    "high"
+   ]
+  },
+  {
+   "id": "269921",
+   "title": "Cross Categorical Special Education Teacher - Northside Elementary/Coulee Montessori",
+   "district": "School District of La Crosse",
+   "location": "Northside Elementary/Coulee Montessori",
+   "posted": "2026-07-27",
+   "start": "8/11/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269921",
+   "source": "wecan",
+   "lat": 43.8014,
+   "lng": -91.2396,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "269916",
+   "title": "Teacher - Business Education - West",
+   "district": "School District of Waukesha",
+   "location": "Waukesha West High School",
+   "posted": "2026-07-27",
+   "start": "8/17/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269916",
+   "source": "wecan",
+   "lat": 43.0117,
+   "lng": -88.2315,
+   "subjects": [],
+   "levels": [
+    "high"
+   ]
+  },
+  {
+   "id": "269910",
+   "title": "Secondary EBD Program Support Teacher",
+   "district": "Wausau School District",
+   "location": "Secondary Schools",
+   "posted": "2026-07-27",
+   "start": "8/24/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269910",
+   "source": "wecan",
+   "lat": 44.9591,
+   "lng": -89.6301,
+   "subjects": [],
+   "levels": [
+    "high"
+   ]
+  },
+  {
+   "id": "269909",
+   "title": "Cross-Categorical Special Education Teacher (KG-5)",
+   "district": "Wausau School District",
+   "location": "District",
+   "posted": "2026-07-27",
+   "start": "8/24/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269909",
+   "source": "wecan",
+   "lat": 44.9591,
+   "lng": -89.6301,
+   "subjects": [],
+   "levels": []
+  },
+  {
+   "id": "269906",
+   "title": "8th Grade Technology Education Teacher - .4 FTE",
+   "district": "Wausau School District",
+   "location": "Horace Mann Middle School",
+   "posted": "2026-07-27",
+   "start": "8/24/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269906",
+   "source": "wecan",
+   "lat": 44.9591,
+   "lng": -89.6301,
+   "subjects": [
+    "cs_tech"
+   ],
+   "levels": [
+    "middle"
+   ]
+  },
+  {
+   "id": "269905",
+   "title": "Technology Education and Engineering Teacher",
+   "district": "Wausau School District",
+   "location": "Wausau East High School & Horace Mann Middle School",
+   "posted": "2026-07-27",
+   "start": "8/24/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269905",
+   "source": "wecan",
+   "lat": 44.9591,
+   "lng": -89.6301,
+   "subjects": [
+    "cs_tech"
+   ],
+   "levels": [
+    "high",
+    "middle"
+   ]
+  },
+  {
+   "id": "269902",
+   "title": "First-Grade Teacher",
+   "district": "Diocese of Superior",
+   "location": "St. Bridget Parish School - River Falls",
+   "posted": "2026-07-27",
+   "start": "8/15/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269902",
+   "source": "wecan",
+   "lat": 45.3103081,
+   "lng": -90.1977969,
+   "subjects": [],
+   "levels": []
+  },
+  {
+   "id": "269901",
+   "title": "Pre-Kindergarten Teacher",
+   "district": "Diocese of Superior",
+   "location": "St. Bridget Parish School - River Falls",
+   "posted": "2026-07-27",
+   "start": "8/15/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269901",
+   "source": "wecan",
+   "lat": 45.3103081,
+   "lng": -90.1977969,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "269896",
+   "title": "Cross Categorical Special Education Teacher (3 Year Retention Bonus Eligible!)",
+   "district": "Green Bay Area Public School District",
+   "location": "Fort Howard Elementary",
+   "posted": "2026-07-27",
+   "start": "8/24/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269896",
+   "source": "wecan",
+   "lat": 44.5133,
+   "lng": -88.0133,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "269895",
+   "title": "Science, High School",
+   "district": "School District of West De Pere",
+   "location": "West De Pere High School",
+   "posted": "2026-07-27",
+   "start": "8/25/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269895",
+   "source": "wecan",
+   "lat": 44.445547,
+   "lng": -88.0753807,
+   "subjects": [
+    "science"
+   ],
+   "levels": [
+    "high"
+   ]
+  },
+  {
+   "id": "269893",
+   "title": "Middle School Teacher",
+   "district": "Green Bay Area Public School District",
+   "location": "Aldo Leopold Community School",
+   "posted": "2026-07-27",
+   "start": "8/24/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269893",
+   "source": "wecan",
+   "lat": 44.5133,
+   "lng": -88.0133,
+   "subjects": [],
+   "levels": [
+    "middle"
+   ]
+  },
+  {
+   "id": "269892",
+   "title": "Reading/Math Interventionist",
+   "district": "Delavan-Darien School District",
+   "location": "St. Andrews School",
+   "posted": "2026-07-27",
+   "start": "9/8/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269892",
+   "source": "wecan",
+   "lat": 42.6309356,
+   "lng": -88.6614499,
+   "subjects": [
+    "math"
+   ],
+   "levels": []
+  },
+  {
    "id": "269890",
    "title": "4K Regular Education Teacher - 1.0 FTE - Little Inspirations Community Site",
    "district": "Appleton Area School District",
@@ -37,6 +859,25 @@
    ]
   },
   {
+   "id": "269887",
+   "title": "High School Math Teacher",
+   "district": "Berlin Area School District",
+   "location": "Berlin High School",
+   "posted": "2026-07-27",
+   "start": "8/18/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269887",
+   "source": "wecan",
+   "lat": 43.9684264,
+   "lng": -88.9466233,
+   "subjects": [
+    "math"
+   ],
+   "levels": [
+    "high"
+   ]
+  },
+  {
    "id": "269882",
    "title": "Occupational Therapist (3 Year Retention Bonus Eligible!)",
    "district": "Green Bay Area Public School District",
@@ -50,6 +891,25 @@
    "lng": -88.0133,
    "subjects": [],
    "levels": []
+  },
+  {
+   "id": "269880",
+   "title": "Long Term Substitute Teacher - Elementary Music Teacher",
+   "district": "Wisconsin Heights School District",
+   "location": "Wisconsin Heights Elementary",
+   "posted": "2026-07-27",
+   "start": "10/1/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/269880",
+   "source": "wecan",
+   "lat": 43.0753,
+   "lng": -89.6917,
+   "subjects": [
+    "music"
+   ],
+   "levels": [
+    "elementary"
+   ]
   },
   {
    "id": "269879",
@@ -320,25 +1180,6 @@
    "source": "wecan",
    "lat": 45.5459408,
    "lng": -90.2875802,
-   "subjects": [
-    "english"
-   ],
-   "levels": [
-    "middle"
-   ]
-  },
-  {
-   "id": "269843",
-   "title": "8th Grade ELA Teacher",
-   "district": "Freedom Area School District",
-   "location": "Freedom Middle School",
-   "posted": "2026-07-25",
-   "start": "8/31/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/269843",
-   "source": "wecan",
-   "lat": 44.3838948,
-   "lng": -88.2942301,
    "subjects": [
     "english"
    ],
@@ -763,7 +1604,7 @@
    "district": "Mukwonago Area School District",
    "location": "Mukwonago High School",
    "posted": "2026-07-24",
-   "start": "8/12/2025",
+   "start": "8/12/2026",
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/269773",
    "source": "wecan",
@@ -1291,8 +2132,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/269656",
    "source": "wecan",
-   "lat": 44.548052,
-   "lng": -87.7056351,
+   "lat": 44.5479649,
+   "lng": -87.7054499,
    "subjects": [
     "social"
    ],
@@ -1606,8 +2447,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/269584",
    "source": "wecan",
-   "lat": 46.2002691,
-   "lng": -91.3231565,
+   "lat": 46.3112129,
+   "lng": -91.3100894,
    "subjects": [
     "science"
    ],
@@ -1695,7 +2536,7 @@
    "location": "Location TBD Following District Process",
    "posted": "2026-07-22",
    "start": "8/12/2026",
-   "close": "Until filled",
+   "close": "8/7/2026",
    "url": "https://wecan.waspa.org/Vacancy/269569",
    "source": "wecan",
    "lat": 43.2966545,
@@ -1715,8 +2556,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/269567",
    "source": "wecan",
-   "lat": 44.548052,
-   "lng": -87.7056351,
+   "lat": 44.5479649,
+   "lng": -87.7054499,
    "subjects": [
     "math"
    ],
@@ -2438,25 +3279,6 @@
    ]
   },
   {
-   "id": "269395",
-   "title": "50% Music Teacher",
-   "district": "Green Bay Area Public School District",
-   "location": "Lincoln Elementary School",
-   "posted": "2026-07-21",
-   "start": "8/24/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/269395",
-   "source": "wecan",
-   "lat": 44.5133,
-   "lng": -88.0133,
-   "subjects": [
-    "music"
-   ],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
    "id": "269393",
    "title": "26-27 Music Teacher",
    "district": "Racine Unified School District",
@@ -2541,7 +3363,7 @@
    "location": "Evansville High School",
    "posted": "2026-07-21",
    "start": "8/19/2026",
-   "close": "7/31/2026",
+   "close": "7/30/2026",
    "url": "https://wecan.waspa.org/Vacancy/269376",
    "source": "wecan",
    "lat": 42.7803486,
@@ -2997,23 +3819,6 @@
    ]
   },
   {
-   "id": "269271",
-   "title": "Kindergarten Teacher",
-   "district": "Fond du Lac School District",
-   "location": "Chegwin Elementary School",
-   "posted": "2026-07-20",
-   "start": "8/20/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/269271",
-   "source": "wecan",
-   "lat": 43.773,
-   "lng": -88.447,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
    "id": "269270",
    "title": "Choir Teacher (.33 FTE)",
    "district": "Pius XI Catholic High School",
@@ -3178,23 +3983,6 @@
    ]
   },
   {
-   "id": "269251",
-   "title": "Kindergarten Teacher",
-   "district": "School District of Black River Falls",
-   "location": "Forrest Street Elementary School",
-   "posted": "2026-07-20",
-   "start": "8/18/2026",
-   "close": "7/27/2026",
-   "url": "https://wecan.waspa.org/Vacancy/269251",
-   "source": "wecan",
-   "lat": 44.2952152,
-   "lng": -90.8484137,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
    "id": "269248",
    "title": "Family & Consumer Science Teacher - will consider candidates in a program",
    "district": "DeForest Area School District",
@@ -3211,26 +3999,6 @@
    ],
    "levels": [
     "high"
-   ]
-  },
-  {
-   "id": "269247",
-   "title": "Elementary Teacher - Grade 6 - ELA Concentration",
-   "district": "Mukwonago Area School District",
-   "location": "Rolling Hills Elementary School",
-   "posted": "2026-07-20",
-   "start": "8/12/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/269247",
-   "source": "wecan",
-   "lat": 42.8666803,
-   "lng": -88.3334274,
-   "subjects": [
-    "english"
-   ],
-   "levels": [
-    "elementary",
-    "middle"
    ]
   },
   {
@@ -3392,25 +4160,6 @@
    ]
   },
   {
-   "id": "269204",
-   "title": "Middle School PE Teacher",
-   "district": "Platteville School District",
-   "location": "Platteville Middle School",
-   "posted": "2026-07-20",
-   "start": "8/17/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/269204",
-   "source": "wecan",
-   "lat": 42.7343,
-   "lng": -90.4785,
-   "subjects": [
-    "pe_health"
-   ],
-   "levels": [
-    "middle"
-   ]
-  },
-  {
    "id": "269203",
    "title": "Art Teacher / Art Therapist",
    "district": "The Richardson School",
@@ -3459,25 +4208,6 @@
    "subjects": [],
    "levels": [
     "elementary"
-   ]
-  },
-  {
-   "id": "269190",
-   "title": "Technology Education Teacher",
-   "district": "Fond du Lac School District",
-   "location": "Fond du Lac High School",
-   "posted": "2026-07-20",
-   "start": "8/20/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/269190",
-   "source": "wecan",
-   "lat": 43.773,
-   "lng": -88.447,
-   "subjects": [
-    "cs_tech"
-   ],
-   "levels": [
-    "high"
    ]
   },
   {
@@ -4459,23 +5189,6 @@
    ]
   },
   {
-   "id": "269002",
-   "title": "Upper Grade (3rd-5th) Elementary Classroom Teacher (Starting 2026-2027 School Year)",
-   "district": "School District of Whitefish Bay",
-   "location": "Cumberland or Richards Elementary School",
-   "posted": "2026-07-16",
-   "start": "8/17/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/269002",
-   "source": "wecan",
-   "lat": 43.1185591,
-   "lng": -87.906804,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
    "id": "268999",
    "title": "4K Teacher (Starting 2026-2027 School Year)",
    "district": "School District of Whitefish Bay",
@@ -4510,25 +5223,6 @@
    ]
   },
   {
-   "id": "268993",
-   "title": "Elementary Reading Specialist",
-   "district": "Atlas Preparatory Academy",
-   "location": "Kansas Campus",
-   "posted": "2026-07-16",
-   "start": "8/20/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/268993",
-   "source": "wecan",
-   "lat": 43.0389,
-   "lng": -87.9065,
-   "subjects": [
-    "english"
-   ],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
    "id": "268991",
    "title": "High School Social Studies Teacher",
    "district": "Cashton School District",
@@ -4549,7 +5243,7 @@
   },
   {
    "id": "268981",
-   "title": "Kindergarten Teacher",
+   "title": "Grade 1 Teacher",
    "district": "Eau Claire Area School District",
    "location": "Flynn Elementary",
    "posted": "2026-07-16",
@@ -5356,8 +6050,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/268793",
    "source": "wecan",
-   "lat": 44.9768064,
-   "lng": -92.4363528,
+   "lat": 44.9823306,
+   "lng": -92.4486371,
    "subjects": [
     "esl"
    ],
@@ -5420,28 +6114,10 @@
    ]
   },
   {
-   "id": "268779",
-   "title": "26-27 Cross Categorical Teacher",
-   "district": "Racine Unified School District",
-   "location": "Schulte K-8 Campus",
-   "posted": "2026-07-14",
-   "start": "8/25/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/268779",
-   "source": "wecan",
-   "lat": 42.7261,
-   "lng": -87.7829,
-   "subjects": [],
-   "levels": [
-    "elementary",
-    "middle"
-   ]
-  },
-  {
    "id": "268778",
    "title": "26-27 Middle School Social Studies Teacher",
    "district": "Milwaukee Academy of Science",
-   "location": "Milwaukee Academy of Science - Main Campus",
+   "location": "Milwaukee Academy of Science",
    "posted": "2026-07-14",
    "start": "8/3/2026",
    "close": "Until filled",
@@ -5652,23 +6328,6 @@
    ]
   },
   {
-   "id": "268740",
-   "title": "Long Term Substitute - 4K Teacher",
-   "district": "Mukwonago Area School District",
-   "location": "Prairie View Elementary School",
-   "posted": "2026-07-14",
-   "start": "8/12/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/268740",
-   "source": "wecan",
-   "lat": 42.8666803,
-   "lng": -88.3334274,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
    "id": "268733",
    "title": "6th Grade ELA/Social Studies Teacher",
    "district": "Adams-Friendship Area School District",
@@ -5722,25 +6381,6 @@
    "subjects": [],
    "levels": [
     "elementary"
-   ]
-  },
-  {
-   "id": "268727",
-   "title": "Long Term Substitute - Biology Teacher",
-   "district": "Mukwonago Area School District",
-   "location": "Mukwonago High School",
-   "posted": "2026-07-14",
-   "start": "8/24/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/268727",
-   "source": "wecan",
-   "lat": 42.8666803,
-   "lng": -88.3334274,
-   "subjects": [
-    "science"
-   ],
-   "levels": [
-    "high"
    ]
   },
   {
@@ -5809,23 +6449,6 @@
    ],
    "levels": [
     "middle"
-   ]
-  },
-  {
-   "id": "268712",
-   "title": "MS/HS Agriculture Education (2026-2027 School Year)",
-   "district": "School District of Horicon",
-   "location": "Middle and High School",
-   "posted": "2026-07-14",
-   "start": "8/20/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/268712",
-   "source": "wecan",
-   "lat": 43.4514,
-   "lng": -88.6312,
-   "subjects": [],
-   "levels": [
-    "high"
    ]
   },
   {
@@ -5939,25 +6562,6 @@
    ]
   },
   {
-   "id": "268693",
-   "title": "Middle School Teacher (Social Studies Focus) (Limited Term; 26-27 School Year)",
-   "district": "Twin Lakes School District #4",
-   "location": "Lakewood",
-   "posted": "2026-07-14",
-   "start": "8/6/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/268693",
-   "source": "wecan",
-   "lat": 42.5315239,
-   "lng": -88.2479278,
-   "subjects": [
-    "social"
-   ],
-   "levels": [
-    "middle"
-   ]
-  },
-  {
    "id": "268692",
    "title": "Science/STEM - Ruth Harman Academy",
    "district": "Kenosha Unified School District",
@@ -6054,8 +6658,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/268670",
    "source": "wecan",
-   "lat": 43.4025756,
-   "lng": -88.7162216,
+   "lat": 43.4016194,
+   "lng": -88.7166629,
    "subjects": [
     "pe_health"
    ],
@@ -6120,7 +6724,7 @@
   },
   {
    "id": "268661",
-   "title": "Math or Math Intervention Teacher",
+   "title": "Math Teacher",
    "district": "Medford Area Public School District",
    "location": "Medford Area Senior High School",
    "posted": "2026-07-14",
@@ -6638,23 +7242,6 @@
    "levels": []
   },
   {
-   "id": "268546",
-   "title": "High School Special Education Teacher",
-   "district": "Little Chute Area School District",
-   "location": "Little Chute High School",
-   "posted": "2026-07-13",
-   "start": "8/24/2026",
-   "close": "7/27/2026",
-   "url": "https://wecan.waspa.org/Vacancy/268546",
-   "source": "wecan",
-   "lat": 44.2799872,
-   "lng": -88.3184394,
-   "subjects": [],
-   "levels": [
-    "high"
-   ]
-  },
-  {
    "id": "268545",
    "title": "4K Teacher - Full Time",
    "district": "McFarland School District",
@@ -6777,7 +7364,7 @@
   },
   {
    "id": "268515",
-   "title": "Intermediate Math Intervention & Educational Support Teacher (.5 FTE)",
+   "title": "Middle School Special Education Teacher (.5 FTE)",
    "district": "Heritage Christian Schools",
    "location": "Heritage Christian Middle & High School",
    "posted": "2026-07-13",
@@ -6787,11 +7374,10 @@
    "source": "wecan",
    "lat": 43.018643,
    "lng": -88.0476792,
-   "subjects": [
-    "math"
-   ],
+   "subjects": [],
    "levels": [
-    "high"
+    "high",
+    "middle"
    ]
   },
   {
@@ -6858,42 +7444,6 @@
    "lat": 43.7508,
    "lng": -87.7145,
    "subjects": [],
-   "levels": [
-    "high"
-   ]
-  },
-  {
-   "id": "268499",
-   "title": "Teacher, High School Literature (Part-time)",
-   "district": "Providence Academy",
-   "location": "Providence Academy",
-   "posted": "2026-07-13",
-   "start": "8/17/2026",
-   "close": "7/27/2026",
-   "url": "https://wecan.waspa.org/Vacancy/268499",
-   "source": "wecan",
-   "lat": 43.8386569,
-   "lng": -91.2457452,
-   "subjects": [],
-   "levels": [
-    "high"
-   ]
-  },
-  {
-   "id": "268498",
-   "title": "Teacher, High School Science",
-   "district": "Providence Academy",
-   "location": "Providence Academy",
-   "posted": "2026-07-13",
-   "start": "8/17/2026",
-   "close": "7/27/2026",
-   "url": "https://wecan.waspa.org/Vacancy/268498",
-   "source": "wecan",
-   "lat": 43.8386569,
-   "lng": -91.2457452,
-   "subjects": [
-    "science"
-   ],
    "levels": [
     "high"
    ]
@@ -8001,23 +8551,6 @@
    ]
   },
   {
-   "id": "268264",
-   "title": "2nd Grade Long-Term Substitute Teacher in Turner Schools",
-   "district": "School District of Beloit Turner",
-   "location": "Garden Prairie Intermediate: Turner School District",
-   "posted": "2026-07-09",
-   "start": "8/19/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/268264",
-   "source": "wecan",
-   "lat": 42.5083,
-   "lng": -89.0318,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
    "id": "268254",
    "title": "Elementary Teacher",
    "district": "St. Mary's Springs Academy",
@@ -8107,72 +8640,6 @@
    ]
   },
   {
-   "id": "268229",
-   "title": "Montessori Elementary Teacher, Grades 4-6",
-   "district": "Wausau School District",
-   "location": "Wausau Area Montessori Charter School",
-   "posted": "2026-07-08",
-   "start": "8/24/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/268229",
-   "source": "wecan",
-   "lat": 44.9591,
-   "lng": -89.6301,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "268228",
-   "title": "Secondary EBD Program Support Teacher",
-   "district": "Wausau School District",
-   "location": "Secondary Schools",
-   "posted": "2026-07-08",
-   "start": "8/24/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/268228",
-   "source": "wecan",
-   "lat": 44.9591,
-   "lng": -89.6301,
-   "subjects": [],
-   "levels": [
-    "high"
-   ]
-  },
-  {
-   "id": "268227",
-   "title": "Cross-Categorical Special Education Teacher (KG-5)",
-   "district": "Wausau School District",
-   "location": "District",
-   "posted": "2026-07-08",
-   "start": "8/24/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/268227",
-   "source": "wecan",
-   "lat": 44.9591,
-   "lng": -89.6301,
-   "subjects": [],
-   "levels": []
-  },
-  {
-   "id": "268221",
-   "title": "Art Teacher",
-   "district": "School District of Athens",
-   "location": "School District of Athens",
-   "posted": "2026-07-08",
-   "start": "8/24/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/268221",
-   "source": "wecan",
-   "lat": 45.0349745,
-   "lng": -90.0738874,
-   "subjects": [
-    "art"
-   ],
-   "levels": []
-  },
-  {
    "id": "268214",
    "title": "Special Education Teacher-Cross Categorical",
    "district": "Cedar Grove-Belgium Area School District",
@@ -8185,25 +8652,6 @@
    "lat": null,
    "lng": null,
    "subjects": [],
-   "levels": [
-    "middle"
-   ]
-  },
-  {
-   "id": "268213",
-   "title": "5th - 8th Grade Spanish",
-   "district": "Lake Country School District",
-   "location": "Lake Country School",
-   "posted": "2026-07-08",
-   "start": "8/24/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/268213",
-   "source": "wecan",
-   "lat": 43.1029333,
-   "lng": -88.354607,
-   "subjects": [
-    "world_lang"
-   ],
    "levels": [
     "middle"
    ]
@@ -8270,25 +8718,6 @@
    "lat": 43.9732475,
    "lng": -90.8516564,
    "subjects": [],
-   "levels": [
-    "high"
-   ]
-  },
-  {
-   "id": "268192",
-   "title": "Physical Education & Health Teacher",
-   "district": "School District of Jefferson",
-   "location": "Jefferson High School",
-   "posted": "2026-07-08",
-   "start": "8/16/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/268192",
-   "source": "wecan",
-   "lat": 43.0224668,
-   "lng": -88.7673031,
-   "subjects": [
-    "pe_health"
-   ],
    "levels": [
     "high"
    ]
@@ -8435,23 +8864,6 @@
    "subjects": [],
    "levels": [
     "elementary"
-   ]
-  },
-  {
-   "id": "268164",
-   "title": "Dean of Students - Middle School",
-   "district": "School District of Rhinelander",
-   "location": "James Williams Middle School",
-   "posted": "2026-07-08",
-   "start": "8/20/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/268164",
-   "source": "wecan",
-   "lat": 45.636623,
-   "lng": -89.412075,
-   "subjects": [],
-   "levels": [
-    "middle"
    ]
   },
   {
@@ -8622,21 +9034,6 @@
    "levels": []
   },
   {
-   "id": "268120",
-   "title": "Tester1",
-   "district": "WECAN Demo/Testing Account",
-   "location": "",
-   "posted": "2026-07-07",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/268120",
-   "source": "wecan",
-   "lat": null,
-   "lng": null,
-   "subjects": [],
-   "levels": []
-  },
-  {
    "id": "268119",
    "title": "Agriscience/Technology Education Teacher (0.8 FTE)",
    "district": "Green Bay Area Public School District",
@@ -8712,25 +9109,6 @@
    ]
   },
   {
-   "id": "268092",
-   "title": "Elementary Literacy Coach Starting 2026-2027 School Year",
-   "district": "School District of Whitefish Bay",
-   "location": "Cumberland Elementary School",
-   "posted": "2026-07-07",
-   "start": "8/17/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/268092",
-   "source": "wecan",
-   "lat": 43.1185591,
-   "lng": -87.906804,
-   "subjects": [
-    "english"
-   ],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
    "id": "268091",
    "title": "Library Media Specialist",
    "district": "Elmbrook Schools",
@@ -8744,25 +9122,6 @@
    "lng": -88.1684094,
    "subjects": [],
    "levels": []
-  },
-  {
-   "id": "268086",
-   "title": "8th Grade Technology Education Teacher - .4 FTE",
-   "district": "Wausau School District",
-   "location": "Horace Mann Middle School",
-   "posted": "2026-07-07",
-   "start": "8/24/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/268086",
-   "source": "wecan",
-   "lat": 44.9591,
-   "lng": -89.6301,
-   "subjects": [
-    "cs_tech"
-   ],
-   "levels": [
-    "middle"
-   ]
   },
   {
    "id": "268085",
@@ -8781,26 +9140,6 @@
    ],
    "levels": [
     "elementary"
-   ]
-  },
-  {
-   "id": "268084",
-   "title": "Technology Education and Engineering Teacher",
-   "district": "Wausau School District",
-   "location": "Wausau East High School & Horace Mann Middle School",
-   "posted": "2026-07-07",
-   "start": "8/24/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/268084",
-   "source": "wecan",
-   "lat": 44.9591,
-   "lng": -89.6301,
-   "subjects": [
-    "cs_tech"
-   ],
-   "levels": [
-    "high",
-    "middle"
    ]
   },
   {
@@ -8877,7 +9216,7 @@
   },
   {
    "id": "268062",
-   "title": "Teacher of the Deaf and Hard of Hearing (26-27)",
+   "title": "Teacher of the Deaf and Hard of Hearing - Part Time Flexible Schedule",
    "district": "CESA 1",
    "location": "Southeastern WI",
    "posted": "2026-07-07",
@@ -8906,21 +9245,6 @@
     "esl",
     "world_lang"
    ],
-   "levels": []
-  },
-  {
-   "id": "268060",
-   "title": "Orientation and Mobility Specialist - PT",
-   "district": "CESA 1",
-   "location": "Southeastern WI",
-   "posted": "2026-07-07",
-   "start": "8/18/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/268060",
-   "source": "wecan",
-   "lat": null,
-   "lng": null,
-   "subjects": [],
    "levels": []
   },
   {
@@ -8984,23 +9308,6 @@
    "start": "8/19/2026",
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/268039",
-   "source": "wecan",
-   "lat": 44.891,
-   "lng": -88.307,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "268038",
-   "title": "1st Grade Teacher",
-   "district": "Gillett School District",
-   "location": "Gillett Elementary School",
-   "posted": "2026-07-07",
-   "start": "8/19/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/268038",
    "source": "wecan",
    "lat": 44.891,
    "lng": -88.307,
@@ -9322,625 +9629,6 @@
    ]
   },
   {
-   "id": "267971",
-   "title": "Early Childhood Aide-part time",
-   "district": "Archdiocese of Milwaukee",
-   "location": "St. Kilian Catholic School",
-   "posted": "2026-07-06",
-   "start": "8/17/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/267971",
-   "source": "wecan",
-   "lat": 43.0389,
-   "lng": -87.9065,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "267970",
-   "title": "Art Teacher - Part Time",
-   "district": "Archdiocese of Milwaukee",
-   "location": "St. Kilian Catholic School",
-   "posted": "2026-07-06",
-   "start": "8/17/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/267970",
-   "source": "wecan",
-   "lat": 43.0389,
-   "lng": -87.9065,
-   "subjects": [
-    "art"
-   ],
-   "levels": []
-  },
-  {
-   "id": "267967",
-   "title": "Physical Education Teacher",
-   "district": "Archdiocese of Milwaukee",
-   "location": "St. Kilian Catholic School",
-   "posted": "2026-07-06",
-   "start": "8/17/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/267967",
-   "source": "wecan",
-   "lat": 43.0389,
-   "lng": -87.9065,
-   "subjects": [
-    "pe_health"
-   ],
-   "levels": []
-  },
-  {
-   "id": "267959",
-   "title": "Special Education/Program Coordinator",
-   "district": "St. Mary Parish School (Hales Corners)",
-   "location": "St. Mary Parish School",
-   "posted": "2026-07-06",
-   "start": "8/24/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/267959",
-   "source": "wecan",
-   "lat": 42.9488989,
-   "lng": -88.0335528,
-   "subjects": [],
-   "levels": []
-  },
-  {
-   "id": "267958",
-   "title": "Activities Director",
-   "district": "White Lake School District",
-   "location": "",
-   "posted": "2026-07-06",
-   "start": "8/24/2026",
-   "close": "8/2/2026",
-   "url": "https://wecan.waspa.org/Vacancy/267958",
-   "source": "wecan",
-   "lat": 45.157193,
-   "lng": -88.764551,
-   "subjects": [],
-   "levels": []
-  },
-  {
-   "id": "267954",
-   "title": "Band and Choral Music Teacher Grades: 6-12",
-   "district": "Peshtigo School District",
-   "location": "Peshtigo Middle/High School",
-   "posted": "2026-07-06",
-   "start": "8/20/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/267954",
-   "source": "wecan",
-   "lat": 45.054,
-   "lng": -87.749,
-   "subjects": [
-    "music"
-   ],
-   "levels": [
-    "high",
-    "middle"
-   ]
-  },
-  {
-   "id": "267953",
-   "title": "K-8 General Music",
-   "district": "Dover #1 Kansasville",
-   "location": "Kansasville Grade School",
-   "posted": "2026-07-06",
-   "start": "8/25/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/267953",
-   "source": "wecan",
-   "lat": null,
-   "lng": null,
-   "subjects": [
-    "music"
-   ],
-   "levels": [
-    "elementary",
-    "middle"
-   ]
-  },
-  {
-   "id": "267950",
-   "title": "High School Special Education Teacher",
-   "district": "East Troy Community School District",
-   "location": "East Troy High School",
-   "posted": "2026-07-06",
-   "start": "8/10/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/267950",
-   "source": "wecan",
-   "lat": 42.7851871,
-   "lng": -88.4054374,
-   "subjects": [],
-   "levels": [
-    "high"
-   ]
-  },
-  {
-   "id": "267949",
-   "title": "Agriculture Education Teacher",
-   "district": "Unified School District of De Pere",
-   "location": "De Pere High School",
-   "posted": "2026-07-06",
-   "start": "8/24/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/267949",
-   "source": "wecan",
-   "lat": 44.4467461,
-   "lng": -88.067779,
-   "subjects": [],
-   "levels": [
-    "high"
-   ]
-  },
-  {
-   "id": "267946",
-   "title": "Elementary Special Education Teacher",
-   "district": "Plymouth Joint School District",
-   "location": "Fairview Elementary School",
-   "posted": "2026-07-06",
-   "start": "8/17/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/267946",
-   "source": "wecan",
-   "lat": 43.7486054,
-   "lng": -87.977038,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "267943",
-   "title": "6th Grade Accelerated Math Teacher (Part-Time; 0.4 FTE)",
-   "district": "Shorewood School District",
-   "location": "Elementary Level",
-   "posted": "2026-07-06",
-   "start": "8/18/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/267943",
-   "source": "wecan",
-   "lat": 43.0883957,
-   "lng": -87.8881302,
-   "subjects": [
-    "math"
-   ],
-   "levels": [
-    "elementary",
-    "middle"
-   ]
-  },
-  {
-   "id": "267930",
-   "title": "Speech and Language Pathologist (One-Year Contract; 0.6 FTE)",
-   "district": "Shorewood School District",
-   "location": "Elementary Level",
-   "posted": "2026-07-06",
-   "start": "8/18/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/267930",
-   "source": "wecan",
-   "lat": 43.0883957,
-   "lng": -87.8881302,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "267926",
-   "title": "Math Teacher",
-   "district": "Wauwatosa School District",
-   "location": "East High School",
-   "posted": "2026-07-06",
-   "start": "8/17/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/267926",
-   "source": "wecan",
-   "lat": 43.0494122,
-   "lng": -88.0079271,
-   "subjects": [
-    "math"
-   ],
-   "levels": [
-    "high"
-   ]
-  },
-  {
-   "id": "267920",
-   "title": "Music Teacher",
-   "district": "Green Bay Area Public School District",
-   "location": "Beaumont Elementary School/Sullivan Elementary School",
-   "posted": "2026-07-06",
-   "start": "8/24/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/267920",
-   "source": "wecan",
-   "lat": 44.5133,
-   "lng": -88.0133,
-   "subjects": [
-    "music"
-   ],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "267916",
-   "title": "Specials - Art, Music, Gym",
-   "district": "North Wisconsin District LCMS",
-   "location": "Immanuel Lutheran School - Marshfield",
-   "posted": "2026-07-06",
-   "start": "8/3/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/267916",
-   "source": "wecan",
-   "lat": null,
-   "lng": null,
-   "subjects": [],
-   "levels": []
-  },
-  {
-   "id": "267908",
-   "title": "Mathematics Teacher - Grade 8",
-   "district": "Sheboygan Area School District",
-   "location": "Horace Mann Middle School",
-   "posted": "2026-07-06",
-   "start": "8/17/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/267908",
-   "source": "wecan",
-   "lat": 43.7508,
-   "lng": -87.7145,
-   "subjects": [
-    "math"
-   ],
-   "levels": [
-    "middle"
-   ]
-  },
-  {
-   "id": "267907",
-   "title": "Middle / High School Full Time Building Substitute",
-   "district": "Atlas Preparatory Academy",
-   "location": "Russell Campus",
-   "posted": "2026-07-06",
-   "start": "8/20/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/267907",
-   "source": "wecan",
-   "lat": 43.0389,
-   "lng": -87.9065,
-   "subjects": [],
-   "levels": [
-    "high"
-   ]
-  },
-  {
-   "id": "267906",
-   "title": "2026-2027 School Year - Elementary Special Education Teacher",
-   "district": "Middleton-Cross Plains Area School District",
-   "location": "West Middleton Elementary School",
-   "posted": "2026-07-06",
-   "start": "8/17/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/267906",
-   "source": "wecan",
-   "lat": 43.0972,
-   "lng": -89.5124,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "267904",
-   "title": "Special Education Teacher - Middle School",
-   "district": "Holy Hill Area School District",
-   "location": "Richfield Middle School",
-   "posted": "2026-07-06",
-   "start": "8/19/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/267904",
-   "source": "wecan",
-   "lat": 43.2444487,
-   "lng": -88.32704,
-   "subjects": [],
-   "levels": [
-    "middle"
-   ]
-  },
-  {
-   "id": "267899",
-   "title": "K5/1st Grade Teacher",
-   "district": "Archdiocese of Milwaukee",
-   "location": "Shepherd of the Hills, Eden",
-   "posted": "2026-07-06",
-   "start": "8/17/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/267899",
-   "source": "wecan",
-   "lat": 43.0389,
-   "lng": -87.9065,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "267898",
-   "title": "K-12 Math Intervention Coach",
-   "district": "School District of Oakfield",
-   "location": "Elementary & MS/HS",
-   "posted": "2026-07-06",
-   "start": "8/24/2026",
-   "close": "7/31/2026",
-   "url": "https://wecan.waspa.org/Vacancy/267898",
-   "source": "wecan",
-   "lat": 43.6836929,
-   "lng": -88.5474431,
-   "subjects": [
-    "math"
-   ],
-   "levels": [
-    "elementary",
-    "high",
-    "middle"
-   ]
-  },
-  {
-   "id": "267897",
-   "title": "5th Grade Teacher, Queen of the Apostles, Tomah",
-   "district": "Diocese of La Crosse",
-   "location": "Queen of the Apostles School, Tomah",
-   "posted": "2026-07-06",
-   "start": "8/10/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/267897",
-   "source": "wecan",
-   "lat": 43.8014,
-   "lng": -91.2396,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "267895",
-   "title": "Computer Science & Technology Teacher",
-   "district": "Milwaukee Southwest Catholic Schools",
-   "location": "St. Matthias Parish School - Milwaukee",
-   "posted": "2026-07-06",
-   "start": "7/6/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/267895",
-   "source": "wecan",
-   "lat": 43.0389,
-   "lng": -87.9065,
-   "subjects": [
-    "cs_tech",
-    "science"
-   ],
-   "levels": []
-  },
-  {
-   "id": "267894",
-   "title": "Art Teacher",
-   "district": "National Heritage Academies",
-   "location": "Milwaukee Scholars Charter School",
-   "posted": "2026-07-06",
-   "start": "8/3/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/267894",
-   "source": "wecan",
-   "lat": null,
-   "lng": null,
-   "subjects": [
-    "art"
-   ],
-   "levels": []
-  },
-  {
-   "id": "267888",
-   "title": "Physical Education Teacher",
-   "district": "Wautoma Area School District",
-   "location": "Redgranite Elementary School",
-   "posted": "2026-07-06",
-   "start": "8/17/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/267888",
-   "source": "wecan",
-   "lat": 44.0750502,
-   "lng": -89.290193,
-   "subjects": [
-    "pe_health"
-   ],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "267885",
-   "title": "Cross-Categorical Special Education Teacher",
-   "district": "Berlin Area School District",
-   "location": "Clay Lamberton Elementary School",
-   "posted": "2026-07-06",
-   "start": "8/18/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/267885",
-   "source": "wecan",
-   "lat": 43.9684264,
-   "lng": -88.9466233,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "267882",
-   "title": "Neenah Behind the Wheel Driver Education Instructor",
-   "district": "CESA 2",
-   "location": "Neenah, WI",
-   "posted": "2026-07-06",
-   "start": "8/1/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/267882",
-   "source": "wecan",
-   "lat": null,
-   "lng": null,
-   "subjects": [],
-   "levels": []
-  },
-  {
-   "id": "267880",
-   "title": "Middle/High School Open Interviews",
-   "district": "Atlas Preparatory Academy",
-   "location": "Russell Campus",
-   "posted": "2026-07-06",
-   "start": "8/20/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/267880",
-   "source": "wecan",
-   "lat": 43.0389,
-   "lng": -87.9065,
-   "subjects": [],
-   "levels": [
-    "high"
-   ]
-  },
-  {
-   "id": "267876",
-   "title": "Cross Categorical Special Education Teacher- EBD Resource",
-   "district": "Manitowoc Public School District",
-   "location": "Washington Middle School",
-   "posted": "2026-07-06",
-   "start": "8/17/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/267876",
-   "source": "wecan",
-   "lat": 44.0998341,
-   "lng": -87.827992,
-   "subjects": [],
-   "levels": [
-    "middle"
-   ]
-  },
-  {
-   "id": "267875",
-   "title": "Middle/High School Special Education Teacher",
-   "district": "Wauzeka-Steuben School District",
-   "location": "Wauzeka-Steuben School District",
-   "posted": "2026-07-06",
-   "start": "8/25/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/267875",
-   "source": "wecan",
-   "lat": null,
-   "lng": null,
-   "subjects": [],
-   "levels": [
-    "high"
-   ]
-  },
-  {
-   "id": "267873",
-   "title": "9-12 Science Teacher",
-   "district": "Wautoma Area School District",
-   "location": "Wautoma Jr./Sr. High School",
-   "posted": "2026-07-06",
-   "start": "8/17/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/267873",
-   "source": "wecan",
-   "lat": 44.0750502,
-   "lng": -89.290193,
-   "subjects": [
-    "science"
-   ],
-   "levels": [
-    "high",
-    "middle"
-   ]
-  },
-  {
-   "id": "267868",
-   "title": "Elementary School Teacher",
-   "district": "Fennimore Community School District",
-   "location": "Elementary School",
-   "posted": "2026-07-06",
-   "start": "8/20/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/267868",
-   "source": "wecan",
-   "lat": 42.9836218,
-   "lng": -90.6555931,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "267866",
-   "title": "7th Grade Science/Math Teacher",
-   "district": "Barron Area School District",
-   "location": "Riverview Middle School",
-   "posted": "2026-07-06",
-   "start": "8/17/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/267866",
-   "source": "wecan",
-   "lat": 45.423557,
-   "lng": -91.8454099,
-   "subjects": [
-    "math",
-    "science"
-   ],
-   "levels": [
-    "middle"
-   ]
-  },
-  {
-   "id": "267862",
-   "title": "TEACHER: TECHNOLOGY EDUCATION",
-   "district": "West Bend School District",
-   "location": "West High School",
-   "posted": "2026-07-06",
-   "start": "8/17/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/267862",
-   "source": "wecan",
-   "lat": 43.4252776,
-   "lng": -88.1834277,
-   "subjects": [
-    "cs_tech"
-   ],
-   "levels": [
-    "high"
-   ]
-  },
-  {
-   "id": "267859",
-   "title": "Health and PE Teacher - High School",
-   "district": "Cristo Rey Jesuit High School Milwaukee",
-   "location": "",
-   "posted": "2026-07-06",
-   "start": "As Soon as Possible",
-   "close": "10/4/2026",
-   "url": "https://wecan.waspa.org/Vacancy/267859",
-   "source": "wecan",
-   "lat": 43.0389,
-   "lng": -87.9065,
-   "subjects": [
-    "pe_health"
-   ],
-   "levels": [
-    "high"
-   ]
-  },
-  {
    "id": "mmsd:9426",
    "title": "MVC Enrollment Teacher - East - 0.1 FTE - 26-27 SY",
    "district": "Madison Metropolitan School District",
@@ -10064,23 +9752,6 @@
    ]
   },
   {
-   "id": "mmsd:9387",
-   "title": "Grade 4 Teacher - Hawthorne - 1.0 FTE - 26-27 SY",
-   "district": "Madison Metropolitan School District",
-   "location": "Hawthorne (Madison, WI)",
-   "posted": "2026-07-17",
-   "start": "",
-   "close": "",
-   "url": "https://mmsd.csod.com/ux/ats/careersite/1/home/requisition/9387?c=mmsd",
-   "source": "mmsd",
-   "lat": 43.1120346,
-   "lng": -89.3282322,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
    "id": "mmsd:9400",
    "title": "Program Support Teacher CC (for interest) - Doyle - 0.5 FTE - 26-27 SY",
    "district": "Madison Metropolitan School District",
@@ -10197,25 +9868,6 @@
    "lng": -89.4012,
    "subjects": [
     "pe_health"
-   ],
-   "levels": [
-    "middle"
-   ]
-  },
-  {
-   "id": "mmsd:9378",
-   "title": "Reading Teacher - Wright - 0.5 FTE - 26-27 SY",
-   "district": "Madison Metropolitan School District",
-   "location": "Wright (Madison, WI)",
-   "posted": "2026-07-17",
-   "start": "",
-   "close": "",
-   "url": "https://mmsd.csod.com/ux/ats/careersite/1/home/requisition/9378?c=mmsd",
-   "source": "mmsd",
-   "lat": 43.0484371,
-   "lng": -89.4002258,
-   "subjects": [
-    "english"
    ],
    "levels": [
     "middle"
