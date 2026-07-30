@@ -29,10 +29,6 @@
     43.8919819,
     -90.9891728
   ],
-  "barron area school district": [
-    45.423557,
-    -91.8454099
-  ],
   "beecher-dunbar-pembine school district": null,
   "berlin area school district": [
     43.9684264,
@@ -44,16 +40,12 @@
   ],
   "blessed savior catholic school": null,
   "brighton #1 school district": [
-    44.243205,
-    -88.365803
+    44.243206,
+    -88.365804
   ],
   "cambria-friesland school district": [
     43.5414362,
     -89.1020736
-  ],
-  "cashton school district": [
-    43.7430214,
-    -90.7788501
   ],
   "cedar grove-belgium area school district": null,
   "cedarburg school district": [
@@ -82,14 +74,6 @@
     -91.1493107
   ],
   "corpus christi parish school": null,
-  "cumberland school district": [
-    45.5332856,
-    -92.0214764
-  ],
-  "d.c. everest area school district": [
-    44.9391683,
-    -89.6397653
-  ],
   "darlington community school district": [
     42.6802288,
     -90.1178079
@@ -127,10 +111,6 @@
     43.0227593,
     -88.1684094
   ],
-  "evansville community school district": [
-    42.7803486,
-    -89.2992249
-  ],
   "evergreen academy": null,
   "fall river school district": [
     43.3873717,
@@ -139,10 +119,6 @@
   "fox point-bayside school district": [
     43.1760575,
     -87.9116753
-  ],
-  "freedom area school district": [
-    44.3838948,
-    -88.2942301
   ],
   "fundamentals llc": null,
   "genesee lake school": null,
@@ -154,14 +130,11 @@
     43.0973475,
     -89.3431739
   ],
-  "grantsburg school district": [
-    45.7789661,
-    -92.6824002
-  ],
   "hamilton school district": [
     43.9222491,
     -91.1060036
   ],
+  "hartland-lakeside school district": null,
   "heritage christian schools": [
     43.018643,
     -88.0476792
@@ -173,14 +146,6 @@
   "holy hill area school district": [
     43.2444487,
     -88.32704
-  ],
-  "hortonville area school district": [
-    44.3350374,
-    -88.639343
-  ],
-  "howard-suamico school district": [
-    44.5842757,
-    -88.0253874
   ],
   "hudson school district": [
     44.9750953,
@@ -202,9 +167,9 @@
     44.2717086,
     -88.3400807
   ],
-  "lad lake": [
-    43.0144033,
-    -88.4506222
+  "la causa charter school": [
+    43.0131344,
+    -87.9129714
   ],
   "lake country classical academy": null,
   "lake country school district": [
@@ -220,8 +185,8 @@
     -88.0469998
   ],
   "luxemburg-casco school district": [
-    44.5492553,
-    -87.6999895
+    44.5479649,
+    -87.7054499
   ],
   "madison country day school": [
     43.1633642,
@@ -258,10 +223,6 @@
   "merrill area public schools": [
     45.180522,
     -89.683459
-  ],
-  "merton community school district": [
-    43.1541501,
-    -88.3695085
   ],
   "mmsd:black hawk": null,
   "mmsd:crestwood": [
@@ -341,10 +302,6 @@
     44.3154564,
     -89.8918206
   ],
-  "new glarus school district": [
-    42.8144683,
-    -89.6339362
-  ],
   "newman catholic schools": [
     44.97248,
     -89.6492298
@@ -387,7 +344,10 @@
     43.03192,
     -88.0086016
   ],
-  "port washington-saukville school district": null,
+  "plymouth joint school district": [
+    43.7486054,
+    -87.977038
+  ],
   "prairie du chien area school district": [
     43.05194,
     -91.1409933
@@ -409,10 +369,6 @@
   "richmond school": [
     43.1203313,
     -88.2746601
-  ],
-  "ripon area school district": [
-    43.8442406,
-    -88.8387158
   ],
   "rural virtual academy": null,
   "salem school district": [
@@ -467,14 +423,6 @@
     42.959738,
     -87.861471
   ],
-  "school district of edgerton": [
-    42.8334758,
-    -89.0693988
-  ],
-  "school district of flambeau": [
-    45.518201,
-    -91.1121797
-  ],
   "school district of greenfield": [
     42.9596903,
     -87.98132
@@ -527,6 +475,10 @@
     42.9762181,
     -88.1084968
   ],
+  "school district of niagara": [
+    45.7716775,
+    -87.9981489
+  ],
   "school district of onalaska": [
     43.8830606,
     -91.2343539
@@ -563,10 +515,6 @@
     43.1185591,
     -87.906804
   ],
-  "seton catholic schools": [
-    43.9694465,
-    -91.2614797
-  ],
   "seymour community school district": [
     44.5429082,
     -88.312718
@@ -587,14 +535,6 @@
   "somerset school district": [
     45.124894,
     -92.6730433
-  ],
-  "southern door county school district": [
-    44.774689,
-    -87.5246702
-  ],
-  "southwestern wi community school district": [
-    46.3112129,
-    -91.3100894
   ],
   "sparta area school district": [
     43.9732475,
@@ -637,8 +577,8 @@
     -89.0933548
   ],
   "unified school district of de pere": [
-    44.4460334,
-    -88.0681845
+    44.4467461,
+    -88.067779
   ],
   "unity school district": [
     44.8506143,
