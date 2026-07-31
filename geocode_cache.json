@@ -29,6 +29,10 @@
     43.8919819,
     -90.9891728
   ],
+  "barron area school district": [
+    45.423557,
+    -91.8454099
+  ],
   "beecher-dunbar-pembine school district": null,
   "berlin area school district": [
     43.9684264,
@@ -38,7 +42,6 @@
     45.6565578,
     -91.5557084
   ],
-  "blessed savior catholic school": null,
   "brighton #1 school district": [
     44.243206,
     -88.365804
@@ -69,18 +72,18 @@
     -90.3156911
   ],
   "common threads family resource center": null,
-  "cornell school district": [
-    45.1671881,
-    -91.1493107
-  ],
   "corpus christi parish school": null,
+  "cumberland school district": [
+    45.5332856,
+    -92.0214764
+  ],
+  "d.c. everest area school district": [
+    44.9391683,
+    -89.6397653
+  ],
   "darlington community school district": [
     42.6802288,
     -90.1178079
-  ],
-  "de soto area school district": [
-    43.4230306,
-    -91.1990204
   ],
   "delavan-darien school district": [
     42.6309356,
@@ -98,6 +101,10 @@
     42.9290586,
     -87.8554529
   ],
+  "dodgeland school district": [
+    43.4016194,
+    -88.7166629
+  ],
   "east troy community school district": [
     42.7851871,
     -88.4054374
@@ -111,6 +118,10 @@
     43.0227593,
     -88.1684094
   ],
+  "evansville community school district": [
+    42.7803486,
+    -89.2992249
+  ],
   "evergreen academy": null,
   "fall river school district": [
     43.3873717,
@@ -119,6 +130,10 @@
   "fox point-bayside school district": [
     43.1760575,
     -87.9116753
+  ],
+  "freedom area school district": [
+    44.3838948,
+    -88.2942301
   ],
   "fundamentals llc": null,
   "genesee lake school": null,
@@ -129,6 +144,10 @@
   "goodman community center": [
     43.0973475,
     -89.3431739
+  ],
+  "grantsburg school district": [
+    45.7789661,
+    -92.6824002
   ],
   "hamilton school district": [
     43.9222491,
@@ -147,6 +166,14 @@
     43.2444487,
     -88.32704
   ],
+  "hortonville area school district": [
+    44.3350374,
+    -88.639343
+  ],
+  "howard-suamico school district": [
+    44.5842757,
+    -88.0253874
+  ],
   "hudson school district": [
     44.9750953,
     -92.7554671
@@ -159,6 +186,10 @@
     44.2780432,
     -88.2720503
   ],
+  "kettle moraine school district": [
+    43.0169314,
+    -88.3760905
+  ],
   "kewaunee school district": [
     44.521282,
     -87.6301086
@@ -170,6 +201,10 @@
   "la causa charter school": [
     43.0131344,
     -87.9129714
+  ],
+  "lad lake": [
+    43.0144033,
+    -88.4506222
   ],
   "lake country classical academy": null,
   "lake country school district": [
@@ -216,6 +251,10 @@
     44.0747805,
     -91.0207157
   ],
+  "menasha joint school district": [
+    44.2022293,
+    -88.4465361
+  ],
   "menominee tribal school": [
     44.978897,
     -88.833996
@@ -225,6 +264,10 @@
     -89.683459
   ],
   "mmsd:black hawk": null,
+  "mmsd:cherokee": [
+    43.0413528,
+    -89.4497607
+  ],
   "mmsd:crestwood": [
     43.0763026,
     -89.4820007
@@ -237,6 +280,11 @@
     43.0976765,
     -89.3546857
   ],
+  "mmsd:franklin": [
+    43.0554226,
+    -89.3876581
+  ],
+  "mmsd:gillespie": null,
   "mmsd:gompers": [
     43.1467126,
     -89.3697456
@@ -265,19 +313,28 @@
     43.0573476,
     -89.4501056
   ],
-  "mmsd:muir": [
-    43.0684477,
-    -89.4944267
-  ],
+  "mmsd:nuestro mundo": null,
+  "mmsd:oyr": null,
   "mmsd:randall": [
     43.068274,
     -89.4177768
+  ],
+  "mmsd:sandburg": [
+    43.1364215,
+    -89.3123028
+  ],
+  "mmsd:schenk": [
+    43.092265,
+    -89.3247882
   ],
   "mmsd:sherman": [
     43.1177357,
     -89.3621885
   ],
-  "mmsd:whitehorse": null,
+  "mmsd:west": [
+    43.0686283,
+    -89.4271064
+  ],
   "montello school district": [
     43.7918612,
     -89.3288187
@@ -302,13 +359,12 @@
     44.3154564,
     -89.8918206
   ],
-  "newman catholic schools": [
-    44.97248,
-    -89.6492298
+  "new glarus school district": [
+    42.8144683,
+    -89.6339362
   ],
   "north shore catholic schools": null,
   "north wisconsin district lcms": null,
-  "northern ozaukee school district": null,
   "norway j7 school district/drought school": null,
   "notre dame de la baie academy": null,
   "oak creek-franklin joint school district": [
@@ -336,10 +392,6 @@
     43.0529695,
     -87.9153682
   ],
-  "pewaukee school district": [
-    43.0846017,
-    -88.2139452
-  ],
   "pius xi catholic high school": [
     43.03192,
     -88.0086016
@@ -362,15 +414,14 @@
   ],
   "randall consolidated joint district #1": null,
   "regis catholic schools": null,
-  "rice lake area school district": [
-    45.5027926,
-    -91.733423
-  ],
   "richmond school": [
     43.1203313,
     -88.2746601
   ],
-  "rural virtual academy": null,
+  "ripon area school district": [
+    43.8442406,
+    -88.8387158
+  ],
   "salem school district": [
     43.9481892,
     -90.7552826
@@ -382,10 +433,6 @@
   "school district of alma center": [
     44.4371047,
     -90.9126506
-  ],
-  "school district of altoona": [
-    44.8046825,
-    -91.4429355
   ],
   "school district of amery": [
     45.3125385,
@@ -422,6 +469,14 @@
   "school district of cudahy": [
     42.959738,
     -87.861471
+  ],
+  "school district of edgerton": [
+    42.8334758,
+    -89.0693988
+  ],
+  "school district of flambeau": [
+    45.518201,
+    -91.1121797
   ],
   "school district of greenfield": [
     42.9596903,
@@ -515,6 +570,10 @@
     43.1185591,
     -87.906804
   ],
+  "seton catholic schools": [
+    43.9694465,
+    -91.2614797
+  ],
   "seymour community school district": [
     44.5429082,
     -88.312718
@@ -536,14 +595,22 @@
     45.124894,
     -92.6730433
   ],
+  "southern door county school district": [
+    44.774689,
+    -87.5246702
+  ],
+  "southwestern wi community school district": [
+    46.2002691,
+    -91.3231565
+  ],
   "sparta area school district": [
     43.9732475,
     -90.8516564
   ],
   "st. bruno parish school": null,
   "st. croix central school district": [
-    44.9768064,
-    -92.4363528
+    44.9823306,
+    -92.4486371
   ],
   "st. francis school district": [
     42.9744081,
@@ -563,11 +630,8 @@
     44.9626104,
     -90.9223059
   ],
-  "sturgeon bay school district": [
-    44.8341639,
-    -87.377042
-  ],
   "the richardson school": null,
+  "transcen, inc": null,
   "two rivers public school district": [
     44.149206,
     -87.5682149
