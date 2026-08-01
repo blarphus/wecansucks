@@ -7,6 +7,7 @@
     43.9653066,
     -89.8014791
   ],
+  "adeline montessori school": null,
   "alma": [
     44.320281,
     -91.9149094
@@ -56,9 +57,8 @@
     -87.9875348
   ],
   "cesa 1": null,
-  "cesa 2": null,
-  "cesa 5": null,
   "cesa 6": null,
+  "cesa 7": null,
   "chetek-weyerhaeuser area school district": [
     45.309305,
     -91.6619192
@@ -117,10 +117,6 @@
   "elmbrook schools": [
     43.0227593,
     -88.1684094
-  ],
-  "evansville community school district": [
-    42.7803486,
-    -89.2992249
   ],
   "evergreen academy": null,
   "fall river school district": [
@@ -182,10 +178,6 @@
     43.0700694,
     -88.7859681
   ],
-  "kaukauna area school district": [
-    44.2780432,
-    -88.2720503
-  ],
   "kettle moraine school district": [
     43.0169314,
     -88.3760905
@@ -220,12 +212,8 @@
     -88.0469998
   ],
   "luxemburg-casco school district": [
-    44.5479649,
-    -87.7054499
-  ],
-  "madison country day school": [
-    43.1633642,
-    -89.3867593
+    44.5492553,
+    -87.6999895
   ],
   "manitowoc public school district": [
     44.0998341,
@@ -268,10 +256,6 @@
     43.0413528,
     -89.4497607
   ],
-  "mmsd:crestwood": [
-    43.0763026,
-    -89.4820007
-  ],
   "mmsd:doyle": [
     43.07063,
     -89.3950391
@@ -293,10 +277,6 @@
     43.057534,
     -89.3120861
   ],
-  "mmsd:kennedy": [
-    43.0940072,
-    -89.2973904
-  ],
   "mmsd:la follette": [
     43.0641796,
     -89.3199528
@@ -315,10 +295,6 @@
   ],
   "mmsd:nuestro mundo": null,
   "mmsd:oyr": null,
-  "mmsd:randall": [
-    43.068274,
-    -89.4177768
-  ],
   "mmsd:sandburg": [
     43.1364215,
     -89.3123028
@@ -380,6 +356,10 @@
     -88.2480072
   ],
   "open wings learning community": null,
+  "osceola school district": [
+    45.310284,
+    -92.6814452
+  ],
   "palmyra-eagle area school district": [
     42.8740009,
     -88.5928511
@@ -391,6 +371,10 @@
   "pathways high": [
     43.0529695,
     -87.9153682
+  ],
+  "pewaukee school district": [
+    43.0846017,
+    -88.2139452
   ],
   "pius xi catholic high school": [
     43.03192,
@@ -412,7 +396,6 @@
     45.5459408,
     -90.2875802
   ],
-  "randall consolidated joint district #1": null,
   "regis catholic schools": null,
   "richmond school": [
     43.1203313,
@@ -426,17 +409,9 @@
     43.9481892,
     -90.7552826
   ],
-  "sauk prairie school district": [
-    43.2981475,
-    -89.7565455
-  ],
   "school district of alma center": [
     44.4371047,
     -90.9126506
-  ],
-  "school district of amery": [
-    45.3125385,
-    -92.3620836
   ],
   "school district of arcadia": [
     44.2527212,
@@ -501,14 +476,6 @@
   "school district of lomira": [
     43.591382,
     -88.443713
-  ],
-  "school district of manawa": [
-    44.4644255,
-    -88.919829
-  ],
-  "school district of maple": [
-    46.5896621,
-    -91.7207434
   ],
   "school district of mauston": [
     43.7968543,
@@ -600,8 +567,8 @@
     -87.5246702
   ],
   "southwestern wi community school district": [
-    46.2002691,
-    -91.3231565
+    46.2699748,
+    -91.3537104
   ],
   "sparta area school district": [
     43.9732475,
