@@ -102,8 +102,8 @@
     -87.8554529
   ],
   "dodgeland school district": [
-    43.4016194,
-    -88.7166629
+    43.4025756,
+    -88.7162216
   ],
   "east troy community school district": [
     42.7851871,
@@ -212,13 +212,14 @@
     -88.0469998
   ],
   "luxemburg-casco school district": [
-    44.5492553,
-    -87.6999895
+    44.5479649,
+    -87.7054499
   ],
   "manitowoc public school district": [
     44.0998341,
     -87.827992
   ],
+  "maple dale-indian hill school district": null,
   "marathon county special education": [
     44.9314487,
     -89.6370141
@@ -355,7 +356,6 @@
     44.9988053,
     -88.2480072
   ],
-  "open wings learning community": null,
   "osceola school district": [
     45.310284,
     -92.6814452
@@ -567,8 +567,8 @@
     -87.5246702
   ],
   "southwestern wi community school district": [
-    46.2699748,
-    -91.3537104
+    46.3112129,
+    -91.3100894
   ],
   "sparta area school district": [
     43.9732475,
@@ -576,8 +576,8 @@
   ],
   "st. bruno parish school": null,
   "st. croix central school district": [
-    44.9823306,
-    -92.4486371
+    44.9768064,
+    -92.4363528
   ],
   "st. francis school district": [
     42.9744081,
@@ -608,16 +608,12 @@
     -89.0933548
   ],
   "unified school district of de pere": [
-    44.4467461,
-    -88.067779
+    44.4460334,
+    -88.0681845
   ],
   "unity school district": [
     44.8506143,
     -90.3161421
-  ],
-  "viroqua area schools": [
-    43.5569174,
-    -90.8887413
   ],
   "waterford union": [
     42.7639055,

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-01T09:07:17.231049-05:00",
+ "generated_at": "2026-08-02T09:08:39.005437-05:00",
  "weeks": 3,
  "subject_labels": {
   "english": "English / ELA",
@@ -19,6 +19,131 @@
   "high": "High school"
  },
  "jobs": [
+  {
+   "id": "270494",
+   "title": "3rd Grade Teacher",
+   "district": "Fond du Lac School District",
+   "location": "Roberts Elementary School",
+   "posted": "2026-08-01",
+   "start": "8/20/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/270494",
+   "source": "wecan",
+   "lat": 43.773,
+   "lng": -88.447,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "270493",
+   "title": "Middle School Teacher - English Language Arts / Science / OR / Social Studies",
+   "district": "Unified School District of Antigo",
+   "location": "Antigo Middle School",
+   "posted": "2026-08-01",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/270493",
+   "source": "wecan",
+   "lat": 45.161232,
+   "lng": -89.0933548,
+   "subjects": [
+    "english",
+    "science",
+    "social"
+   ],
+   "levels": [
+    "middle"
+   ]
+  },
+  {
+   "id": "270492",
+   "title": "Math Specialist",
+   "district": "Pathways High",
+   "location": "Pathways High",
+   "posted": "2026-08-01",
+   "start": "8/24/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/270492",
+   "source": "wecan",
+   "lat": 43.0529695,
+   "lng": -87.9153682,
+   "subjects": [
+    "math"
+   ],
+   "levels": []
+  },
+  {
+   "id": "270491",
+   "title": "English Specialist",
+   "district": "Pathways High",
+   "location": "Pathways High",
+   "posted": "2026-08-01",
+   "start": "8/20/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/270491",
+   "source": "wecan",
+   "lat": 43.0529695,
+   "lng": -87.9153682,
+   "subjects": [
+    "english"
+   ],
+   "levels": []
+  },
+  {
+   "id": "270490",
+   "title": "High School Life Science Teacher",
+   "district": "Pathways High",
+   "location": "Pathways High",
+   "posted": "2026-08-01",
+   "start": "8/20/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/270490",
+   "source": "wecan",
+   "lat": 43.0529695,
+   "lng": -87.9153682,
+   "subjects": [
+    "science"
+   ],
+   "levels": [
+    "high"
+   ]
+  },
+  {
+   "id": "270489",
+   "title": "Middle School Teacher",
+   "district": "Pathways High",
+   "location": "Pathways High",
+   "posted": "2026-08-01",
+   "start": "8/20/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/270489",
+   "source": "wecan",
+   "lat": 43.0529695,
+   "lng": -87.9153682,
+   "subjects": [],
+   "levels": [
+    "middle"
+   ]
+  },
+  {
+   "id": "270488",
+   "title": "Five-Year-Old Kindergarten",
+   "district": "Maple Dale-Indian Hill School District",
+   "location": "Indian Hill School",
+   "posted": "2026-08-01",
+   "start": "8/18/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/270488",
+   "source": "wecan",
+   "lat": null,
+   "lng": null,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
   {
    "id": "270487",
    "title": "Middle School Math Teacher",
@@ -1156,8 +1281,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/270340",
    "source": "wecan",
-   "lat": 43.4016194,
-   "lng": -88.7166629,
+   "lat": 43.4025756,
+   "lng": -88.7162216,
    "subjects": [],
    "levels": [
     "elementary"
@@ -1969,8 +2094,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/270141",
    "source": "wecan",
-   "lat": 44.4467461,
-   "lng": -88.067779,
+   "lat": 44.4460334,
+   "lng": -88.0681845,
    "subjects": [
     "english"
    ],
@@ -2345,21 +2470,6 @@
    "subjects": [
     "music"
    ],
-   "levels": []
-  },
-  {
-   "id": "270032",
-   "title": "Preschool Teacher",
-   "district": "Diocese of Superior",
-   "location": "Cathedral School",
-   "posted": "2026-07-28",
-   "start": "8/17/2026",
-   "close": "8/1/2026",
-   "url": "https://wecan.waspa.org/Vacancy/270032",
-   "source": "wecan",
-   "lat": 45.3103081,
-   "lng": -90.1977969,
-   "subjects": [],
    "levels": []
   },
   {
@@ -2783,25 +2893,6 @@
    ],
    "levels": [
     "elementary"
-   ]
-  },
-  {
-   "id": "269940",
-   "title": "High School Life Science Teacher",
-   "district": "Pathways High",
-   "location": "Pathways High",
-   "posted": "2026-07-27",
-   "start": "8/24/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/269940",
-   "source": "wecan",
-   "lat": 43.0529695,
-   "lng": -87.9153682,
-   "subjects": [
-    "science"
-   ],
-   "levels": [
-    "high"
    ]
   },
   {
@@ -4062,23 +4153,6 @@
    ]
   },
   {
-   "id": "269677",
-   "title": "Montessori Teacher, CH Teacher (4K-K)",
-   "district": "Viroqua Area Schools",
-   "location": "Viroqua Area Montessori School",
-   "posted": "2026-07-23",
-   "start": "8/11/2026",
-   "close": "8/1/2026",
-   "url": "https://wecan.waspa.org/Vacancy/269677",
-   "source": "wecan",
-   "lat": 43.5569174,
-   "lng": -90.8887413,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
    "id": "269675",
    "title": "Science Teacher",
    "district": "School District of West Salem",
@@ -4160,8 +4234,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/269656",
    "source": "wecan",
-   "lat": 44.5492553,
-   "lng": -87.6999895,
+   "lat": 44.5479649,
+   "lng": -87.7054499,
    "subjects": [
     "social"
    ],
@@ -4440,8 +4514,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/269584",
    "source": "wecan",
-   "lat": 46.2699748,
-   "lng": -91.3537104,
+   "lat": 46.3112129,
+   "lng": -91.3100894,
    "subjects": [
     "science"
    ],
@@ -4529,8 +4603,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/269567",
    "source": "wecan",
-   "lat": 44.5492553,
-   "lng": -87.6999895,
+   "lat": 44.5479649,
+   "lng": -87.7054499,
    "subjects": [
     "math"
    ],
@@ -5061,25 +5135,6 @@
    ]
   },
   {
-   "id": "269421",
-   "title": "Middle School Math and Religion Teacher",
-   "district": "Milwaukee Southwest Catholic Schools",
-   "location": "St. Matthew School - Oak Creek",
-   "posted": "2026-07-21",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/269421",
-   "source": "wecan",
-   "lat": 43.0389,
-   "lng": -87.9065,
-   "subjects": [
-    "math"
-   ],
-   "levels": [
-    "middle"
-   ]
-  },
-  {
    "id": "269414",
    "title": "Elementary Special Education Teacher- $3000 Signing Bonus",
    "district": "The Richardson School",
@@ -5559,23 +5614,6 @@
    "source": "wecan",
    "lat": 43.0389,
    "lng": -87.9065,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "269286",
-   "title": "5th Grade Teacher",
-   "district": "Fond du Lac School District",
-   "location": "Pier Elementary School",
-   "posted": "2026-07-20",
-   "start": "8/20/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/269286",
-   "source": "wecan",
-   "lat": 43.773,
-   "lng": -88.447,
    "subjects": [],
    "levels": [
     "elementary"
@@ -7390,8 +7428,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/268793",
    "source": "wecan",
-   "lat": 44.9823306,
-   "lng": -92.4486371,
+   "lat": 44.9768064,
+   "lng": -92.4363528,
    "subjects": [
     "esl"
    ],
@@ -8540,21 +8578,6 @@
    "levels": [
     "high"
    ]
-  },
-  {
-   "id": "268468",
-   "title": "Teaching Associate",
-   "district": "Open Wings Learning Community",
-   "location": "Open Wings Learning Community-Kenosha Campus",
-   "posted": "2026-07-11",
-   "start": "8/17/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/268468",
-   "source": "wecan",
-   "lat": null,
-   "lng": null,
-   "subjects": [],
-   "levels": []
   },
   {
    "id": "mmsd:9447",
