@@ -43,9 +43,14 @@
     45.6565578,
     -91.5557084
   ],
+  "blessed savior catholic school": null,
   "brighton #1 school district": [
     44.243206,
     -88.365804
+  ],
+  "brillion public schools": [
+    44.1735573,
+    -88.0663209
   ],
   "cambria-friesland school district": [
     43.5414362,
@@ -108,6 +113,10 @@
   "east troy community school district": [
     42.7851871,
     -88.4054374
+  ],
+  "elk mound area school district": [
+    44.8730167,
+    -91.6910015
   ],
   "elkhart lake-glenbeulah school district": null,
   "elkhorn area school district": [
@@ -186,6 +195,10 @@
     44.521282,
     -87.6301086
   ],
+  "kiel": [
+    43.912493,
+    -88.0356515
+  ],
   "kimberly area school district": [
     44.2717086,
     -88.3400807
@@ -212,8 +225,8 @@
     -88.0469998
   ],
   "luxemburg-casco school district": [
-    44.5479649,
-    -87.7054499
+    44.548052,
+    -87.7056351
   ],
   "manitowoc public school district": [
     44.0998341,
@@ -232,6 +245,10 @@
     43.7073195,
     -88.9900685
   ],
+  "mayville schools": [
+    43.5048818,
+    -88.554367
+  ],
   "medford area public school district": [
     45.1391437,
     -90.3460806
@@ -247,6 +264,10 @@
   "menominee tribal school": [
     44.978897,
     -88.833996
+  ],
+  "mequon-thiensville school district": [
+    43.2396327,
+    -87.9859619
   ],
   "merrill area public schools": [
     45.180522,
@@ -360,10 +381,6 @@
     45.310284,
     -92.6814452
   ],
-  "palmyra-eagle area school district": [
-    42.8740009,
-    -88.5928511
-  ],
   "pardeeville area school district": [
     43.5377608,
     -89.3001174
@@ -445,10 +462,6 @@
     42.959738,
     -87.861471
   ],
-  "school district of edgerton": [
-    42.8334758,
-    -89.0693988
-  ],
   "school district of flambeau": [
     45.518201,
     -91.1121797
@@ -460,10 +473,6 @@
   "school district of hartford j1": [
     43.317744,
     -88.3788508
-  ],
-  "school district of hillsboro": [
-    43.6508619,
-    -90.3399082
   ],
   "school district of holmen": [
     43.9632211,
@@ -496,6 +505,10 @@
   "school district of new berlin": [
     42.9762181,
     -88.1084968
+  ],
+  "school district of new richmond": [
+    45.1227287,
+    -92.537502
   ],
   "school district of niagara": [
     45.7716775,
@@ -567,8 +580,8 @@
     -87.5246702
   ],
   "southwestern wi community school district": [
-    46.3112129,
-    -91.3100894
+    46.2699748,
+    -91.3537104
   ],
   "sparta area school district": [
     43.9732475,
@@ -608,12 +621,8 @@
     -89.0933548
   ],
   "unified school district of de pere": [
-    44.4460334,
-    -88.0681845
-  ],
-  "unity school district": [
-    44.8506143,
-    -90.3161421
+    44.4467461,
+    -88.067779
   ],
   "waterford union": [
     42.7639055,
@@ -642,6 +651,10 @@
   "whitnall school district": [
     42.9347867,
     -88.0384117
+  ],
+  "wisconsin rapids public schools": [
+    44.4037069,
+    -89.8737566
   ],
   "wonewoc-union center school district": null,
   "wrightstown community school district": [
