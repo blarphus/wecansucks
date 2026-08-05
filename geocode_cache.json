@@ -30,10 +30,6 @@
     43.8919819,
     -90.9891728
   ],
-  "barron area school district": [
-    45.423557,
-    -91.8454099
-  ],
   "beecher-dunbar-pembine school district": null,
   "berlin area school district": [
     43.9684264,
@@ -71,10 +67,6 @@
     45.309305,
     -91.6619192
   ],
-  "chippewa falls area unified school district": [
-    44.9371325,
-    -91.3932118
-  ],
   "common threads family resource center": null,
   "corpus christi parish school": null,
   "cumberland school district": [
@@ -88,6 +80,10 @@
   "darlington community school district": [
     42.6802288,
     -90.1178079
+  ],
+  "de soto area school district": [
+    43.4230306,
+    -91.1990204
   ],
   "delavan-darien school district": [
     42.6309356,
@@ -109,6 +105,7 @@
     43.4016194,
     -88.7166629
   ],
+  "durand-arkansaw school district": null,
   "east troy community school district": [
     42.7851871,
     -88.4054374
@@ -135,10 +132,6 @@
     43.3873717,
     -89.0442238
   ],
-  "fox point-bayside school district": [
-    43.1760575,
-    -87.9116753
-  ],
   "freedom area school district": [
     44.3838948,
     -88.2942301
@@ -152,6 +145,10 @@
   "goodman community center": [
     43.0973475,
     -89.3431739
+  ],
+  "grafton school district": [
+    43.3195224,
+    -87.9517842
   ],
   "grantsburg school district": [
     45.7789661,
@@ -211,10 +208,6 @@
     43.0798032,
     -88.9125723
   ],
-  "luxemburg-casco school district": [
-    44.548052,
-    -87.7056351
-  ],
   "manitowoc public school district": [
     44.0998341,
     -87.827992
@@ -236,17 +229,9 @@
     43.5048818,
     -88.554367
   ],
-  "medford area public school district": [
-    45.1391437,
-    -90.3460806
-  ],
   "melrose-mindoro area schools": [
     44.0747805,
     -91.0207157
-  ],
-  "menasha joint school district": [
-    44.2022293,
-    -88.4465361
   ],
   "menominee tribal school": [
     44.978897,
@@ -336,7 +321,7 @@
     42.8144683,
     -89.6339362
   ],
-  "north wisconsin district lcms": null,
+  "north shore catholic schools": null,
   "notre dame de la baie academy": null,
   "oak creek-franklin joint school district": [
     42.9054721,
@@ -354,10 +339,6 @@
     45.310284,
     -92.6814452
   ],
-  "pardeeville area school district": [
-    43.5377608,
-    -89.3001174
-  ],
   "pathways high": [
     43.0529695,
     -87.9153682
@@ -374,6 +355,11 @@
     43.03192,
     -88.0086016
   ],
+  "plymouth joint school district": [
+    43.7486054,
+    -87.977038
+  ],
+  "port washington-saukville school district": null,
   "prairie du chien area school district": [
     43.05194,
     -91.1409933
@@ -411,13 +397,13 @@
     44.2527212,
     -91.5014893
   ],
-  "school district of ashland": [
-    46.2062319,
-    -90.6802594
-  ],
   "school district of black hawk": [
     43.269156,
     -89.927346
+  ],
+  "school district of black river falls": [
+    44.2952152,
+    -90.8484137
   ],
   "school district of bonduel": [
     44.7399556,
@@ -435,6 +421,10 @@
     42.959738,
     -87.861471
   ],
+  "school district of denmark": [
+    44.3479362,
+    -87.8269868
+  ],
   "school district of flambeau": [
     45.518201,
     -91.1121797
@@ -451,9 +441,9 @@
     43.9632211,
     -91.2563658
   ],
-  "school district of lake holcombe": [
-    45.2418035,
-    -91.099884
+  "school district of loyal": [
+    44.7369073,
+    -90.4959724
   ],
   "school district of manawa": [
     44.4644255,
@@ -487,9 +477,9 @@
     43.8830606,
     -91.2343539
   ],
-  "school district of rhinelander": [
-    45.636623,
-    -89.412075
+  "school district of oostburg": [
+    43.6231131,
+    -87.7983447
   ],
   "school district of river falls": [
     44.8596498,
@@ -523,6 +513,10 @@
     43.1185591,
     -87.906804
   ],
+  "seymour community school district": [
+    44.5429082,
+    -88.312718
+  ],
   "shawano school district": [
     44.7817214,
     -88.7118868
@@ -544,10 +538,15 @@
     46.2002691,
     -91.3231565
   ],
+  "sparta area school district": [
+    43.9732475,
+    -90.8516564
+  ],
   "st. bruno parish school": null,
+  "st. charles parish school": null,
   "st. croix central school district": [
-    44.9768064,
-    -92.4363528
+    44.9823306,
+    -92.4486371
   ],
   "st. francis school district": [
     42.9744081,
@@ -569,8 +568,8 @@
   ],
   "the richardson school": null,
   "tomorrow river school district": [
-    44.430922,
-    -89.2760799
+    44.4309644,
+    -89.2759685
   ],
   "transcen, inc": null,
   "two rivers public school district": [
@@ -582,16 +581,12 @@
     -89.0933548
   ],
   "unified school district of de pere": [
-    44.4460334,
-    -88.0681845
+    44.4467461,
+    -88.067779
   ],
   "viroqua area schools": [
     43.5569174,
     -90.8887413
-  ],
-  "waterford union": [
-    42.7639055,
-    -88.2187009
   ],
   "waupun area school district": [
     43.633216,
@@ -616,6 +611,10 @@
   "whitnall school district": [
     42.9347867,
     -88.0384117
+  ],
+  "williams bay school district": [
+    42.5780721,
+    -88.5409333
   ],
   "wisconsin rapids public schools": [
     44.4037069,
