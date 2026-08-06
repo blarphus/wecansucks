@@ -21,10 +21,6 @@
     44.4752606,
     -88.060735
   ],
-  "augusta area school district": [
-    44.6798428,
-    -91.1208384
-  ],
   "bader hillel academy": null,
   "bangor school district": [
     43.8919819,
@@ -68,7 +64,6 @@
     -91.6619192
   ],
   "common threads family resource center": null,
-  "corpus christi parish school": null,
   "cumberland school district": [
     45.5332856,
     -92.0214764
@@ -114,7 +109,6 @@
     44.8730167,
     -91.6910015
   ],
-  "elkhart lake-glenbeulah school district": null,
   "elkhorn area school district": [
     42.6719206,
     -88.543494
@@ -128,15 +122,10 @@
     -88.1684094
   ],
   "evergreen academy": null,
-  "fall river school district": [
-    43.3873717,
-    -89.0442238
-  ],
   "freedom area school district": [
     44.3838948,
     -88.2942301
   ],
-  "fundamentals llc": null,
   "genesee lake school": null,
   "germantown school district": [
     43.2286174,
@@ -187,10 +176,6 @@
     43.0169314,
     -88.3760905
   ],
-  "kewaunee school district": [
-    44.521282,
-    -87.6301086
-  ],
   "kiel": [
     43.912493,
     -88.0356515
@@ -207,6 +192,10 @@
   "lake mills area school district": [
     43.0798032,
     -88.9125723
+  ],
+  "lena": [
+    44.9510985,
+    -88.0469998
   ],
   "manitowoc public school district": [
     44.0998341,
@@ -229,9 +218,9 @@
     43.5048818,
     -88.554367
   ],
-  "melrose-mindoro area schools": [
-    44.0747805,
-    -91.0207157
+  "menominee indian school district": [
+    44.9762964,
+    -88.7347165
   ],
   "menominee tribal school": [
     44.978897,
@@ -267,10 +256,6 @@
     43.057534,
     -89.3120861
   ],
-  "mmsd:lori mann carey": [
-    43.0380456,
-    -89.3774157
-  ],
   "mmsd:memorial": [
     43.0639225,
     -89.5010366
@@ -305,23 +290,20 @@
     42.8666803,
     -88.3334274
   ],
-  "necedah area school district": [
-    44.0254284,
-    -90.07213
+  "muskego-norway school district": [
+    42.8451651,
+    -88.1340107
   ],
   "neenah joint school district": [
     44.1837802,
     -88.4634176
-  ],
-  "nekoosa school district": [
-    44.3154564,
-    -89.8918206
   ],
   "new glarus school district": [
     42.8144683,
     -89.6339362
   ],
   "north shore catholic schools": null,
+  "norway j7 school district/drought school": null,
   "notre dame de la baie academy": null,
   "oak creek-franklin joint school district": [
     42.9054721,
@@ -330,10 +312,6 @@
   "oconomowoc area school district": [
     43.1116731,
     -88.4992659
-  ],
-  "oconto unified school district": [
-    44.9988053,
-    -88.2480072
   ],
   "osceola school district": [
     45.310284,
@@ -372,15 +350,12 @@
     45.5459408,
     -90.2875802
   ],
+  "randall consolidated joint district #1": null,
   "raymond school district #14": [
-    45.1049499,
-    -87.6392639
+    45.1049489,
+    -87.6392629
   ],
   "regis catholic schools": null,
-  "richmond school": [
-    43.1203313,
-    -88.2746601
-  ],
   "ripon area school district": [
     43.8442406,
     -88.8387158
@@ -473,6 +448,10 @@
     45.7716775,
     -87.9981489
   ],
+  "school district of oakfield": [
+    43.6836929,
+    -88.5474431
+  ],
   "school district of onalaska": [
     43.8830606,
     -91.2343539
@@ -485,14 +464,6 @@
     44.8596498,
     -92.6255048
   ],
-  "school district of shiocton": [
-    44.4420959,
-    -88.5791057
-  ],
-  "school district of slinger": [
-    43.3343237,
-    -88.2850959
-  ],
   "school district of spring valley": [
     44.8452476,
     -92.2384167
@@ -501,6 +472,7 @@
     44.9012628,
     -91.9297247
   ],
+  "school district of wabeno area": null,
   "school district of west de pere": [
     44.445547,
     -88.0753807
@@ -513,6 +485,10 @@
     43.1185591,
     -87.906804
   ],
+  "seneca school district": [
+    44.8112076,
+    -88.9201279
+  ],
   "seymour community school district": [
     44.5429082,
     -88.312718
@@ -521,7 +497,6 @@
     44.7817214,
     -88.7118868
   ],
-  "shepherd's watch christian academy": null,
   "shorewood school district": [
     43.0883957,
     -87.8881302
@@ -529,10 +504,6 @@
   "siren school district": [
     45.7874336,
     -92.3819709
-  ],
-  "southern door county school district": [
-    44.774689,
-    -87.5246702
   ],
   "southwestern wi community school district": [
     46.2002691,
@@ -544,10 +515,6 @@
   ],
   "st. bruno parish school": null,
   "st. charles parish school": null,
-  "st. croix central school district": [
-    44.9823306,
-    -92.4486371
-  ],
   "st. francis school district": [
     42.9744081,
     -87.8709308
@@ -556,17 +523,28 @@
     42.7396306,
     -87.7864198
   ],
+  "st. joseph academy": [
+    42.9890468,
+    -87.934382
+  ],
   "st. leonard catholic school": null,
-  "st. mary's springs academy": null,
   "stanley-boyd area schools": [
     44.9626104,
     -90.9223059
+  ],
+  "sturgeon bay school district": [
+    44.8341639,
+    -87.377042
   ],
   "superior school district": [
     46.4800042,
     -92.1829648
   ],
   "the richardson school": null,
+  "tigerton school district": [
+    44.7404426,
+    -89.0623847
+  ],
   "tomorrow river school district": [
     44.4309644,
     -89.2759685
@@ -581,8 +559,8 @@
     -89.0933548
   ],
   "unified school district of de pere": [
-    44.4467461,
-    -88.067779
+    44.4460334,
+    -88.0681845
   ],
   "viroqua area schools": [
     43.5569174,
