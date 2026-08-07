@@ -17,15 +17,7 @@
     -87.6182613
   ],
   "arrowhead union high school": null,
-  "ashwaubenon school district": [
-    44.4752606,
-    -88.060735
-  ],
   "bader hillel academy": null,
-  "bangor school district": [
-    43.8919819,
-    -90.9891728
-  ],
   "beecher-dunbar-pembine school district": null,
   "berlin area school district": [
     43.9684264,
@@ -36,14 +28,6 @@
     -91.5557084
   ],
   "blessed savior catholic school": null,
-  "brighton #1 school district": [
-    44.243206,
-    -88.365804
-  ],
-  "brillion public schools": [
-    44.1735573,
-    -88.0663209
-  ],
   "cambria-friesland school district": [
     43.5414362,
     -89.1020736
@@ -100,6 +84,7 @@
     43.4016194,
     -88.7166629
   ],
+  "dover #1 kansasville": null,
   "durand-arkansaw school district": null,
   "east troy community school district": [
     42.7851871,
@@ -121,12 +106,15 @@
     43.0227593,
     -88.1684094
   ],
+  "evansville community school district": [
+    42.7803486,
+    -89.2992249
+  ],
   "evergreen academy": null,
   "freedom area school district": [
     44.3838948,
     -88.2942301
   ],
-  "genesee lake school": null,
   "germantown school district": [
     43.2286174,
     -88.1103691
@@ -197,6 +185,7 @@
     44.9510985,
     -88.0469998
   ],
+  "lutheran urban mission initiative, inc. (lumin)": null,
   "manitowoc public school district": [
     44.0998341,
     -87.827992
@@ -234,6 +223,10 @@
     45.180522,
     -89.683459
   ],
+  "mmsd:anana": [
+    43.0400195,
+    -89.4896913
+  ],
   "mmsd:black hawk": null,
   "mmsd:cherokee": [
     43.0413528,
@@ -252,9 +245,29 @@
     -89.3876581
   ],
   "mmsd:gillespie": null,
+  "mmsd:gompers": [
+    43.1467126,
+    -89.3697456
+  ],
+  "mmsd:hamilton": [
+    43.064782,
+    -89.4585258
+  ],
+  "mmsd:hawthorne": [
+    43.1120346,
+    -89.3282322
+  ],
   "mmsd:henderson": [
     43.057534,
     -89.3120861
+  ],
+  "mmsd:huegel": [
+    43.0250529,
+    -89.4874043
+  ],
+  "mmsd:kennedy": [
+    43.0940072,
+    -89.2973904
   ],
   "mmsd:memorial": [
     43.0639225,
@@ -278,9 +291,17 @@
     43.1177357,
     -89.3621885
   ],
+  "mmsd:van hise": [
+    43.064782,
+    -89.4585258
+  ],
   "mmsd:west": [
     43.0686283,
     -89.4271064
+  ],
+  "mmsd:wright": [
+    43.0484371,
+    -89.4002258
   ],
   "mosinee school district": [
     44.7927669,
@@ -352,8 +373,8 @@
   ],
   "randall consolidated joint district #1": null,
   "raymond school district #14": [
-    45.1049489,
-    -87.6392629
+    45.1049499,
+    -87.6392639
   ],
   "regis catholic schools": null,
   "ripon area school district": [
@@ -367,14 +388,6 @@
   "school district of alma center": [
     44.4371047,
     -90.9126506
-  ],
-  "school district of arcadia": [
-    44.2527212,
-    -91.5014893
-  ],
-  "school district of black hawk": [
-    43.269156,
-    -89.927346
   ],
   "school district of black river falls": [
     44.2952152,
@@ -452,10 +465,6 @@
     43.6836929,
     -88.5474431
   ],
-  "school district of onalaska": [
-    43.8830606,
-    -91.2343539
-  ],
   "school district of oostburg": [
     43.6231131,
     -87.7983447
@@ -506,8 +515,8 @@
     -92.3819709
   ],
   "southwestern wi community school district": [
-    46.2002691,
-    -91.3231565
+    46.2699748,
+    -91.3537104
   ],
   "sparta area school district": [
     43.9732475,
@@ -559,8 +568,12 @@
     -89.0933548
   ],
   "unified school district of de pere": [
-    44.4460334,
-    -88.0681845
+    44.4467461,
+    -88.067779
+  ],
+  "united community center schools": [
+    43.0206611,
+    -87.9220984
   ],
   "viroqua area schools": [
     43.5569174,
@@ -593,6 +606,10 @@
   "williams bay school district": [
     42.5780721,
     -88.5409333
+  ],
+  "winneconne community school district": [
+    44.1109462,
+    -88.7136515
   ],
   "wisconsin rapids public schools": [
     44.4037069,
