@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-08T08:27:08.660228-05:00",
+ "generated_at": "2026-08-09T08:31:19.710892-05:00",
  "weeks": 3,
  "subject_labels": {
   "english": "English / ELA",
@@ -19,6 +19,23 @@
   "high": "High school"
  },
  "jobs": [
+  {
+   "id": "271186",
+   "title": "Elementary School Aide",
+   "district": "Diocese of La Crosse",
+   "location": "Sacred Heart of Jesus Catholic School, Cashton",
+   "posted": "2026-08-08",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/271186",
+   "source": "wecan",
+   "lat": 43.8014,
+   "lng": -91.2396,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
   {
    "id": "271185",
    "title": "Special Education Teacher-Cross Categorical",
@@ -302,6 +319,23 @@
    "source": "wecan",
    "lat": 45.636623,
    "lng": -89.412075,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "271130",
+   "title": "Elementary Teacher - 5th Grade",
+   "district": "School District of South Milwaukee",
+   "location": "Lakeview Elementary School",
+   "posted": "2026-08-07",
+   "start": "8/17/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/271130",
+   "source": "wecan",
+   "lat": 43.0389,
+   "lng": -87.9065,
    "subjects": [],
    "levels": [
     "elementary"
@@ -803,7 +837,7 @@
    "location": "J.C. McKenna Middle School",
    "posted": "2026-08-06",
    "start": "8/20/2026",
-   "close": "8/17/2026",
+   "close": "8/16/2026",
    "url": "https://wecan.waspa.org/Vacancy/271053",
    "source": "wecan",
    "lat": 42.7803486,
@@ -2937,8 +2971,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/270645",
    "source": "wecan",
-   "lat": 45.1049499,
-   "lng": -87.6392639,
+   "lat": 45.1049489,
+   "lng": -87.6392629,
    "subjects": [
     "english"
    ],
@@ -3614,24 +3648,6 @@
     "english"
    ],
    "levels": [
-    "middle"
-   ]
-  },
-  {
-   "id": "270520",
-   "title": "26-27 Kindergarten Teacher",
-   "district": "Racine Unified School District",
-   "location": "Mitchell K-8 Campus",
-   "posted": "2026-08-03",
-   "start": "8/25/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/270520",
-   "source": "wecan",
-   "lat": 42.7261,
-   "lng": -87.7829,
-   "subjects": [],
-   "levels": [
-    "elementary",
     "middle"
    ]
   },
@@ -5925,23 +5941,6 @@
    ]
   },
   {
-   "id": "269976",
-   "title": "Elementary Teacher - 4th Grade",
-   "district": "School District of South Milwaukee",
-   "location": "E. W. Luther Elementary School",
-   "posted": "2026-07-27",
-   "start": "8/17/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/269976",
-   "source": "wecan",
-   "lat": 43.0389,
-   "lng": -87.9065,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
    "id": "269971",
    "title": "High School Math/Science (1.0 FTE)",
    "district": "Aquinas Catholic Schools",
@@ -7295,8 +7294,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/269584",
    "source": "wecan",
-   "lat": 46.3112129,
-   "lng": -91.3100894,
+   "lat": 46.2002691,
+   "lng": -91.3231565,
    "subjects": [
     "science"
    ],
@@ -8461,23 +8460,6 @@
    "subjects": [],
    "levels": [
     "high"
-   ]
-  },
-  {
-   "id": "269180",
-   "title": "Elementary Classroom Teacher",
-   "district": "Catholic Diocese of Green Bay",
-   "location": "Assumption BVM Catholic School",
-   "posted": "2026-07-18",
-   "start": "8/17/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/269180",
-   "source": "wecan",
-   "lat": 44.5133,
-   "lng": -88.0133,
-   "subjects": [],
-   "levels": [
-    "elementary"
    ]
   },
   {
