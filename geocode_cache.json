@@ -14,6 +14,10 @@
   ],
   "arrowhead union high school": null,
   "bader hillel academy": null,
+  "barron area school district": [
+    45.423557,
+    -91.8454099
+  ],
   "beecher-dunbar-pembine school district": null,
   "berlin area school district": [
     43.9684264,
@@ -32,25 +36,28 @@
     43.5981718,
     -88.2849664
   ],
-  "cedar grove-belgium area school district": null,
   "cedarburg school district": [
     43.2966545,
     -87.9875348
   ],
   "cesa 1": null,
+  "cesa 10": [
+    44.9168142,
+    -91.3971449
+  ],
   "cesa 6": null,
   "chetek-weyerhaeuser area school district": [
     45.309305,
     -91.6619192
   ],
+  "chippewa falls area unified school district": [
+    44.9371325,
+    -91.3932118
+  ],
   "common threads family resource center": null,
   "cumberland school district": [
     45.5332856,
     -92.0214764
-  ],
-  "d.c. everest area school district": [
-    44.9391683,
-    -89.6397653
   ],
   "darlington community school district": [
     42.6802288,
@@ -77,23 +84,15 @@
     -87.8554529
   ],
   "dodgeland school district": [
-    43.4025756,
-    -88.7162216
+    43.4016194,
+    -88.7166629
   ],
   "dover #1 kansasville": null,
+  "downtown montessori academy": [
+    42.9985182,
+    -87.9038278
+  ],
   "durand-arkansaw school district": null,
-  "east troy community school district": [
-    42.7851871,
-    -88.4054374
-  ],
-  "elk mound area school district": [
-    44.8730167,
-    -91.6910015
-  ],
-  "elkhorn area school district": [
-    42.6719206,
-    -88.543494
-  ],
   "ellsworth community school district": [
     44.732122,
     -92.4831218
@@ -127,6 +126,10 @@
     45.7789661,
     -92.6824002
   ],
+  "hamilton school district": [
+    43.9222491,
+    -91.1060036
+  ],
   "hartland-lakeside school district": null,
   "heritage christian schools": [
     43.018643,
@@ -144,10 +147,6 @@
     44.5842757,
     -88.0253874
   ],
-  "hudson school district": [
-    44.9750953,
-    -92.7554671
-  ],
   "kettle moraine school district": [
     43.0169314,
     -88.3760905
@@ -160,18 +159,14 @@
     44.2717086,
     -88.3400807
   ],
+  "lac courte oreilles ojibwe school": [
+    45.9434176,
+    -91.35972
+  ],
   "lake country classical academy": null,
   "lake country school district": [
     43.1029333,
     -88.354607
-  ],
-  "lake mills area school district": [
-    43.0798032,
-    -88.9125723
-  ],
-  "lena": [
-    44.9510985,
-    -88.0469998
   ],
   "lutheran urban mission initiative, inc. (lumin)": null,
   "manitowoc public school district": [
@@ -186,10 +181,6 @@
   "marinette school district": [
     45.3834983,
     -88.0409574
-  ],
-  "markesan": [
-    43.7073195,
-    -88.9900685
   ],
   "mayville schools": [
     43.5048818,
@@ -211,17 +202,13 @@
     45.180522,
     -89.683459
   ],
-  "mmsd:anana": [
-    43.0400195,
-    -89.4896913
+  "mineral point school district": [
+    42.8601132,
+    -90.1797688
   ],
   "mmsd:cherokee": [
     43.0413528,
     -89.4497607
-  ],
-  "mmsd:east": [
-    43.0976765,
-    -89.3546857
   ],
   "mmsd:franklin": [
     43.0554226,
@@ -290,9 +277,14 @@
     42.8451651,
     -88.1340107
   ],
+  "national heritage academies": null,
   "neenah joint school district": [
     44.1837802,
     -88.4634176
+  ],
+  "nekoosa school district": [
+    44.3154564,
+    -89.8918206
   ],
   "new glarus school district": [
     42.8144683,
@@ -301,7 +293,6 @@
   "north shore catholic schools": null,
   "northern ozaukee school district": null,
   "norway j7 school district/drought school": null,
-  "notre dame de la baie academy": null,
   "oak creek-franklin joint school district": [
     42.9054721,
     -87.9265921
@@ -357,17 +348,13 @@
   ],
   "randall consolidated joint district #1": null,
   "raymond school district #14": [
-    45.1049489,
-    -87.6392629
+    45.1049499,
+    -87.6392639
   ],
   "regis catholic schools": null,
   "ripon area school district": [
     43.8442406,
     -88.8387158
-  ],
-  "salem school district": [
-    43.9481892,
-    -90.7552826
   ],
   "sauk prairie school district": [
     43.2981475,
@@ -457,6 +444,10 @@
     43.6231131,
     -87.7983447
   ],
+  "school district of prescott": [
+    44.749123,
+    -92.8022347
+  ],
   "school district of rhinelander": [
     45.636623,
     -89.412075
@@ -468,6 +459,10 @@
   "school district of spring valley": [
     44.8452476,
     -92.2384167
+  ],
+  "school district of stratford": [
+    44.8010763,
+    -90.0792975
   ],
   "school district of the menomonie area": [
     44.9012628,
@@ -511,8 +506,8 @@
     -92.3819709
   ],
   "southwestern wi community school district": [
-    46.2699748,
-    -91.3537104
+    46.2002691,
+    -91.3231565
   ],
   "sparta area school district": [
     43.9732475,
@@ -520,10 +515,6 @@
   ],
   "st. bruno parish school": null,
   "st. charles parish school": null,
-  "st. francis school district": [
-    42.9744081,
-    -87.8709308
-  ],
   "st. john's lutheran school": [
     42.7396306,
     -87.7864198
@@ -551,17 +542,13 @@
     -89.0623847
   ],
   "tomorrow river school district": [
-    44.4309644,
-    -89.2759685
+    44.430922,
+    -89.2760799
   ],
   "transcen, inc": null,
   "two rivers public school district": [
     44.149206,
     -87.5682149
-  ],
-  "unified school district of antigo": [
-    45.161232,
-    -89.0933548
   ],
   "unified school district of de pere": [
     44.4467461,
@@ -584,17 +571,13 @@
     43.0494122,
     -88.0079271
   ],
-  "webster school district": [
-    45.8774768,
-    -92.3668049
-  ],
   "west bend school district": [
     43.4252776,
     -88.1834277
   ],
-  "westby area school district": [
-    43.6528403,
-    -90.8576087
+  "white lake school district": [
+    45.157193,
+    -88.764551
   ],
   "whitnall school district": [
     42.9347867,
