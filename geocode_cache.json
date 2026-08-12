@@ -13,6 +13,7 @@
     -91.9149094
   ],
   "arrowhead union high school": null,
+  "aspiro, inc.": null,
   "bader hillel academy": null,
   "barron area school district": [
     45.423557,
@@ -45,6 +46,7 @@
     44.9168142,
     -91.3971449
   ],
+  "cesa 5": null,
   "cesa 6": null,
   "chetek-weyerhaeuser area school district": [
     45.309305,
@@ -93,6 +95,10 @@
     -87.9038278
   ],
   "durand-arkansaw school district": null,
+  "east troy community school district": [
+    42.7851871,
+    -88.4054374
+  ],
   "ellsworth community school district": [
     44.732122,
     -92.4831218
@@ -118,14 +124,6 @@
     43.0973475,
     -89.3431739
   ],
-  "grafton school district": [
-    43.3195224,
-    -87.9517842
-  ],
-  "grantsburg school district": [
-    45.7789661,
-    -92.6824002
-  ],
   "hamilton school district": [
     43.9222491,
     -91.1060036
@@ -142,10 +140,6 @@
   "holy hill area school district": [
     43.2444487,
     -88.32704
-  ],
-  "howard-suamico school district": [
-    44.5842757,
-    -88.0253874
   ],
   "kettle moraine school district": [
     43.0169314,
@@ -210,11 +204,6 @@
     43.0413528,
     -89.4497607
   ],
-  "mmsd:franklin": [
-    43.0554226,
-    -89.3876581
-  ],
-  "mmsd:gillespie": null,
   "mmsd:gompers": [
     43.1467126,
     -89.3697456
@@ -239,7 +228,6 @@
     43.0639225,
     -89.5010366
   ],
-  "mmsd:nuestro mundo": null,
   "mmsd:oyr": null,
   "mmsd:sandburg": [
     43.1364215,
@@ -285,10 +273,6 @@
   "nekoosa school district": [
     44.3154564,
     -89.8918206
-  ],
-  "new glarus school district": [
-    42.8144683,
-    -89.6339362
   ],
   "north shore catholic schools": null,
   "northern ozaukee school district": null,
@@ -493,10 +477,6 @@
     44.5429082,
     -88.312718
   ],
-  "shawano school district": [
-    44.7817214,
-    -88.7118868
-  ],
   "shorewood school district": [
     43.0883957,
     -87.8881302
@@ -504,10 +484,6 @@
   "siren school district": [
     45.7874336,
     -92.3819709
-  ],
-  "southwestern wi community school district": [
-    46.2002691,
-    -91.3231565
   ],
   "sparta area school district": [
     43.9732475,
@@ -542,14 +518,10 @@
     -89.0623847
   ],
   "tomorrow river school district": [
-    44.430922,
-    -89.2760799
+    44.4309644,
+    -89.2759685
   ],
   "transcen, inc": null,
-  "two rivers public school district": [
-    44.149206,
-    -87.5682149
-  ],
   "unified school district of de pere": [
     44.4467461,
     -88.067779
@@ -563,6 +535,10 @@
     43.5569174,
     -90.8887413
   ],
+  "waterloo school district": [
+    43.1838844,
+    -88.9884421
+  ],
   "waupun area school district": [
     43.633216,
     -88.7296352
@@ -570,10 +546,6 @@
   "wauwatosa school district": [
     43.0494122,
     -88.0079271
-  ],
-  "west bend school district": [
-    43.4252776,
-    -88.1834277
   ],
   "white lake school district": [
     45.157193,
