@@ -8,11 +8,11 @@
     -89.8014791
   ],
   "adeline montessori school": null,
-  "alma": [
-    44.320281,
-    -91.9149094
-  ],
   "arrowhead union high school": null,
+  "ashwaubenon school district": [
+    44.4752606,
+    -88.060735
+  ],
   "aspiro, inc.": null,
   "bader hillel academy": null,
   "barron area school district": [
@@ -29,6 +29,7 @@
     -91.5557084
   ],
   "blessed savior catholic school": null,
+  "brown co children w disabilities": null,
   "cambria-friesland school district": [
     43.5414362,
     -89.1020736
@@ -37,10 +38,11 @@
     43.5981718,
     -88.2849664
   ],
-  "cedarburg school district": [
-    43.2966545,
-    -87.9875348
+  "cashton school district": [
+    43.7430214,
+    -90.7788501
   ],
+  "cedar grove-belgium area school district": null,
   "cesa 1": null,
   "cesa 10": [
     44.9168142,
@@ -57,10 +59,7 @@
     -91.3932118
   ],
   "common threads family resource center": null,
-  "cumberland school district": [
-    45.5332856,
-    -92.0214764
-  ],
+  "corpus christi parish school": null,
   "darlington community school district": [
     42.6802288,
     -90.1178079
@@ -116,6 +115,7 @@
     44.3838948,
     -88.2942301
   ],
+  "genesee lake school": null,
   "germantown school district": [
     43.2286174,
     -88.1103691
@@ -162,12 +162,15 @@
     43.1029333,
     -88.354607
   ],
+  "lake geneva schools": [
+    42.571693,
+    -88.4152537
+  ],
   "lutheran urban mission initiative, inc. (lumin)": null,
   "manitowoc public school district": [
     44.0998341,
     -87.827992
   ],
-  "maple dale-indian hill school district": null,
   "marathon county special education": [
     44.9314487,
     -89.6370141
@@ -179,6 +182,10 @@
   "mayville schools": [
     43.5048818,
     -88.554367
+  ],
+  "melrose-mindoro area schools": [
+    44.0747805,
+    -91.0207157
   ],
   "menominee indian school district": [
     44.9762964,
@@ -318,10 +325,6 @@
     -87.977038
   ],
   "port washington-saukville school district": null,
-  "prairie du chien area school district": [
-    43.05194,
-    -91.1409933
-  ],
   "prairie farm": [
     45.237184,
     -91.9815675
@@ -332,14 +335,10 @@
   ],
   "randall consolidated joint district #1": null,
   "raymond school district #14": [
-    45.1049499,
-    -87.6392639
+    45.1049489,
+    -87.6392629
   ],
   "regis catholic schools": null,
-  "ripon area school district": [
-    43.8442406,
-    -88.8387158
-  ],
   "sauk prairie school district": [
     43.2981475,
     -89.7565455
@@ -371,10 +370,6 @@
   "school district of denmark": [
     44.3479362,
     -87.8269868
-  ],
-  "school district of flambeau": [
-    45.518201,
-    -91.1121797
   ],
   "school district of greenfield": [
     42.9596903,
@@ -412,10 +407,6 @@
     42.9762181,
     -88.1084968
   ],
-  "school district of new richmond": [
-    45.1227287,
-    -92.537502
-  ],
   "school district of niagara": [
     45.7716775,
     -87.9981489
@@ -452,10 +443,6 @@
     44.9012628,
     -91.9297247
   ],
-  "school district of thorp": [
-    44.9610863,
-    -90.8003205
-  ],
   "school district of wabeno area": null,
   "school district of west de pere": [
     44.445547,
@@ -476,6 +463,10 @@
   "seymour community school district": [
     44.5429082,
     -88.312718
+  ],
+  "shawano school district": [
+    44.7817214,
+    -88.7118868
   ],
   "shorewood school district": [
     43.0883957,
@@ -518,8 +509,8 @@
     -89.0623847
   ],
   "tomorrow river school district": [
-    44.4309644,
-    -89.2759685
+    44.430922,
+    -89.2760799
   ],
   "transcen, inc": null,
   "unified school district of de pere": [
@@ -546,6 +537,10 @@
   "wauwatosa school district": [
     43.0494122,
     -88.0079271
+  ],
+  "west bend school district": [
+    43.4252776,
+    -88.1834277
   ],
   "white lake school district": [
     45.157193,
