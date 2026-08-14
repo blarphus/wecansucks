@@ -50,6 +50,7 @@
   ],
   "cesa 5": null,
   "cesa 6": null,
+  "cesa 8": null,
   "chetek-weyerhaeuser area school district": [
     45.309305,
     -91.6619192
@@ -98,6 +99,10 @@
     42.7851871,
     -88.4054374
   ],
+  "elkhorn area school district": [
+    42.6719206,
+    -88.543494
+  ],
   "ellsworth community school district": [
     44.732122,
     -92.4831218
@@ -110,7 +115,6 @@
     42.7803486,
     -89.2992249
   ],
-  "evergreen academy": null,
   "freedom area school district": [
     44.3838948,
     -88.2942301
@@ -124,15 +128,15 @@
     43.0973475,
     -89.3431739
   ],
+  "grafton school district": [
+    43.3195224,
+    -87.9517842
+  ],
   "hamilton school district": [
     43.9222491,
     -91.1060036
   ],
   "hartland-lakeside school district": null,
-  "heritage christian schools": [
-    43.018643,
-    -88.0476792
-  ],
   "hmong american peace academy": [
     43.1024482,
     -88.0185826
@@ -179,10 +183,6 @@
     45.3834983,
     -88.0409574
   ],
-  "mayville schools": [
-    43.5048818,
-    -88.554367
-  ],
   "melrose-mindoro area schools": [
     44.0747805,
     -91.0207157
@@ -211,6 +211,14 @@
     43.0413528,
     -89.4497607
   ],
+  "mmsd:east": [
+    43.0976765,
+    -89.3546857
+  ],
+  "mmsd:franklin": [
+    43.0554226,
+    -89.3876581
+  ],
   "mmsd:gompers": [
     43.1467126,
     -89.3697456
@@ -223,6 +231,10 @@
     43.1120346,
     -89.3282322
   ],
+  "mmsd:henderson": [
+    43.057534,
+    -89.3120861
+  ],
   "mmsd:huegel": [
     43.0250529,
     -89.4874043
@@ -230,6 +242,10 @@
   "mmsd:kennedy": [
     43.0940072,
     -89.2973904
+  ],
+  "mmsd:la follette": [
+    43.0641796,
+    -89.3199528
   ],
   "mmsd:memorial": [
     43.0639225,
@@ -244,9 +260,14 @@
     43.092265,
     -89.3247882
   ],
+  "mmsd:sennett": null,
   "mmsd:sherman": [
     43.1177357,
     -89.3621885
+  ],
+  "mmsd:stephens": [
+    43.0656506,
+    -89.4802776
   ],
   "mmsd:van hise": [
     43.064782,
@@ -280,6 +301,10 @@
   "nekoosa school district": [
     44.3154564,
     -89.8918206
+  ],
+  "newman catholic schools": [
+    44.97248,
+    -89.6492298
   ],
   "north shore catholic schools": null,
   "northern ozaukee school district": null,
@@ -363,10 +388,6 @@
     42.6054551,
     -90.4307684
   ],
-  "school district of cudahy": [
-    42.959738,
-    -87.861471
-  ],
   "school district of denmark": [
     44.3479362,
     -87.8269868
@@ -383,21 +404,9 @@
     43.9632211,
     -91.2563658
   ],
-  "school district of loyal": [
-    44.7369073,
-    -90.4959724
-  ],
   "school district of manawa": [
     44.4644255,
     -88.919829
-  ],
-  "school district of mauston": [
-    43.7968543,
-    -90.0756767
-  ],
-  "school district of mercer": [
-    46.165642,
-    -90.0633148
   ],
   "school district of milton": [
     42.7753567,
@@ -448,10 +457,6 @@
     44.445547,
     -88.0753807
   ],
-  "school district of west salem": [
-    43.8980198,
-    -91.0813561
-  ],
   "school district of whitefish bay": [
     43.1185591,
     -87.906804
@@ -482,10 +487,6 @@
   ],
   "st. bruno parish school": null,
   "st. charles parish school": null,
-  "st. john's lutheran school": [
-    42.7396306,
-    -87.7864198
-  ],
   "st. joseph academy": [
     42.9890468,
     -87.934382
