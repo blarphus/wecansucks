@@ -3,10 +3,6 @@
     42.728657,
     -87.7953505
   ],
-  "adams-friendship area school district": [
-    43.9653066,
-    -89.8014791
-  ],
   "adeline montessori school": null,
   "arrowhead union high school": null,
   "ashwaubenon school district": [
@@ -51,10 +47,6 @@
   "cesa 5": null,
   "cesa 6": null,
   "cesa 8": null,
-  "chetek-weyerhaeuser area school district": [
-    45.309305,
-    -91.6619192
-  ],
   "chippewa falls area unified school district": [
     44.9371325,
     -91.3932118
@@ -110,10 +102,6 @@
   "elmbrook schools": [
     43.0227593,
     -88.1684094
-  ],
-  "evansville community school district": [
-    42.7803486,
-    -89.2992249
   ],
   "freedom area school district": [
     44.3838948,
@@ -247,10 +235,6 @@
     43.0641796,
     -89.3199528
   ],
-  "mmsd:memorial": [
-    43.0639225,
-    -89.5010366
-  ],
   "mmsd:oyr": null,
   "mmsd:sandburg": [
     43.1364215,
@@ -306,7 +290,6 @@
     44.97248,
     -89.6492298
   ],
-  "north shore catholic schools": null,
   "northern ozaukee school district": null,
   "norway j7 school district/drought school": null,
   "oak creek-franklin joint school district": [
@@ -337,10 +320,6 @@
     43.4355331,
     -89.7311919
   ],
-  "pewaukee school district": [
-    43.0846017,
-    -88.2139452
-  ],
   "pius xi catholic high school": [
     43.03192,
     -88.0086016
@@ -354,16 +333,15 @@
     45.237184,
     -91.9815675
   ],
-  "prentice school district": [
-    45.5459408,
-    -90.2875802
-  ],
-  "randall consolidated joint district #1": null,
   "raymond school district #14": [
-    45.1049489,
-    -87.6392629
+    45.1049499,
+    -87.6392639
   ],
   "regis catholic schools": null,
+  "richland school district": [
+    43.3662526,
+    -90.4557081
+  ],
   "sauk prairie school district": [
     43.2981475,
     -89.7565455
@@ -371,6 +349,10 @@
   "school district of alma center": [
     44.4371047,
     -90.9126506
+  ],
+  "school district of athens": [
+    45.0349745,
+    -90.0738874
   ],
   "school district of black river falls": [
     44.2952152,
@@ -383,14 +365,6 @@
   "school district of brown deer": [
     43.1744352,
     -87.972722
-  ],
-  "school district of cuba city": [
-    42.6054551,
-    -90.4307684
-  ],
-  "school district of denmark": [
-    44.3479362,
-    -87.8269868
   ],
   "school district of greenfield": [
     42.9596903,
@@ -411,10 +385,6 @@
   "school district of milton": [
     42.7753567,
     -88.9390017
-  ],
-  "school district of new berlin": [
-    42.9762181,
-    -88.1084968
   ],
   "school district of niagara": [
     45.7716775,
@@ -485,16 +455,10 @@
     43.9732475,
     -90.8516564
   ],
-  "st. bruno parish school": null,
   "st. charles parish school": null,
   "st. joseph academy": [
     42.9890468,
     -87.934382
-  ],
-  "st. leonard catholic school": null,
-  "stanley-boyd area schools": [
-    44.9626104,
-    -90.9223059
   ],
   "sturgeon bay school district": [
     44.8341639,
@@ -510,8 +474,8 @@
     -89.0623847
   ],
   "tomorrow river school district": [
-    44.430922,
-    -89.2760799
+    44.4309644,
+    -89.2759685
   ],
   "transcen, inc": null,
   "unified school district of de pere": [
@@ -558,6 +522,10 @@
   "wisconsin rapids public schools": [
     44.4037069,
     -89.8737566
+  ],
+  "wittenberg-birnamwood school district": [
+    44.8307469,
+    -89.1804965
   ],
   "wonewoc-union center school district": null,
   "wrightstown community school district": [
