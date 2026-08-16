@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-15T08:08:44.639824-05:00",
+ "generated_at": "2026-08-16T08:09:44.924454-05:00",
  "weeks": 3,
  "subject_labels": {
   "english": "English / ELA",
@@ -19,6 +19,40 @@
   "high": "High school"
  },
  "jobs": [
+  {
+   "id": "271834",
+   "title": "Special Education Teacher-Cross Categorical",
+   "district": "Cedar Grove-Belgium Area School District",
+   "location": "Middle School",
+   "posted": "2026-08-15",
+   "start": "8/24/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/271834",
+   "source": "wecan",
+   "lat": null,
+   "lng": null,
+   "subjects": [],
+   "levels": [
+    "middle"
+   ]
+  },
+  {
+   "id": "271833",
+   "title": "High School Special Education Teacher",
+   "district": "Cedar Grove-Belgium Area School District",
+   "location": "High School",
+   "posted": "2026-08-15",
+   "start": "8/24/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/271833",
+   "source": "wecan",
+   "lat": null,
+   "lng": null,
+   "subjects": [],
+   "levels": [
+    "high"
+   ]
+  },
   {
    "id": "271830",
    "title": "Grades 3-5 Tier 2 Math Teacher and 4th Grade Homeroom (Work From Home)",
