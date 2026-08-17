@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-16T08:09:44.924454-05:00",
+ "generated_at": "2026-08-17T08:21:38.533574-05:00",
  "weeks": 3,
  "subject_labels": {
   "english": "English / ELA",
@@ -19,6 +19,55 @@
   "high": "High school"
  },
  "jobs": [
+  {
+   "id": "271851",
+   "title": "Science Teacher",
+   "district": "Bader Hillel Academy",
+   "location": "Bader Hillel Academy",
+   "posted": "2026-08-17",
+   "start": "8/24/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/271851",
+   "source": "wecan",
+   "lat": null,
+   "lng": null,
+   "subjects": [
+    "science"
+   ],
+   "levels": []
+  },
+  {
+   "id": "271850",
+   "title": "Long Term Guest Teacher - Middle School Special Education",
+   "district": "Muskego-Norway School District",
+   "location": "Muskego Lakes Middle School",
+   "posted": "2026-08-16",
+   "start": "9/3/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/271850",
+   "source": "wecan",
+   "lat": 42.8451651,
+   "lng": -88.1340107,
+   "subjects": [],
+   "levels": [
+    "middle"
+   ]
+  },
+  {
+   "id": "271843",
+   "title": "Speech Language Pathologist - FT FMLA",
+   "district": "CESA 1",
+   "location": "Southeastern WI",
+   "posted": "2026-08-16",
+   "start": "8/18/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/271843",
+   "source": "wecan",
+   "lat": null,
+   "lng": null,
+   "subjects": [],
+   "levels": []
+  },
   {
    "id": "271834",
    "title": "Special Education Teacher-Cross Categorical",
@@ -1859,23 +1908,6 @@
    "lng": -88.4153,
    "subjects": [],
    "levels": []
-  },
-  {
-   "id": "271466",
-   "title": "4th Grade Teacher",
-   "district": "School District of Greenfield",
-   "location": "Elm Dale Elementary School",
-   "posted": "2026-08-12",
-   "start": "8/25/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/271466",
-   "source": "wecan",
-   "lat": 42.9596903,
-   "lng": -87.98132,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
   },
   {
    "id": "271465",
@@ -3896,23 +3928,6 @@
    ]
   },
   {
-   "id": "270969",
-   "title": "Long Term Guest Teacher - Interventionist",
-   "district": "Muskego-Norway School District",
-   "location": "Lake Denoon Middle School",
-   "posted": "2026-08-05",
-   "start": "9/21/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/270969",
-   "source": "wecan",
-   "lat": 42.8451651,
-   "lng": -88.1340107,
-   "subjects": [],
-   "levels": [
-    "middle"
-   ]
-  },
-  {
    "id": "270965",
    "title": "Elementary Music Teacher",
    "district": "Sturgeon Bay School District",
@@ -4413,78 +4428,6 @@
    "lat": 43.1185591,
    "lng": -87.906804,
    "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "270807",
-   "title": "Elementary School Teacher - 5 year old Kindergarten - 1 Year Contract",
-   "district": "Delavan-Darien School District",
-   "location": "Turtle Creek Elementary",
-   "posted": "2026-08-04",
-   "start": "8/17/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/270807",
-   "source": "wecan",
-   "lat": 42.6309356,
-   "lng": -88.6614499,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "270806",
-   "title": "Elementary School Teacher - 4 year old Kindergarten - 1 Year Contract",
-   "district": "Delavan-Darien School District",
-   "location": "Turtle Creek Elementary",
-   "posted": "2026-08-04",
-   "start": "8/17/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/270806",
-   "source": "wecan",
-   "lat": 42.6309356,
-   "lng": -88.6614499,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "270801",
-   "title": "Bilingual 5K Elementary School Teacher - 1 Year Contract",
-   "district": "Delavan-Darien School District",
-   "location": "Turtle Creek Elementary",
-   "posted": "2026-08-04",
-   "start": "8/17/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/270801",
-   "source": "wecan",
-   "lat": 42.6309356,
-   "lng": -88.6614499,
-   "subjects": [
-    "esl"
-   ],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "270799",
-   "title": "Bilingual 4K Elementary School Teacher - 1 Year Contract",
-   "district": "Delavan-Darien School District",
-   "location": "Turtle Creek Elementary",
-   "posted": "2026-08-04",
-   "start": "8/17/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/270799",
-   "source": "wecan",
-   "lat": 42.6309356,
-   "lng": -88.6614499,
-   "subjects": [
-    "esl"
-   ],
    "levels": [
     "elementary"
    ]
@@ -5095,8 +5038,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/270645",
    "source": "wecan",
-   "lat": 45.1049499,
-   "lng": -87.6392639,
+   "lat": 45.1049489,
+   "lng": -87.6392629,
    "subjects": [
     "english"
    ],
@@ -5115,8 +5058,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/270640",
    "source": "wecan",
-   "lat": 44.4309644,
-   "lng": -89.2759685,
+   "lat": 44.430922,
+   "lng": -89.2760799,
    "subjects": [
     "world_lang"
    ],
@@ -5335,7 +5278,7 @@
    "id": "270581",
    "title": "HS Special Education Teacher",
    "district": "Pecatonica Area Schools",
-   "location": "Pecatonica Middle/High School - Blanchardville, WI",
+   "location": "Pecatonica Middle/High School",
    "posted": "2026-08-03",
    "start": "8/24/2026",
    "close": "Until filled",
@@ -6043,23 +5986,6 @@
    ]
   },
   {
-   "id": "270375",
-   "title": "School Counselor - High School",
-   "district": "St. Mary Catholic Schools - Neenah/Menasha (Green Bay Diocese)",
-   "location": "St. Mary Catholic Schools - Neenah, WI",
-   "posted": "2026-07-30",
-   "start": "8/12/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/270375",
-   "source": "wecan",
-   "lat": 44.5133,
-   "lng": -88.0133,
-   "subjects": [],
-   "levels": [
-    "high"
-   ]
-  },
-  {
    "id": "270368",
    "title": "STEM 8 Teacher",
    "district": "Wauwatosa School District",
@@ -6734,23 +6660,6 @@
    "levels": []
   },
   {
-   "id": "270056",
-   "title": "Science Teacher",
-   "district": "Bader Hillel Academy",
-   "location": "Bader Hillel Academy",
-   "posted": "2026-07-28",
-   "start": "8/24/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/270056",
-   "source": "wecan",
-   "lat": null,
-   "lng": null,
-   "subjects": [
-    "science"
-   ],
-   "levels": []
-  },
-  {
    "id": "270036",
    "title": "Elementary Teacher - 3rd Grade",
    "district": "Columbus School District",
@@ -7219,23 +7128,6 @@
    ]
   },
   {
-   "id": "269870",
-   "title": "26-27 Grade 3 Teacher",
-   "district": "Racine Unified School District",
-   "location": "SC Johnson Elementary School",
-   "posted": "2026-07-27",
-   "start": "8/25/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/269870",
-   "source": "wecan",
-   "lat": 42.7261,
-   "lng": -87.7829,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
    "id": "269867",
    "title": "Multilingual (ML) Teacher",
    "district": "Eau Claire Area School District",
@@ -7297,42 +7189,6 @@
    "lat": 44.8113,
    "lng": -91.4985,
    "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "269849",
-   "title": "Special Education Teacher",
-   "district": "Portage Community School District",
-   "location": "John Muir Elementary School",
-   "posted": "2026-07-26",
-   "start": "8/4/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/269849",
-   "source": "wecan",
-   "lat": 43.5387,
-   "lng": -89.4626,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "269848",
-   "title": "Math Teacher - Upper Elementary/Middle",
-   "district": "Catholic Diocese of Green Bay",
-   "location": "Divine Savior Catholic School - Kiel, Wisconsin",
-   "posted": "2026-07-26",
-   "start": "8/20/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/269848",
-   "source": "wecan",
-   "lat": 44.5133,
-   "lng": -88.0133,
-   "subjects": [
-    "math"
-   ],
    "levels": [
     "elementary"
    ]
