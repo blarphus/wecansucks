@@ -5,17 +5,12 @@
   ],
   "adeline montessori school": null,
   "arrowhead union high school": null,
-  "ashwaubenon school district": [
-    44.4752606,
-    -88.060735
-  ],
   "aspiro, inc.": null,
   "bader hillel academy": null,
   "barron area school district": [
     45.423557,
     -91.8454099
   ],
-  "beecher-dunbar-pembine school district": null,
   "berlin area school district": [
     43.9684264,
     -88.9466233
@@ -40,10 +35,6 @@
   ],
   "cedar grove-belgium area school district": null,
   "cesa 1": null,
-  "cesa 10": [
-    44.9168142,
-    -91.3971449
-  ],
   "cesa 5": null,
   "cesa 6": null,
   "cesa 8": null,
@@ -100,8 +91,8 @@
     -92.4831218
   ],
   "elmbrook schools": [
-    43.0227593,
-    -88.1684094
+    43.0835486,
+    -88.1273713
   ],
   "freedom area school district": [
     44.3838948,
@@ -132,6 +123,14 @@
   "holy hill area school district": [
     43.2444487,
     -88.32704
+  ],
+  "hortonville area school district": [
+    44.3350374,
+    -88.639343
+  ],
+  "iola-scandinavia school district": [
+    44.5013633,
+    -89.1275776
   ],
   "kettle moraine school district": [
     43.0169314,
@@ -253,10 +252,6 @@
     43.0656506,
     -89.4802776
   ],
-  "mmsd:van hise": [
-    43.064782,
-    -89.4585258
-  ],
   "mmsd:west": [
     43.0686283,
     -89.4271064
@@ -290,7 +285,6 @@
     44.97248,
     -89.6492298
   ],
-  "northern ozaukee school district": null,
   "norway j7 school district/drought school": null,
   "oak creek-franklin joint school district": [
     42.9054721,
@@ -333,14 +327,14 @@
     45.237184,
     -91.9815675
   ],
-  "raymond school district #14": [
-    45.1049489,
-    -87.6392629
-  ],
   "regis catholic schools": null,
   "richland school district": [
     43.3662526,
     -90.4557081
+  ],
+  "ripon area school district": [
+    43.8442406,
+    -88.8387158
   ],
   "sauk prairie school district": [
     43.2981475,
@@ -378,10 +372,6 @@
     43.9632211,
     -91.2563658
   ],
-  "school district of manawa": [
-    44.4644255,
-    -88.919829
-  ],
   "school district of milton": [
     42.7753567,
     -88.9390017
@@ -405,10 +395,6 @@
   "school district of rhinelander": [
     45.636623,
     -89.412075
-  ],
-  "school district of river falls": [
-    44.8596498,
-    -92.6255048
   ],
   "school district of spring valley": [
     44.8452476,
@@ -447,10 +433,6 @@
     43.0883957,
     -87.8881302
   ],
-  "siren school district": [
-    45.7874336,
-    -92.3819709
-  ],
   "sparta area school district": [
     43.9732475,
     -90.8516564
@@ -468,7 +450,6 @@
     46.4800042,
     -92.1829648
   ],
-  "the richardson school": null,
   "tigerton school district": [
     44.7404426,
     -89.0623847
@@ -515,10 +496,7 @@
     42.9347867,
     -88.0384117
   ],
-  "winneconne community school district": [
-    44.1109462,
-    -88.7136515
-  ],
+  "winneconne community school district": null,
   "wisconsin rapids public schools": [
     44.4037069,
     -89.8737566
@@ -527,9 +505,5 @@
     44.8307469,
     -89.1804965
   ],
-  "wonewoc-union center school district": null,
-  "wrightstown community school district": [
-    44.3261356,
-    -88.1628482
-  ]
+  "wonewoc-union center school district": null
 }
