@@ -11,10 +11,6 @@
     45.423557,
     -91.8454099
   ],
-  "berlin area school district": [
-    43.9684264,
-    -88.9466233
-  ],
   "birchwood schools": [
     45.6565578,
     -91.5557084
@@ -29,12 +25,9 @@
     43.5981718,
     -88.2849664
   ],
-  "cashton school district": [
-    43.7430214,
-    -90.7788501
-  ],
   "cedar grove-belgium area school district": null,
   "cesa 1": null,
+  "cesa 2": null,
   "cesa 5": null,
   "cesa 6": null,
   "cesa 8": null,
@@ -44,9 +37,9 @@
   ],
   "common threads family resource center": null,
   "corpus christi parish school": null,
-  "darlington community school district": [
-    42.6802288,
-    -90.1178079
+  "cross trainers academy": [
+    43.0679737,
+    -87.9318298
   ],
   "de soto area school district": [
     43.4230306,
@@ -94,6 +87,10 @@
     43.0835486,
     -88.1273713
   ],
+  "fall river school district": [
+    43.3873717,
+    -89.0442238
+  ],
   "freedom area school district": [
     44.3838948,
     -88.2942301
@@ -110,6 +107,10 @@
   "grafton school district": [
     43.3195224,
     -87.9517842
+  ],
+  "green lake school district": [
+    43.7971612,
+    -89.0402508
   ],
   "hamilton school district": [
     43.9222491,
@@ -129,8 +130,8 @@
     -88.639343
   ],
   "iola-scandinavia school district": [
-    44.5013633,
-    -89.1275776
+    44.5020673,
+    -89.1270679
   ],
   "kettle moraine school district": [
     43.0169314,
@@ -158,10 +159,6 @@
     -88.4152537
   ],
   "lutheran urban mission initiative, inc. (lumin)": null,
-  "manitowoc public school district": [
-    44.0998341,
-    -87.827992
-  ],
   "marathon county special education": [
     44.9314487,
     -89.6370141
@@ -185,10 +182,6 @@
   "mequon-thiensville school district": [
     43.2396327,
     -87.9859619
-  ],
-  "merrill area public schools": [
-    45.180522,
-    -89.683459
   ],
   "mineral point school district": [
     42.8601132,
@@ -233,6 +226,10 @@
   "mmsd:la follette": [
     43.0641796,
     -89.3199528
+  ],
+  "mmsd:marquette": [
+    43.086149,
+    -89.3575865
   ],
   "mmsd:oyr": null,
   "mmsd:sandburg": [
@@ -314,10 +311,6 @@
     43.4355331,
     -89.7311919
   ],
-  "pius xi catholic high school": [
-    43.03192,
-    -88.0086016
-  ],
   "plymouth joint school district": [
     43.7486054,
     -87.977038
@@ -336,13 +329,21 @@
     43.8442406,
     -88.8387158
   ],
+  "river ridge school district": [
+    43.1718311,
+    -88.0346824
+  ],
+  "rosholt school district": [
+    44.6285666,
+    -89.3088427
+  ],
   "sauk prairie school district": [
     43.2981475,
     -89.7565455
   ],
-  "school district of alma center": [
-    44.4371047,
-    -90.9126506
+  "school district of ashland": [
+    46.2062319,
+    -90.6802594
   ],
   "school district of athens": [
     45.0349745,
@@ -356,9 +357,9 @@
     44.7399556,
     -88.4461285
   ],
-  "school district of brown deer": [
-    43.1744352,
-    -87.972722
+  "school district of cudahy": [
+    42.959738,
+    -87.861471
   ],
   "school district of greenfield": [
     42.9596903,
@@ -392,30 +393,22 @@
     44.749123,
     -92.8022347
   ],
-  "school district of rhinelander": [
-    45.636623,
-    -89.412075
-  ],
   "school district of spring valley": [
     44.8452476,
     -92.2384167
-  ],
-  "school district of stratford": [
-    44.8010763,
-    -90.0792975
   ],
   "school district of the menomonie area": [
     44.9012628,
     -91.9297247
   ],
   "school district of wabeno area": null,
-  "school district of west de pere": [
-    44.445547,
-    -88.0753807
-  ],
   "school district of whitefish bay": [
     43.1185591,
     -87.906804
+  ],
+  "school district of wisconsin dells": [
+    43.6256168,
+    -89.7715646
   ],
   "seneca school district": [
     44.8112076,
@@ -432,6 +425,10 @@
   "shorewood school district": [
     43.0883957,
     -87.8881302
+  ],
+  "southern door county school district": [
+    44.774689,
+    -87.5246702
   ],
   "sparta area school district": [
     43.9732475,
@@ -455,15 +452,15 @@
     -89.0623847
   ],
   "tomorrow river school district": [
-    44.430922,
-    -89.2760799
+    44.4309644,
+    -89.2759685
   ],
   "transcen, inc": null,
+  "trevor-wilmot consolidated grade school district": null,
   "unified school district of de pere": [
     44.4467461,
     -88.067779
   ],
-  "union grove union high school": null,
   "united community center schools": [
     43.0206611,
     -87.9220984
@@ -476,10 +473,6 @@
     43.1838844,
     -88.9884421
   ],
-  "waupun area school district": [
-    43.633216,
-    -88.7296352
-  ],
   "wauwatosa school district": [
     43.0494122,
     -88.0079271
@@ -488,15 +481,14 @@
     43.4252776,
     -88.1834277
   ],
-  "white lake school district": [
-    45.157193,
-    -88.764551
-  ],
   "whitnall school district": [
     42.9347867,
     -88.0384117
   ],
-  "winneconne community school district": null,
+  "winneconne community school district": [
+    44.1109462,
+    -88.7136515
+  ],
   "wisconsin rapids public schools": [
     44.4037069,
     -89.8737566
@@ -505,5 +497,8 @@
     44.8307469,
     -89.1804965
   ],
-  "wonewoc-union center school district": null
+  "woodlands school": [
+    43.0429893,
+    -87.9536542
+  ]
 }
