@@ -11,10 +11,6 @@
     45.423557,
     -91.8454099
   ],
-  "birchwood schools": [
-    45.6565578,
-    -91.5557084
-  ],
   "blessed savior catholic school": null,
   "brown co children w disabilities": null,
   "cambria-friesland school district": [
@@ -62,8 +58,8 @@
     -87.8554529
   ],
   "dodgeland school district": [
-    43.4016194,
-    -88.7166629
+    43.4025756,
+    -88.7162216
   ],
   "dover #1 kansasville": null,
   "downtown montessori academy": [
@@ -75,17 +71,9 @@
     42.7851871,
     -88.4054374
   ],
-  "elkhorn area school district": [
-    42.6719206,
-    -88.543494
-  ],
   "ellsworth community school district": [
     44.732122,
     -92.4831218
-  ],
-  "elmbrook schools": [
-    43.0835486,
-    -88.1273713
   ],
   "fall river school district": [
     43.3873717,
@@ -100,14 +88,6 @@
     43.2286174,
     -88.1103691
   ],
-  "goodman community center": [
-    43.0973475,
-    -89.3431739
-  ],
-  "grafton school district": [
-    43.3195224,
-    -87.9517842
-  ],
   "green lake school district": [
     43.7971612,
     -89.0402508
@@ -116,7 +96,6 @@
     43.9222491,
     -91.1060036
   ],
-  "hartland-lakeside school district": null,
   "hmong american peace academy": [
     43.1024482,
     -88.0185826
@@ -129,13 +108,13 @@
     44.3350374,
     -88.639343
   ],
-  "iola-scandinavia school district": [
-    44.5020673,
-    -89.1270679
+  "howard-suamico school district": [
+    44.5842757,
+    -88.0253874
   ],
-  "kettle moraine school district": [
-    43.0169314,
-    -88.3760905
+  "iola-scandinavia school district": [
+    44.5013633,
+    -89.1275776
   ],
   "kiel": [
     43.912493,
@@ -183,10 +162,6 @@
     43.2396327,
     -87.9859619
   ],
-  "mineral point school district": [
-    42.8601132,
-    -90.1797688
-  ],
   "mmsd:cherokee": [
     43.0413528,
     -89.4497607
@@ -198,10 +173,6 @@
   "mmsd:franklin": [
     43.0554226,
     -89.3876581
-  ],
-  "mmsd:gompers": [
-    43.1467126,
-    -89.3697456
   ],
   "mmsd:hamilton": [
     43.064782,
@@ -320,7 +291,6 @@
     45.237184,
     -91.9815675
   ],
-  "regis catholic schools": null,
   "richland school district": [
     43.3662526,
     -90.4557081
@@ -336,10 +306,6 @@
   "rosholt school district": [
     44.6285666,
     -89.3088427
-  ],
-  "sauk prairie school district": [
-    43.2981475,
-    -89.7565455
   ],
   "school district of ashland": [
     46.2062319,
@@ -377,10 +343,6 @@
     42.7753567,
     -88.9390017
   ],
-  "school district of niagara": [
-    45.7716775,
-    -87.9981489
-  ],
   "school district of oakfield": [
     43.6836929,
     -88.5474431
@@ -414,10 +376,6 @@
     44.8112076,
     -88.9201279
   ],
-  "seymour community school district": [
-    44.5429082,
-    -88.312718
-  ],
   "shawano school district": [
     44.7817214,
     -88.7118868
@@ -429,10 +387,6 @@
   "southern door county school district": [
     44.774689,
     -87.5246702
-  ],
-  "sparta area school district": [
-    43.9732475,
-    -90.8516564
   ],
   "st. charles parish school": null,
   "st. joseph academy": [
@@ -496,9 +450,5 @@
   "wittenberg-birnamwood school district": [
     44.8307469,
     -89.1804965
-  ],
-  "woodlands school": [
-    43.0429893,
-    -87.9536542
   ]
 }
