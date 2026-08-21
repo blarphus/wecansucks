@@ -4,7 +4,6 @@
     -87.7953505
   ],
   "adeline montessori school": null,
-  "arrowhead union high school": null,
   "aspiro, inc.": null,
   "bader hillel academy": null,
   "barron area school district": [
@@ -57,10 +56,6 @@
     42.9290586,
     -87.8554529
   ],
-  "dodgeland school district": [
-    43.4025756,
-    -88.7162216
-  ],
   "dover #1 kansasville": null,
   "downtown montessori academy": [
     42.9985182,
@@ -75,6 +70,10 @@
     44.732122,
     -92.4831218
   ],
+  "elmbrook schools": [
+    43.0835486,
+    -88.1273713
+  ],
   "fall river school district": [
     43.3873717,
     -89.0442238
@@ -88,6 +87,7 @@
     43.2286174,
     -88.1103691
   ],
+  "glendale-river hills school district": null,
   "green lake school district": [
     43.7971612,
     -89.0402508
@@ -113,8 +113,8 @@
     -88.0253874
   ],
   "iola-scandinavia school district": [
-    44.5013633,
-    -89.1275776
+    44.5020673,
+    -89.1270679
   ],
   "kiel": [
     43.912493,
@@ -138,6 +138,10 @@
     -88.4152537
   ],
   "lutheran urban mission initiative, inc. (lumin)": null,
+  "manitowoc public school district": [
+    44.0998341,
+    -87.827992
+  ],
   "marathon county special education": [
     44.9314487,
     -89.6370141
@@ -154,10 +158,6 @@
     44.9762964,
     -88.7347165
   ],
-  "menominee tribal school": [
-    44.978897,
-    -88.833996
-  ],
   "mequon-thiensville school district": [
     43.2396327,
     -87.9859619
@@ -166,9 +166,17 @@
     43.0413528,
     -89.4497607
   ],
+  "mmsd:doyle": [
+    43.07063,
+    -89.3950391
+  ],
   "mmsd:east": [
     43.0976765,
     -89.3546857
+  ],
+  "mmsd:elvehjem": [
+    43.078724,
+    -89.293227
   ],
   "mmsd:franklin": [
     43.0554226,
@@ -182,10 +190,6 @@
     43.1120346,
     -89.3282322
   ],
-  "mmsd:henderson": [
-    43.057534,
-    -89.3120861
-  ],
   "mmsd:huegel": [
     43.0250529,
     -89.4874043
@@ -198,6 +202,7 @@
     43.0641796,
     -89.3199528
   ],
+  "mmsd:la follette hs": null,
   "mmsd:marquette": [
     43.086149,
     -89.3575865
@@ -244,10 +249,6 @@
   "neenah joint school district": [
     44.1837802,
     -88.4634176
-  ],
-  "nekoosa school district": [
-    44.3154564,
-    -89.8918206
   ],
   "newman catholic schools": [
     44.97248,
@@ -307,6 +308,10 @@
     44.6285666,
     -89.3088427
   ],
+  "school district of arcadia": [
+    44.2527212,
+    -91.5014893
+  ],
   "school district of ashland": [
     46.2062319,
     -90.6802594
@@ -347,6 +352,10 @@
     43.6836929,
     -88.5474431
   ],
+  "school district of onalaska": [
+    43.8830606,
+    -91.2343539
+  ],
   "school district of oostburg": [
     43.6231131,
     -87.7983447
@@ -354,6 +363,10 @@
   "school district of prescott": [
     44.749123,
     -92.8022347
+  ],
+  "school district of river falls": [
+    44.8596498,
+    -92.6255048
   ],
   "school district of spring valley": [
     44.8452476,
@@ -371,10 +384,6 @@
   "school district of wisconsin dells": [
     43.6256168,
     -89.7715646
-  ],
-  "seneca school district": [
-    44.8112076,
-    -88.9201279
   ],
   "shawano school district": [
     44.7817214,
@@ -401,16 +410,20 @@
     46.4800042,
     -92.1829648
   ],
+  "the richardson school": null,
   "tigerton school district": [
     44.7404426,
     -89.0623847
   ],
   "tomorrow river school district": [
-    44.4309644,
-    -89.2759685
+    44.430922,
+    -89.2760799
   ],
-  "transcen, inc": null,
   "trevor-wilmot consolidated grade school district": null,
+  "two rivers public school district": [
+    44.149206,
+    -87.5682149
+  ],
   "unified school district of de pere": [
     44.4467461,
     -88.067779
@@ -430,10 +443,6 @@
   "wauwatosa school district": [
     43.0494122,
     -88.0079271
-  ],
-  "west bend school district": [
-    43.4252776,
-    -88.1834277
   ],
   "whitnall school district": [
     42.9347867,
