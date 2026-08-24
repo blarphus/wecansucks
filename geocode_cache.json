@@ -87,9 +87,9 @@
     43.7971612,
     -89.0402508
   ],
-  "hamilton school district": [
-    43.9222491,
-    -91.1060036
+  "heritage christian schools": [
+    43.018643,
+    -88.0476792
   ],
   "hmong american peace academy": [
     43.1024482,
@@ -108,8 +108,8 @@
     -88.0253874
   ],
   "iola-scandinavia school district": [
-    44.5020673,
-    -89.1270679
+    44.5013633,
+    -89.1275776
   ],
   "kiel": [
     43.912493,
@@ -173,18 +173,47 @@
     43.0554226,
     -89.3876581
   ],
+  "mmsd:hamilton": [
+    43.064782,
+    -89.4585258
+  ],
+  "mmsd:hawthorne": [
+    43.1120346,
+    -89.3282322
+  ],
+  "mmsd:huegel": [
+    43.0250529,
+    -89.4874043
+  ],
+  "mmsd:kennedy": [
+    43.0940072,
+    -89.2973904
+  ],
+  "mmsd:la follette": [
+    43.0641796,
+    -89.3199528
+  ],
   "mmsd:la follette hs": null,
   "mmsd:marquette": [
     43.086149,
     -89.3575865
   ],
+  "mmsd:sennett": null,
   "mmsd:sherman": [
     43.1177357,
     -89.3621885
   ],
+  "mmsd:stephens": [
+    43.0656506,
+    -89.4802776
+  ],
   "mmsd:west": [
     43.0686283,
     -89.4271064
+  ],
+  "mmsd:wright": [
+    43.0484371,
+    -89.4002258
   ],
   "mosinee school district": [
     44.7927669,
@@ -289,6 +318,10 @@
     42.7753567,
     -88.9390017
   ],
+  "school district of neillsville": [
+    44.5604073,
+    -90.5962609
+  ],
   "school district of oakfield": [
     43.6836929,
     -88.5474431
@@ -357,8 +390,8 @@
     -89.0623847
   ],
   "tomorrow river school district": [
-    44.430922,
-    -89.2760799
+    44.4309644,
+    -89.2759685
   ],
   "two rivers public school district": [
     44.149206,
@@ -375,10 +408,6 @@
   "viroqua area schools": [
     43.5569174,
     -90.8887413
-  ],
-  "waterloo school district": [
-    43.1838844,
-    -88.9884421
   ],
   "wauwatosa school district": [
     43.0494122,

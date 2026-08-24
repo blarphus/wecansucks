@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-23T08:10:44.952818-05:00",
+ "generated_at": "2026-08-24T08:31:01.025614-05:00",
  "weeks": 3,
  "subject_labels": {
   "english": "English / ELA",
@@ -19,6 +19,78 @@
   "high": "High school"
  },
  "jobs": [
+  {
+   "id": "272387",
+   "title": "Math Interventionist",
+   "district": "School District of Neillsville",
+   "location": "Elementary/Middle",
+   "posted": "2026-08-24",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/272387",
+   "source": "wecan",
+   "lat": 44.5604073,
+   "lng": -90.5962609,
+   "subjects": [
+    "math"
+   ],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "272379",
+   "title": "Second Grade Teacher",
+   "district": "Atlas Preparatory Academy",
+   "location": "Kansas Campus",
+   "posted": "2026-08-24",
+   "start": "8/25/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/272379",
+   "source": "wecan",
+   "lat": 43.0389,
+   "lng": -87.9065,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "272377",
+   "title": "Upper Elementary School Teacher",
+   "district": "Atlas Preparatory Academy",
+   "location": "Kansas Campus",
+   "posted": "2026-08-24",
+   "start": "8/25/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/272377",
+   "source": "wecan",
+   "lat": 43.0389,
+   "lng": -87.9065,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "272376",
+   "title": "Elementary School Physical Education Teacher",
+   "district": "Atlas Preparatory Academy",
+   "location": "Kansas Campus",
+   "posted": "2026-08-24",
+   "start": "8/25/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/272376",
+   "source": "wecan",
+   "lat": 43.0389,
+   "lng": -87.9065,
+   "subjects": [
+    "pe_health"
+   ],
+   "levels": [
+    "elementary"
+   ]
+  },
   {
    "id": "272369",
    "title": "Middle School Math Teacher",
@@ -71,23 +143,6 @@
    "subjects": [],
    "levels": [
     "high"
-   ]
-  },
-  {
-   "id": "272346",
-   "title": "Second Grade Teacher",
-   "district": "Atlas Preparatory Academy",
-   "location": "Kansas Campus",
-   "posted": "2026-08-21",
-   "start": "8/20/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/272346",
-   "source": "wecan",
-   "lat": 43.0389,
-   "lng": -87.9065,
-   "subjects": [],
-   "levels": [
-    "elementary"
    ]
   },
   {
@@ -866,23 +921,6 @@
    "levels": []
   },
   {
-   "id": "272099",
-   "title": "Upper Elementary School Teacher",
-   "district": "Atlas Preparatory Academy",
-   "location": "Kansas Campus",
-   "posted": "2026-08-19",
-   "start": "8/20/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/272099",
-   "source": "wecan",
-   "lat": 43.0389,
-   "lng": -87.9065,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
    "id": "272096",
    "title": "4th Grade Teacher",
    "district": "River Ridge School District",
@@ -1003,25 +1041,6 @@
     "world_lang"
    ],
    "levels": []
-  },
-  {
-   "id": "272064",
-   "title": "Math Interventionist",
-   "district": "Wisconsin Rapids Public Schools",
-   "location": "Grove Elementary & Grant Elementary Schools",
-   "posted": "2026-08-18",
-   "start": "8/24/2026",
-   "close": "8/23/2026",
-   "url": "https://wecan.waspa.org/Vacancy/272064",
-   "source": "wecan",
-   "lat": 44.4037069,
-   "lng": -89.8737566,
-   "subjects": [
-    "math"
-   ],
-   "levels": [
-    "elementary"
-   ]
   },
   {
    "id": "272060",
@@ -1674,8 +1693,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/271891",
    "source": "wecan",
-   "lat": 44.5020673,
-   "lng": -89.1270679,
+   "lat": 44.5013633,
+   "lng": -89.1275776,
    "subjects": [],
    "levels": [
     "elementary"
@@ -1748,25 +1767,6 @@
    "lng": -87.8212,
    "subjects": [
     "math"
-   ],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "271870",
-   "title": "Elementary School Physical Education Teacher",
-   "district": "Atlas Preparatory Academy",
-   "location": "Kansas Campus",
-   "posted": "2026-08-17",
-   "start": "8/20/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/271870",
-   "source": "wecan",
-   "lat": 43.0389,
-   "lng": -87.9065,
-   "subjects": [
-    "pe_health"
    ],
    "levels": [
     "elementary"
@@ -2876,23 +2876,6 @@
    ]
   },
   {
-   "id": "271539",
-   "title": "Special Education Teacher (HHS)",
-   "district": "Hamilton School District",
-   "location": "Hamilton High School",
-   "posted": "2026-08-12",
-   "start": "8/24/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/271539",
-   "source": "wecan",
-   "lat": 43.9222491,
-   "lng": -91.1060036,
-   "subjects": [],
-   "levels": [
-    "high"
-   ]
-  },
-  {
    "id": "271537",
    "title": "High School Life Science Teacher",
    "district": "Pathways High",
@@ -3361,42 +3344,6 @@
    ]
   },
   {
-   "id": "271423",
-   "title": "High School Business Teacher",
-   "district": "Waterloo School District",
-   "location": "WATERLOO SCHOOL DISTRICT",
-   "posted": "2026-08-11",
-   "start": "8/24/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/271423",
-   "source": "wecan",
-   "lat": 43.1838844,
-   "lng": -88.9884421,
-   "subjects": [],
-   "levels": [
-    "high"
-   ]
-  },
-  {
-   "id": "271422",
-   "title": "High School Math Teacher",
-   "district": "Waterloo School District",
-   "location": "WATERLOO SCHOOL DISTRICT",
-   "posted": "2026-08-11",
-   "start": "8/24/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/271422",
-   "source": "wecan",
-   "lat": 43.1838844,
-   "lng": -88.9884421,
-   "subjects": [
-    "math"
-   ],
-   "levels": [
-    "high"
-   ]
-  },
-  {
    "id": "271416",
    "title": "Long-Term Substitute - Special Education Paraprofessional",
    "district": "Kiel",
@@ -3478,23 +3425,6 @@
    "lng": null,
    "subjects": [],
    "levels": []
-  },
-  {
-   "id": "271362",
-   "title": "5th Grade Teacher",
-   "district": "East Troy Community School District",
-   "location": "Prairie View Elementary",
-   "posted": "2026-08-11",
-   "start": "8/17/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/271362",
-   "source": "wecan",
-   "lat": 42.7851871,
-   "lng": -88.4054374,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
   },
   {
    "id": "271352",
@@ -3690,25 +3620,6 @@
    "levels": [
     "high",
     "middle"
-   ]
-  },
-  {
-   "id": "271269",
-   "title": "General Music Teacher 26-27 (Marcy)",
-   "district": "Hamilton School District",
-   "location": "Marcy Elementary School",
-   "posted": "2026-08-10",
-   "start": "8/24/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/271269",
-   "source": "wecan",
-   "lat": 43.9222491,
-   "lng": -91.1060036,
-   "subjects": [
-    "music"
-   ],
-   "levels": [
-    "elementary"
    ]
   },
   {
@@ -3926,6 +3837,26 @@
    ],
    "levels": [
     "high"
+   ]
+  },
+  {
+   "id": "271139",
+   "title": "5th/6th Grade ELA Teacher",
+   "district": "Heritage Christian Schools",
+   "location": "Heritage Christian Elementary School",
+   "posted": "2026-08-07",
+   "start": "8/24/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/271139",
+   "source": "wecan",
+   "lat": 43.018643,
+   "lng": -88.0476792,
+   "subjects": [
+    "english"
+   ],
+   "levels": [
+    "elementary",
+    "middle"
    ]
   },
   {
@@ -4212,7 +4143,7 @@
    "district": "Diocese of La Crosse",
    "location": "Assumption Catholic Schools-Assumption High School",
    "posted": "2026-08-06",
-   "start": "8/17/2026",
+   "start": "As Soon as Possible",
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/271037",
    "source": "wecan",
@@ -4840,8 +4771,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/270640",
    "source": "wecan",
-   "lat": 44.430922,
-   "lng": -89.2760799,
+   "lat": 44.4309644,
+   "lng": -89.2759685,
    "subjects": [
     "world_lang"
    ],
@@ -5181,112 +5112,6 @@
    ]
   },
   {
-   "id": "270509",
-   "title": "5th Grade Teacher, Queen of the Apostles, Tomah",
-   "district": "Diocese of La Crosse",
-   "location": "Queen of the Apostles School, Tomah",
-   "posted": "2026-08-02",
-   "start": "8/10/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/270509",
-   "source": "wecan",
-   "lat": 43.8014,
-   "lng": -91.2396,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "270508",
-   "title": "Physical Ed/Health Teacher",
-   "district": "Diocese of La Crosse",
-   "location": "Queen of the Apostles School, Tomah",
-   "posted": "2026-08-02",
-   "start": "8/10/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/270508",
-   "source": "wecan",
-   "lat": 43.8014,
-   "lng": -91.2396,
-   "subjects": [
-    "pe_health"
-   ],
-   "levels": []
-  },
-  {
-   "id": "270502",
-   "title": "Music Teacher",
-   "district": "Dr. Howard Fuller Collegiate Academy",
-   "location": "Dr.Howard Fuller Collegiate Academy",
-   "posted": "2026-08-02",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/270502",
-   "source": "wecan",
-   "lat": 43.0389,
-   "lng": -87.9065,
-   "subjects": [
-    "music"
-   ],
-   "levels": []
-  },
-  {
-   "id": "270501",
-   "title": "High School English Teacher",
-   "district": "Dr. Howard Fuller Collegiate Academy",
-   "location": "Dr.Howard Fuller Collegiate Academy - HS Campus",
-   "posted": "2026-08-02",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/270501",
-   "source": "wecan",
-   "lat": 43.0389,
-   "lng": -87.9065,
-   "subjects": [
-    "english"
-   ],
-   "levels": [
-    "high"
-   ]
-  },
-  {
-   "id": "270499",
-   "title": "Kindergarden Elementary Teacher - K5 Grade",
-   "district": "Dr. Howard Fuller Collegiate Academy",
-   "location": "Dr.Howard Fuller Collegiate Academy - Elementary Campus",
-   "posted": "2026-08-02",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/270499",
-   "source": "wecan",
-   "lat": 43.0389,
-   "lng": -87.9065,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "270495",
-   "title": "High School Math Teacher",
-   "district": "Dr. Howard Fuller Collegiate Academy",
-   "location": "Dr.Howard Fuller Collegiate Academy - HS Campus",
-   "posted": "2026-08-02",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/270495",
-   "source": "wecan",
-   "lat": 43.0389,
-   "lng": -87.9065,
-   "subjects": [
-    "math"
-   ],
-   "levels": [
-    "high"
-   ]
-  },
-  {
    "id": "mmsd:9533",
    "title": "Program Support Teacher (PST) - Occupational Therapist (OT) - Doyle - 0.3 FTE - 26-27 SY",
    "district": "Madison Metropolitan School District",
@@ -5424,6 +5249,171 @@
    ],
    "levels": [
     "elementary"
+   ]
+  },
+  {
+   "id": "mmsd:9496",
+   "title": "Bilingual Resource Specialist (Spanish) - Sennett - 0.484 FTE - 26-27 SY",
+   "district": "Madison Metropolitan School District",
+   "location": "Sennett (Madison, WI)",
+   "posted": "2026-08-14",
+   "start": "",
+   "close": "",
+   "url": "https://mmsd.csod.com/ux/ats/careersite/1/home/requisition/9496?c=mmsd",
+   "source": "mmsd",
+   "lat": 43.0731,
+   "lng": -89.4012,
+   "subjects": [
+    "esl",
+    "world_lang"
+   ],
+   "levels": [
+    "middle"
+   ]
+  },
+  {
+   "id": "mmsd:9491",
+   "title": "Special Education Teacher (Cross Categorical) - La Follette - 1.0 FTE - 26-27 SY",
+   "district": "Madison Metropolitan School District",
+   "location": "La Follette (Madison, WI)",
+   "posted": "2026-08-14",
+   "start": "",
+   "close": "",
+   "url": "https://mmsd.csod.com/ux/ats/careersite/1/home/requisition/9491?c=mmsd",
+   "source": "mmsd",
+   "lat": 43.0641796,
+   "lng": -89.3199528,
+   "subjects": [],
+   "levels": [
+    "high"
+   ]
+  },
+  {
+   "id": "mmsd:9480",
+   "title": "Spanish Bilingual DBE Kindergarten Teacher - Stephens - 1.0 FTE - 26-27 SY",
+   "district": "Madison Metropolitan School District",
+   "location": "Stephens (Madison, WI)",
+   "posted": "2026-08-14",
+   "start": "",
+   "close": "",
+   "url": "https://mmsd.csod.com/ux/ats/careersite/1/home/requisition/9480?c=mmsd",
+   "source": "mmsd",
+   "lat": 43.0656506,
+   "lng": -89.4802776,
+   "subjects": [
+    "esl",
+    "world_lang"
+   ],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "mmsd:9478",
+   "title": "Band Teacher (0.8)/General Music (0.2) - Hamilton - 1.0 FTE - 26-27 SY",
+   "district": "Madison Metropolitan School District",
+   "location": "Hamilton (Madison, WI)",
+   "posted": "2026-08-07",
+   "start": "",
+   "close": "",
+   "url": "https://mmsd.csod.com/ux/ats/careersite/1/home/requisition/9478?c=mmsd",
+   "source": "mmsd",
+   "lat": 43.064782,
+   "lng": -89.4585258,
+   "subjects": [
+    "music"
+   ],
+   "levels": [
+    "middle"
+   ]
+  },
+  {
+   "id": "mmsd:9475",
+   "title": "Program Support Teacher CC (for interest) - Hawthorne - 0.5 FTE - 26-27 SY",
+   "district": "Madison Metropolitan School District",
+   "location": "Hawthorne (Madison, WI)",
+   "posted": "2026-08-07",
+   "start": "",
+   "close": "",
+   "url": "https://mmsd.csod.com/ux/ats/careersite/1/home/requisition/9475?c=mmsd",
+   "source": "mmsd",
+   "lat": 43.1120346,
+   "lng": -89.3282322,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "mmsd:9473",
+   "title": "Kindergarten Teacher - Huegel - 1.0 FTE - 26-27 SY",
+   "district": "Madison Metropolitan School District",
+   "location": "Huegel (Madison, WI)",
+   "posted": "2026-08-07",
+   "start": "",
+   "close": "",
+   "url": "https://mmsd.csod.com/ux/ats/careersite/1/home/requisition/9473?c=mmsd",
+   "source": "mmsd",
+   "lat": 43.0250529,
+   "lng": -89.4874043,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "mmsd:9469",
+   "title": "Art Teacher - Kennedy - 0.2 FTE - 26-27 SY",
+   "district": "Madison Metropolitan School District",
+   "location": "Kennedy (Madison, WI)",
+   "posted": "2026-08-07",
+   "start": "",
+   "close": "",
+   "url": "https://mmsd.csod.com/ux/ats/careersite/1/home/requisition/9469?c=mmsd",
+   "source": "mmsd",
+   "lat": 43.0940072,
+   "lng": -89.2973904,
+   "subjects": [
+    "art"
+   ],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "mmsd:9465",
+   "title": "Special Education Teacher (Cross Categorical) - West - 1.0 FTE - 26-27 SY",
+   "district": "Madison Metropolitan School District",
+   "location": "West (Madison, WI)",
+   "posted": "2026-08-07",
+   "start": "",
+   "close": "",
+   "url": "https://mmsd.csod.com/ux/ats/careersite/1/home/requisition/9465?c=mmsd",
+   "source": "mmsd",
+   "lat": 43.0686283,
+   "lng": -89.4271064,
+   "subjects": [],
+   "levels": [
+    "high"
+   ]
+  },
+  {
+   "id": "mmsd:9457",
+   "title": "ESL Teacher - Wright - 0.5 FTE - 26-27 SY",
+   "district": "Madison Metropolitan School District",
+   "location": "Wright (Madison, WI)",
+   "posted": "2026-08-07",
+   "start": "",
+   "close": "",
+   "url": "https://mmsd.csod.com/ux/ats/careersite/1/home/requisition/9457?c=mmsd",
+   "source": "mmsd",
+   "lat": 43.0484371,
+   "lng": -89.4002258,
+   "subjects": [
+    "esl"
+   ],
+   "levels": [
+    "middle"
    ]
   }
  ]
