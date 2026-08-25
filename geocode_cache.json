@@ -9,16 +9,11 @@
     45.423557,
     -91.8454099
   ],
-  "blessed savior catholic school": null,
   "boscobel area schools": [
     43.1346751,
     -90.7057398
   ],
   "brown co children w disabilities": null,
-  "cambria-friesland school district": [
-    43.5414362,
-    -89.1020736
-  ],
   "campbellsport school district": [
     43.5981718,
     -88.2849664
@@ -29,10 +24,6 @@
   "cesa 5": null,
   "cesa 6": null,
   "cesa 8": null,
-  "chippewa falls area unified school district": [
-    44.9371325,
-    -91.3932118
-  ],
   "common threads family resource center": null,
   "corpus christi parish school": null,
   "cross trainers academy": [
@@ -87,6 +78,10 @@
     43.7971612,
     -89.0402508
   ],
+  "hamilton school district": [
+    43.9222491,
+    -91.1060036
+  ],
   "heritage christian schools": [
     43.018643,
     -88.0476792
@@ -108,8 +103,8 @@
     -88.0253874
   ],
   "iola-scandinavia school district": [
-    44.5013633,
-    -89.1275776
+    44.5020673,
+    -89.1270679
   ],
   "kiel": [
     43.912493,
@@ -133,6 +128,10 @@
     -88.4152537
   ],
   "lutheran urban mission initiative, inc. (lumin)": null,
+  "madison country day school": [
+    43.1633642,
+    -89.3867593
+  ],
   "manitowoc public school district": [
     44.0998341,
     -87.827992
@@ -144,10 +143,6 @@
   "marinette school district": [
     45.3834983,
     -88.0409574
-  ],
-  "melrose-mindoro area schools": [
-    44.0747805,
-    -91.0207157
   ],
   "menominee indian school district": [
     44.9762964,
@@ -168,10 +163,6 @@
   "mmsd:elvehjem": [
     43.078724,
     -89.293227
-  ],
-  "mmsd:franklin": [
-    43.0554226,
-    -89.3876581
   ],
   "mmsd:hamilton": [
     43.064782,
@@ -194,18 +185,10 @@
     -89.3199528
   ],
   "mmsd:la follette hs": null,
-  "mmsd:marquette": [
-    43.086149,
-    -89.3575865
-  ],
   "mmsd:sennett": null,
   "mmsd:sherman": [
     43.1177357,
     -89.3621885
-  ],
-  "mmsd:stephens": [
-    43.0656506,
-    -89.4802776
   ],
   "mmsd:west": [
     43.0686283,
@@ -236,7 +219,6 @@
     44.97248,
     -89.6492298
   ],
-  "norway j7 school district/drought school": null,
   "oconto falls public schools": [
     44.8747779,
     -88.1432681
@@ -248,10 +230,6 @@
   "pathways high": [
     43.0529695,
     -87.9153682
-  ],
-  "pecatonica area schools": [
-    43.4355331,
-    -89.7311919
   ],
   "plymouth joint school district": [
     43.7486054,
@@ -265,10 +243,6 @@
   "richland school district": [
     43.3662526,
     -90.4557081
-  ],
-  "ripon area school district": [
-    43.8442406,
-    -88.8387158
   ],
   "river ridge school district": [
     43.1718311,
@@ -285,14 +259,6 @@
   "school district of ashland": [
     46.2062319,
     -90.6802594
-  ],
-  "school district of black river falls": [
-    44.2952152,
-    -90.8484137
-  ],
-  "school district of bonduel": [
-    44.7399556,
-    -88.4461285
   ],
   "school district of cudahy": [
     42.959738,
@@ -342,10 +308,6 @@
     44.8596498,
     -92.6255048
   ],
-  "school district of spring valley": [
-    44.8452476,
-    -92.2384167
-  ],
   "school district of the menomonie area": [
     44.9012628,
     -91.9297247
@@ -376,30 +338,22 @@
     42.9890468,
     -87.934382
   ],
+  "stanley-boyd area schools": [
+    44.9626104,
+    -90.9223059
+  ],
   "sturgeon bay school district": [
     44.8341639,
     -87.377042
-  ],
-  "superior school district": [
-    46.4800042,
-    -92.1829648
   ],
   "the richardson school": null,
   "tigerton school district": [
     44.7404426,
     -89.0623847
   ],
-  "tomorrow river school district": [
-    44.4309644,
-    -89.2759685
-  ],
   "two rivers public school district": [
     44.149206,
     -87.5682149
-  ],
-  "unified school district of de pere": [
-    44.4467461,
-    -88.067779
   ],
   "united community center schools": [
     43.0206611,
