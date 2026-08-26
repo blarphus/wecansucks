@@ -30,6 +30,10 @@
     43.0679737,
     -87.9318298
   ],
+  "d.c. everest area school district": [
+    44.9391683,
+    -89.6397653
+  ],
   "de soto area school district": [
     43.4230306,
     -91.1990204
@@ -102,17 +106,9 @@
     44.5842757,
     -88.0253874
   ],
-  "iola-scandinavia school district": [
-    44.5020673,
-    -89.1270679
-  ],
   "kiel": [
     43.912493,
     -88.0356515
-  ],
-  "kimberly area school district": [
-    44.2717086,
-    -88.3400807
   ],
   "lac courte oreilles ojibwe school": [
     45.9434176,
@@ -168,21 +164,9 @@
     43.064782,
     -89.4585258
   ],
-  "mmsd:hawthorne": [
-    43.1120346,
-    -89.3282322
-  ],
   "mmsd:huegel": [
     43.0250529,
     -89.4874043
-  ],
-  "mmsd:kennedy": [
-    43.0940072,
-    -89.2973904
-  ],
-  "mmsd:la follette": [
-    43.0641796,
-    -89.3199528
   ],
   "mmsd:la follette hs": null,
   "mmsd:sennett": null,
@@ -218,6 +202,10 @@
   "newman catholic schools": [
     44.97248,
     -89.6492298
+  ],
+  "oconomowoc area school district": [
+    43.1116731,
+    -88.4992659
   ],
   "oconto falls public schools": [
     44.8747779,
@@ -260,6 +248,14 @@
     46.2062319,
     -90.6802594
   ],
+  "school district of brown deer": [
+    43.1744352,
+    -87.972722
+  ],
+  "school district of crivitz": [
+    45.2323813,
+    -88.0043302
+  ],
   "school district of cudahy": [
     42.959738,
     -87.861471
@@ -268,17 +264,9 @@
     45.435841,
     -89.183475
   ],
-  "school district of greenfield": [
-    42.9596903,
-    -87.98132
-  ],
   "school district of hartford j1": [
     43.317744,
     -88.3788508
-  ],
-  "school district of holmen": [
-    43.9632211,
-    -91.2563658
   ],
   "school district of milton": [
     42.7753567,
@@ -313,9 +301,9 @@
     -91.9297247
   ],
   "school district of wabeno area": null,
-  "school district of whitefish bay": [
-    43.1185591,
-    -87.906804
+  "school district of west de pere": [
+    44.445547,
+    -88.0753807
   ],
   "school district of wisconsin dells": [
     43.6256168,
@@ -329,7 +317,6 @@
     44.774689,
     -87.5246702
   ],
-  "st. charles parish school": null,
   "st. francis school district": [
     42.9744081,
     -87.8709308
