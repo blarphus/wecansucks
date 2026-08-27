@@ -9,9 +9,9 @@
     45.423557,
     -91.8454099
   ],
-  "boscobel area schools": [
-    43.1346751,
-    -90.7057398
+  "bristol school district # 1": [
+    44.960917,
+    -92.703225
   ],
   "brown co children w disabilities": null,
   "campbellsport school district": [
@@ -22,7 +22,6 @@
   "cesa 1": null,
   "cesa 2": null,
   "cesa 5": null,
-  "cesa 6": null,
   "cesa 8": null,
   "common threads family resource center": null,
   "corpus christi parish school": null,
@@ -33,10 +32,6 @@
   "d.c. everest area school district": [
     44.9391683,
     -89.6397653
-  ],
-  "de soto area school district": [
-    43.4230306,
-    -91.1990204
   ],
   "delavan-darien school district": [
     42.6309356,
@@ -50,9 +45,9 @@
     45.3103081,
     -90.1977969
   ],
-  "divine mercy catholic school": [
-    42.9290586,
-    -87.8554529
+  "divine savior holy angels high school": [
+    43.0950801,
+    -88.0393975
   ],
   "dover #1 kansasville": null,
   "downtown montessori academy": [
@@ -67,6 +62,10 @@
   "ellsworth community school district": [
     44.732122,
     -92.4831218
+  ],
+  "elmbrook schools": [
+    43.0835486,
+    -88.1273713
   ],
   "fall river school district": [
     43.3873717,
@@ -86,6 +85,7 @@
     43.9222491,
     -91.1060036
   ],
+  "hartland-lakeside school district": null,
   "heritage christian schools": [
     43.018643,
     -88.0476792
@@ -105,6 +105,14 @@
   "howard-suamico school district": [
     44.5842757,
     -88.0253874
+  ],
+  "iowa-grant school district": [
+    42.9313785,
+    -90.3967571
+  ],
+  "johnson creek school district": [
+    43.0700694,
+    -88.7859681
   ],
   "kiel": [
     43.912493,
@@ -148,13 +156,13 @@
     43.2396327,
     -87.9859619
   ],
-  "mmsd:doyle": [
-    43.07063,
-    -89.3950391
+  "merrill area public schools": [
+    45.180522,
+    -89.683459
   ],
-  "mmsd:east": [
-    43.0976765,
-    -89.3546857
+  "mmsd:doyle": [
+    43.0706245,
+    -89.3950353
   ],
   "mmsd:elvehjem": [
     43.078724,
@@ -170,14 +178,6 @@
   ],
   "mmsd:la follette hs": null,
   "mmsd:sennett": null,
-  "mmsd:sherman": [
-    43.1177357,
-    -89.3621885
-  ],
-  "mmsd:west": [
-    43.0686283,
-    -89.4271064
-  ],
   "mmsd:wright": [
     43.0484371,
     -89.4002258
@@ -199,6 +199,10 @@
     44.1837802,
     -88.4634176
   ],
+  "nekoosa school district": [
+    44.3154564,
+    -89.8918206
+  ],
   "newman catholic schools": [
     44.97248,
     -89.6492298
@@ -211,9 +215,9 @@
     44.8747779,
     -88.1432681
   ],
-  "oconto unified school district": [
-    44.9988053,
-    -88.2480072
+  "paris j1": [
+    42.6377392,
+    -90.6029325
   ],
   "pathways high": [
     43.0529695,
@@ -244,9 +248,9 @@
     44.2527212,
     -91.5014893
   ],
-  "school district of ashland": [
-    46.2062319,
-    -90.6802594
+  "school district of bonduel": [
+    44.7399556,
+    -88.4461285
   ],
   "school district of brown deer": [
     43.1744352,
@@ -268,6 +272,10 @@
     43.317744,
     -88.3788508
   ],
+  "school district of maple": [
+    46.5896621,
+    -91.7207434
+  ],
   "school district of milton": [
     42.7753567,
     -88.9390017
@@ -284,10 +292,6 @@
     43.8830606,
     -91.2343539
   ],
-  "school district of oostburg": [
-    43.6231131,
-    -87.7983447
-  ],
   "school district of prescott": [
     44.749123,
     -92.8022347
@@ -295,10 +299,6 @@
   "school district of river falls": [
     44.8596498,
     -92.6255048
-  ],
-  "school district of the menomonie area": [
-    44.9012628,
-    -91.9297247
   ],
   "school district of wabeno area": null,
   "school district of west de pere": [
@@ -346,9 +346,9 @@
     43.0206611,
     -87.9220984
   ],
-  "viroqua area schools": [
-    43.5569174,
-    -90.8887413
+  "waupun area school district": [
+    43.633216,
+    -88.7296352
   ],
   "wauwatosa school district": [
     43.0494122,
@@ -373,5 +373,6 @@
   "wittenberg-birnamwood school district": [
     44.8307469,
     -89.1804965
-  ]
+  ],
+  "wonewoc-union center school district": null
 }
