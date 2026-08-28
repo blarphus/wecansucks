@@ -10,20 +10,15 @@
     -91.8454099
   ],
   "bristol school district # 1": [
-    44.960917,
+    44.960916,
     -92.703225
   ],
   "brown co children w disabilities": null,
-  "campbellsport school district": [
-    43.5981718,
-    -88.2849664
-  ],
   "cedar grove-belgium area school district": null,
   "cesa 1": null,
   "cesa 2": null,
   "cesa 5": null,
   "cesa 8": null,
-  "common threads family resource center": null,
   "corpus christi parish school": null,
   "cross trainers academy": [
     43.0679737,
@@ -49,16 +44,11 @@
     43.0950801,
     -88.0393975
   ],
-  "dover #1 kansasville": null,
   "downtown montessori academy": [
     42.9985182,
     -87.9038278
   ],
   "durand-arkansaw school district": null,
-  "east troy community school district": [
-    42.7851871,
-    -88.4054374
-  ],
   "ellsworth community school district": [
     44.732122,
     -92.4831218
@@ -148,10 +138,6 @@
     45.3834983,
     -88.0409574
   ],
-  "menominee indian school district": [
-    44.9762964,
-    -88.7347165
-  ],
   "mequon-thiensville school district": [
     43.2396327,
     -87.9859619
@@ -160,24 +146,37 @@
     45.180522,
     -89.683459
   ],
+  "mmsd:anana": [
+    43.0400195,
+    -89.4896913
+  ],
+  "mmsd:black hawk": null,
   "mmsd:doyle": [
     43.0706245,
     -89.3950353
+  ],
+  "mmsd:east": [
+    43.0976765,
+    -89.3546857
   ],
   "mmsd:elvehjem": [
     43.078724,
     -89.293227
   ],
-  "mmsd:hamilton": [
-    43.064782,
-    -89.4585258
-  ],
+  "mmsd:gillespie": null,
   "mmsd:huegel": [
     43.0250529,
     -89.4874043
   ],
-  "mmsd:la follette hs": null,
+  "mmsd:schenk": [
+    43.092265,
+    -89.3247882
+  ],
   "mmsd:sennett": null,
+  "mmsd:sherman": [
+    43.1177357,
+    -89.3621885
+  ],
   "mmsd:wright": [
     43.0484371,
     -89.4002258
@@ -198,14 +197,6 @@
   "neenah joint school district": [
     44.1837802,
     -88.4634176
-  ],
-  "nekoosa school district": [
-    44.3154564,
-    -89.8918206
-  ],
-  "newman catholic schools": [
-    44.97248,
-    -89.6492298
   ],
   "oconomowoc area school district": [
     43.1116731,
@@ -228,10 +219,6 @@
     -87.977038
   ],
   "port washington-saukville school district": null,
-  "prairie farm": [
-    45.237184,
-    -91.9815675
-  ],
   "richland school district": [
     43.3662526,
     -90.4557081
@@ -247,6 +234,10 @@
   "school district of arcadia": [
     44.2527212,
     -91.5014893
+  ],
+  "school district of bayfield": [
+    46.4710241,
+    -91.1983175
   ],
   "school district of bonduel": [
     44.7399556,
@@ -287,10 +278,6 @@
   "school district of oakfield": [
     43.6836929,
     -88.5474431
-  ],
-  "school district of onalaska": [
-    43.8830606,
-    -91.2343539
   ],
   "school district of prescott": [
     44.749123,
@@ -362,17 +349,9 @@
     42.9347867,
     -88.0384117
   ],
-  "winneconne community school district": [
-    44.1109462,
-    -88.7136515
-  ],
   "wisconsin rapids public schools": [
     44.4037069,
     -89.8737566
-  ],
-  "wittenberg-birnamwood school district": [
-    44.8307469,
-    -89.1804965
   ],
   "wonewoc-union center school district": null
 }
