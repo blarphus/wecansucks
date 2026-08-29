@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-28T17:32:28.093812-05:00",
+ "generated_at": "2026-08-29T11:50:38.921806-05:00",
  "weeks": 3,
  "subject_labels": {
   "english": "English / ELA",
@@ -19,6 +19,23 @@
   "high": "High school"
  },
  "jobs": [
+  {
+   "id": "272818",
+   "title": "Art Teacher (Limited Term 2026-27 School Year)",
+   "district": "Glendale-River Hills School District",
+   "location": "Glen Hills Middle Schol",
+   "posted": "2026-08-29",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/272818",
+   "source": "wecan",
+   "lat": null,
+   "lng": null,
+   "subjects": [
+    "art"
+   ],
+   "levels": []
+  },
   {
    "id": "272809",
    "title": "Adolescent / Elementary Montessori Teacher",
@@ -1295,25 +1312,6 @@
    ]
   },
   {
-   "id": "272474",
-   "title": "Instrumental Music Teacher",
-   "district": "Watertown Unified School District",
-   "location": "Riverside Middle School",
-   "posted": "2026-08-24",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/272474",
-   "source": "wecan",
-   "lat": 43.1947,
-   "lng": -88.729,
-   "subjects": [
-    "music"
-   ],
-   "levels": [
-    "middle"
-   ]
-  },
-  {
    "id": "272452",
    "title": "Elementary Long Term Substitute",
    "district": "Stanley-Boyd Area Schools",
@@ -1761,26 +1759,6 @@
    "lat": 44.2619,
    "lng": -88.4153,
    "subjects": [],
-   "levels": [
-    "middle"
-   ]
-  },
-  {
-   "id": "272265",
-   "title": "8th Grade ELA/ Social Studies Teacher",
-   "district": "Hortonville Area School District",
-   "location": "Greenville Middle School",
-   "posted": "2026-08-20",
-   "start": "As Soon as Possible",
-   "close": "8/28/2026",
-   "url": "https://wecan.waspa.org/Vacancy/272265",
-   "source": "wecan",
-   "lat": 44.3350374,
-   "lng": -88.639343,
-   "subjects": [
-    "english",
-    "social"
-   ],
    "levels": [
     "middle"
    ]
@@ -4049,132 +4027,6 @@
    ]
   },
   {
-   "id": "271159",
-   "title": "Middle School Teacher",
-   "district": "Diocese of Madison Catholic Schools",
-   "location": "Blessed Sacrament School",
-   "posted": "2026-08-07",
-   "start": "8/13/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/271159",
-   "source": "wecan",
-   "lat": 43.0514334,
-   "lng": -89.5229716,
-   "subjects": [],
-   "levels": [
-    "middle"
-   ]
-  },
-  {
-   "id": "271150",
-   "title": "Long-Term Substitute Teacher: High School Spanish",
-   "district": "Lake Country Classical Academy",
-   "location": "Lake Country Classical Academy - West",
-   "posted": "2026-08-07",
-   "start": "8/19/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/271150",
-   "source": "wecan",
-   "lat": null,
-   "lng": null,
-   "subjects": [
-    "world_lang"
-   ],
-   "levels": [
-    "high"
-   ]
-  },
-  {
-   "id": "271143",
-   "title": "Cross-Categorical Special Education Teacher - Lemonweir Elementary",
-   "district": "Tomah Area School District",
-   "location": "Lemonweir Elementary School",
-   "posted": "2026-08-07",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/271143",
-   "source": "wecan",
-   "lat": 43.9786,
-   "lng": -90.504,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "271139",
-   "title": "5th/6th Grade ELA Teacher",
-   "district": "Heritage Christian Schools",
-   "location": "Heritage Christian Elementary School",
-   "posted": "2026-08-07",
-   "start": "8/24/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/271139",
-   "source": "wecan",
-   "lat": 43.018643,
-   "lng": -88.0476792,
-   "subjects": [
-    "english"
-   ],
-   "levels": [
-    "elementary",
-    "middle"
-   ]
-  },
-  {
-   "id": "271136",
-   "title": "Behavior Interventionist - Miller",
-   "district": "Tomah Area School District",
-   "location": "Miller Elementary",
-   "posted": "2026-08-07",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/271136",
-   "source": "wecan",
-   "lat": 43.9786,
-   "lng": -90.504,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "271118",
-   "title": "5th-8th Grade Math Teacher",
-   "district": "Diocese of Madison Catholic Schools",
-   "location": "St. Luke Catholic School, Plain, WI",
-   "posted": "2026-08-07",
-   "start": "8/15/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/271118",
-   "source": "wecan",
-   "lat": 43.0514334,
-   "lng": -89.5229716,
-   "subjects": [
-    "math"
-   ],
-   "levels": [
-    "middle"
-   ]
-  },
-  {
-   "id": "271107",
-   "title": "Theater Teacher - High School SY 2026-27",
-   "district": "Cristo Rey Jesuit High School Milwaukee",
-   "location": "Cristo Rey Jesuit High School",
-   "posted": "2026-08-07",
-   "start": "As Soon as Possible",
-   "close": "9/6/2026",
-   "url": "https://wecan.waspa.org/Vacancy/271107",
-   "source": "wecan",
-   "lat": 43.0389,
-   "lng": -87.9065,
-   "subjects": [],
-   "levels": [
-    "high"
-   ]
-  },
-  {
    "id": "mmsd:9558",
    "title": "ESL DLI Grade 1 Teacher - Schenk - 1.0 FTE - 26-27 SY",
    "district": "Madison Metropolitan School District",
@@ -4371,42 +4223,6 @@
    "subjects": [
     "esl",
     "world_lang"
-   ],
-   "levels": [
-    "middle"
-   ]
-  },
-  {
-   "id": "mmsd:9473",
-   "title": "Kindergarten Teacher - Huegel - 1.0 FTE - 26-27 SY",
-   "district": "Madison Metropolitan School District",
-   "location": "Huegel (Madison, WI)",
-   "posted": "2026-08-07",
-   "start": "",
-   "close": "",
-   "url": "https://mmsd.csod.com/ux/ats/careersite/1/home/requisition/9473?c=mmsd",
-   "source": "mmsd",
-   "lat": 43.0250529,
-   "lng": -89.4874043,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "mmsd:9457",
-   "title": "ESL Teacher - Wright - 0.5 FTE - 26-27 SY",
-   "district": "Madison Metropolitan School District",
-   "location": "Wright (Madison, WI)",
-   "posted": "2026-08-07",
-   "start": "",
-   "close": "",
-   "url": "https://mmsd.csod.com/ux/ats/careersite/1/home/requisition/9457?c=mmsd",
-   "source": "mmsd",
-   "lat": 43.0484371,
-   "lng": -89.4002258,
-   "subjects": [
-    "esl"
    ],
    "levels": [
     "middle"
