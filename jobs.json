@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-29T11:50:38.921806-05:00",
+ "generated_at": "2026-08-30T11:55:23.237448-05:00",
  "weeks": 3,
  "subject_labels": {
   "english": "English / ELA",
@@ -705,7 +705,7 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/272688",
    "source": "wecan",
-   "lat": 44.960916,
+   "lat": 44.960917,
    "lng": -92.703225,
    "subjects": [
     "english"
@@ -4005,23 +4005,6 @@
    "subjects": [
     "english"
    ],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "271186",
-   "title": "Elementary School Aide",
-   "district": "Diocese of La Crosse",
-   "location": "Sacred Heart of Jesus Catholic School, Cashton",
-   "posted": "2026-08-08",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/271186",
-   "source": "wecan",
-   "lat": 43.8014,
-   "lng": -91.2396,
-   "subjects": [],
    "levels": [
     "elementary"
    ]
