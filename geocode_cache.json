@@ -10,7 +10,7 @@
     -91.8454099
   ],
   "bristol school district # 1": [
-    44.960917,
+    44.960916,
     -92.703225
   ],
   "brown co children w disabilities": null,
@@ -40,11 +40,19 @@
     43.0950801,
     -88.0393975
   ],
+  "dominican high school": [
+    43.1199064,
+    -87.909658
+  ],
   "downtown montessori academy": [
     42.9985182,
     -87.9038278
   ],
   "durand-arkansaw school district": null,
+  "elkhorn area school district": [
+    42.6719206,
+    -88.543494
+  ],
   "ellsworth community school district": [
     44.732122,
     -92.4831218
@@ -105,10 +113,6 @@
     -91.35972
   ],
   "lake country classical academy": null,
-  "lake country school district": [
-    43.1029333,
-    -88.354607
-  ],
   "lake geneva schools": [
     42.571693,
     -88.4152537
@@ -165,10 +169,6 @@
     43.1177357,
     -89.3621885
   ],
-  "mosinee school district": [
-    44.7927669,
-    -89.7030748
-  ],
   "mukwonago area school district": [
     42.8666803,
     -88.3334274
@@ -214,6 +214,14 @@
   "rosholt school district": [
     44.6285666,
     -89.3088427
+  ],
+  "sauk prairie school district": [
+    43.2981475,
+    -89.7565455
+  ],
+  "school district of abbotsford": [
+    44.9471087,
+    -90.3194786
   ],
   "school district of arcadia": [
     44.2527212,
@@ -271,6 +279,10 @@
     44.8596498,
     -92.6255048
   ],
+  "school district of shiocton": [
+    44.4420959,
+    -88.5791057
+  ],
   "school district of wabeno area": null,
   "school district of west de pere": [
     44.445547,
@@ -316,6 +328,10 @@
   "united community center schools": [
     43.0206611,
     -87.9220984
+  ],
+  "unity school district": [
+    44.8506143,
+    -90.3161421
   ],
   "waupun area school district": [
     43.633216,

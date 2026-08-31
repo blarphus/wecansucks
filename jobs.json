@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-30T11:55:23.237448-05:00",
+ "generated_at": "2026-08-31T14:12:07.397249-05:00",
  "weeks": 3,
  "subject_labels": {
   "english": "English / ELA",
@@ -19,6 +19,234 @@
   "high": "High school"
  },
  "jobs": [
+  {
+   "id": "272875",
+   "title": "Long-Term Physical Education/Health Substitute Teacher",
+   "district": "Dominican High School",
+   "location": "Dominican High School",
+   "posted": "2026-08-31",
+   "start": "9/1/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/272875",
+   "source": "wecan",
+   "lat": 43.1199064,
+   "lng": -87.909658,
+   "subjects": [
+    "pe_health"
+   ],
+   "levels": [
+    "high"
+   ]
+  },
+  {
+   "id": "272874",
+   "title": "Technology Education Teacher",
+   "district": "Manitowoc Public School District",
+   "location": "Washington Middle School & Lincoln High School",
+   "posted": "2026-08-31",
+   "start": "9/1/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/272874",
+   "source": "wecan",
+   "lat": 44.0998341,
+   "lng": -87.827992,
+   "subjects": [
+    "cs_tech"
+   ],
+   "levels": [
+    "high",
+    "middle"
+   ]
+  },
+  {
+   "id": "272873",
+   "title": "World Language-Spanish",
+   "district": "Oconomowoc Area School District",
+   "location": "Silver Lake and Nature Hill Intermediate Schools",
+   "posted": "2026-08-31",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/272873",
+   "source": "wecan",
+   "lat": 43.1116731,
+   "lng": -88.4992659,
+   "subjects": [
+    "world_lang"
+   ],
+   "levels": []
+  },
+  {
+   "id": "272871",
+   "title": "World Language-Spanish",
+   "district": "Oconomowoc Area School District",
+   "location": "Silver Lake and Nature Hill Intermediate Schools",
+   "posted": "2026-08-31",
+   "start": "8/25/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/272871",
+   "source": "wecan",
+   "lat": 43.1116731,
+   "lng": -88.4992659,
+   "subjects": [
+    "world_lang"
+   ],
+   "levels": []
+  },
+  {
+   "id": "272866",
+   "title": "Science",
+   "district": "School District of Abbotsford",
+   "location": "Middle/High School",
+   "posted": "2026-08-31",
+   "start": "9/1/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/272866",
+   "source": "wecan",
+   "lat": 44.9471087,
+   "lng": -90.3194786,
+   "subjects": [
+    "science"
+   ],
+   "levels": [
+    "high"
+   ]
+  },
+  {
+   "id": "272859",
+   "title": "YouthBuild Construction Manager / Tech Ed Instructor",
+   "district": "Elkhorn Area School District",
+   "location": "Elkhorn Area School District",
+   "posted": "2026-08-31",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/272859",
+   "source": "wecan",
+   "lat": 42.6719206,
+   "lng": -88.543494,
+   "subjects": [
+    "cs_tech"
+   ],
+   "levels": []
+  },
+  {
+   "id": "272857",
+   "title": "High School Special Education Teacher",
+   "district": "School District of Shiocton",
+   "location": "School District of Shiocton",
+   "posted": "2026-08-31",
+   "start": "9/21/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/272857",
+   "source": "wecan",
+   "lat": 44.4420959,
+   "lng": -88.5791057,
+   "subjects": [],
+   "levels": [
+    "high"
+   ]
+  },
+  {
+   "id": "272855",
+   "title": "GIFTED AND TALENTED TEACHER - 0.5 FTE MATHEMATICS EMPHASIS",
+   "district": "Unity School District",
+   "location": "District",
+   "posted": "2026-08-31",
+   "start": "As Soon as Possible",
+   "close": "9/8/2026",
+   "url": "https://wecan.waspa.org/Vacancy/272855",
+   "source": "wecan",
+   "lat": 44.8506143,
+   "lng": -90.3161421,
+   "subjects": [
+    "math"
+   ],
+   "levels": []
+  },
+  {
+   "id": "272852",
+   "title": "8th Grade Social Studies Long-Term Substitute",
+   "district": "Sauk Prairie School District",
+   "location": "Sauk Prairie Middle School",
+   "posted": "2026-08-31",
+   "start": "10/1/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/272852",
+   "source": "wecan",
+   "lat": 43.2981475,
+   "lng": -89.7565455,
+   "subjects": [
+    "social"
+   ],
+   "levels": [
+    "middle"
+   ]
+  },
+  {
+   "id": "272851",
+   "title": "2026-27 Special Education Diagnostician",
+   "district": "Racine Unified School District",
+   "location": "Districtwide",
+   "posted": "2026-08-31",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/272851",
+   "source": "wecan",
+   "lat": 42.7261,
+   "lng": -87.7829,
+   "subjects": [],
+   "levels": []
+  },
+  {
+   "id": "272839",
+   "title": "Teacher - Virtual Special Education - eAchieve",
+   "district": "School District of Waukesha",
+   "location": "eAchieve Academy",
+   "posted": "2026-08-31",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/272839",
+   "source": "wecan",
+   "lat": 43.0117,
+   "lng": -88.2315,
+   "subjects": [],
+   "levels": []
+  },
+  {
+   "id": "272830",
+   "title": "Grade 3 Dual Language Immersion (DLI) Teacher",
+   "district": "Sun Prairie Area School District",
+   "location": "Meadow View Elementry",
+   "posted": "2026-08-31",
+   "start": "8/17/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/272830",
+   "source": "wecan",
+   "lat": 43.1836,
+   "lng": -89.2137,
+   "subjects": [
+    "esl"
+   ],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "272821",
+   "title": "Cross-Categorical Special Education Teacher (9-12)",
+   "district": "Wausau School District",
+   "location": "Wausau East High School",
+   "posted": "2026-08-30",
+   "start": "8/31/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/272821",
+   "source": "wecan",
+   "lat": 44.9591,
+   "lng": -89.6301,
+   "subjects": [],
+   "levels": [
+    "high"
+   ]
+  },
   {
    "id": "272818",
    "title": "Art Teacher (Limited Term 2026-27 School Year)",
@@ -219,23 +447,6 @@
    "subjects": [],
    "levels": [
     "high"
-   ]
-  },
-  {
-   "id": "272775",
-   "title": "Title I Interventionist Heritage Elementary",
-   "district": "Waunakee Community School District",
-   "location": "Waunakee Community School District",
-   "posted": "2026-08-28",
-   "start": "9/1/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/272775",
-   "source": "wecan",
-   "lat": 43.1919,
-   "lng": -89.4554,
-   "subjects": [],
-   "levels": [
-    "elementary"
    ]
   },
   {
@@ -466,25 +677,6 @@
    ]
   },
   {
-   "id": "272717",
-   "title": "HS Social Studies",
-   "district": "School District of Cambridge",
-   "location": "Cambridge High School",
-   "posted": "2026-08-27",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/272717",
-   "source": "wecan",
-   "lat": 43.0036,
-   "lng": -89.0162,
-   "subjects": [
-    "social"
-   ],
-   "levels": [
-    "high"
-   ]
-  },
-  {
    "id": "272715",
    "title": "Science Teacher (MS)",
    "district": "Madison Country Day School",
@@ -705,7 +897,7 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/272688",
    "source": "wecan",
-   "lat": 44.960917,
+   "lat": 44.960916,
    "lng": -92.703225,
    "subjects": [
     "english"
@@ -1692,25 +1884,6 @@
    ]
   },
   {
-   "id": "272296",
-   "title": "2026 - 2027 Teacher - High School Physical Education & Health @ BLA",
-   "district": "School District of Beloit",
-   "location": "Beloit Learning Academy @ Beloit Memorial High School",
-   "posted": "2026-08-21",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/272296",
-   "source": "wecan",
-   "lat": 42.5083,
-   "lng": -89.0318,
-   "subjects": [
-    "pe_health"
-   ],
-   "levels": [
-    "high"
-   ]
-  },
-  {
    "id": "272287",
    "title": "Cross Categorical Teacher",
    "district": "Sun Prairie Area School District",
@@ -1813,21 +1986,6 @@
    ]
   },
   {
-   "id": "272248",
-   "title": "Special Education Teacher",
-   "district": "Lake Country School District",
-   "location": "Lake Country School",
-   "posted": "2026-08-20",
-   "start": "8/25/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/272248",
-   "source": "wecan",
-   "lat": 43.1029333,
-   "lng": -88.354607,
-   "subjects": [],
-   "levels": []
-  },
-  {
    "id": "272242",
    "title": "Fine Arts Educator & Program Innovator (Grades 4\u20138)",
    "district": "Glendale-River Hills School District",
@@ -1916,21 +2074,6 @@
    "levels": [
     "elementary"
    ]
-  },
-  {
-   "id": "272229",
-   "title": "Special Education Teacher",
-   "district": "Lake Country School District",
-   "location": "Lake Country School",
-   "posted": "2026-08-20",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/272229",
-   "source": "wecan",
-   "lat": 43.1029333,
-   "lng": -88.354607,
-   "subjects": [],
-   "levels": []
   },
   {
    "id": "272224",
@@ -2315,26 +2458,6 @@
    ]
   },
   {
-   "id": "272075",
-   "title": "Reading Interventionist",
-   "district": "Mosinee School District",
-   "location": "Mosinee Elementary School/Mosinee Middle School",
-   "posted": "2026-08-18",
-   "start": "8/24/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/272075",
-   "source": "wecan",
-   "lat": 44.7927669,
-   "lng": -89.7030748,
-   "subjects": [
-    "english"
-   ],
-   "levels": [
-    "elementary",
-    "middle"
-   ]
-  },
-  {
    "id": "272070",
    "title": "ASL Educational Interpreter",
    "district": "School District of Wisconsin Dells",
@@ -2440,23 +2563,6 @@
    "levels": [
     "elementary",
     "high"
-   ]
-  },
-  {
-   "id": "272016",
-   "title": "Grade 2 Teacher",
-   "district": "Sun Prairie Area School District",
-   "location": "Meadow View Elementary",
-   "posted": "2026-08-18",
-   "start": "8/24/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/272016",
-   "source": "wecan",
-   "lat": 43.1836,
-   "lng": -89.2137,
-   "subjects": [],
-   "levels": [
-    "elementary"
    ]
   },
   {
