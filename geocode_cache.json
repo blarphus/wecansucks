@@ -1,11 +1,7 @@
 {
-  "21st century preparatory school": [
-    42.728657,
-    -87.7953505
-  ],
   "bader hillel academy": null,
   "bristol school district # 1": [
-    44.960916,
+    44.960917,
     -92.703225
   ],
   "brown co children w disabilities": null,
@@ -14,7 +10,6 @@
   "cesa 2": null,
   "cesa 5": null,
   "cesa 8": null,
-  "corpus christi parish school": null,
   "cross trainers academy": [
     43.0679737,
     -87.9318298
@@ -43,10 +38,6 @@
   "elkhorn area school district": [
     42.6719206,
     -88.543494
-  ],
-  "ellsworth community school district": [
-    44.732122,
-    -92.4831218
   ],
   "elmbrook schools": [
     43.0835486,
@@ -95,10 +86,9 @@
     43.912493,
     -88.0356515
   ],
-  "lake country classical academy": null,
-  "lake geneva schools": [
-    42.571693,
-    -88.4152537
+  "la causa charter school": [
+    43.0131344,
+    -87.9129714
   ],
   "lutheran urban mission initiative, inc. (lumin)": null,
   "madison country day school": [
@@ -108,10 +98,6 @@
   "manitowoc public school district": [
     44.0998341,
     -87.827992
-  ],
-  "marathon county special education": [
-    44.9314487,
-    -89.6370141
   ],
   "marinette school district": [
     45.3834983,
@@ -156,25 +142,13 @@
     -88.1340107
   ],
   "national heritage academies": null,
-  "neenah joint school district": [
-    44.1837802,
-    -88.4634176
-  ],
   "oconomowoc area school district": [
     43.1116731,
     -88.4992659
   ],
-  "oconto falls public schools": [
-    44.8747779,
-    -88.1432681
-  ],
   "paris j1": [
     42.6377392,
     -90.6029325
-  ],
-  "pathways high": [
-    43.0529695,
-    -87.9153682
   ],
   "port washington-saukville school district": null,
   "richland school district": [
@@ -229,10 +203,6 @@
     46.5896621,
     -91.7207434
   ],
-  "school district of milton": [
-    42.7753567,
-    -88.9390017
-  ],
   "school district of neillsville": [
     44.5604073,
     -90.5962609
@@ -253,7 +223,10 @@
     46.3529163,
     -91.8205458
   ],
-  "school district of wabeno area": null,
+  "school district of the menomonie area": [
+    44.9012628,
+    -91.9297247
+  ],
   "school district of west de pere": [
     44.445547,
     -88.0753807
@@ -261,10 +234,6 @@
   "school district of wisconsin dells": [
     43.6256168,
     -89.7715646
-  ],
-  "shawano school district": [
-    44.7817214,
-    -88.7118868
   ],
   "st. francis school district": [
     42.9744081,
@@ -278,14 +247,14 @@
     44.9626104,
     -90.9223059
   ],
-  "sturgeon bay school district": [
-    44.8341639,
-    -87.377042
-  ],
   "the richardson school": null,
   "tigerton school district": [
     44.7404426,
     -89.0623847
+  ],
+  "tomorrow river school district": [
+    44.430922,
+    -89.2760799
   ],
   "two rivers public school district": [
     44.149206,
@@ -310,10 +279,6 @@
   "west bend school district": [
     43.4252776,
     -88.1834277
-  ],
-  "whitnall school district": [
-    42.9347867,
-    -88.0384117
   ],
   "wisconsin rapids public schools": [
     44.4037069,
