@@ -9,7 +9,6 @@
   "cesa 1": null,
   "cesa 2": null,
   "cesa 5": null,
-  "cesa 8": null,
   "cross trainers academy": [
     43.0679737,
     -87.9318298
@@ -38,10 +37,6 @@
   "elkhorn area school district": [
     42.6719206,
     -88.543494
-  ],
-  "elmbrook schools": [
-    43.0835486,
-    -88.1273713
   ],
   "fall river school district": [
     43.3873717,
@@ -115,6 +110,7 @@
     43.0400195,
     -89.4896913
   ],
+  "mmsd:black hawk": null,
   "mmsd:doyle": [
     43.0706245,
     -89.3950353
@@ -179,10 +175,6 @@
     46.4710241,
     -91.1983175
   ],
-  "school district of bonduel": [
-    44.7399556,
-    -88.4461285
-  ],
   "school district of crivitz": [
     45.2323813,
     -88.0043302
@@ -235,6 +227,10 @@
     43.6256168,
     -89.7715646
   ],
+  "st. croix central school district": [
+    44.9823306,
+    -92.4486371
+  ],
   "st. francis school district": [
     42.9744081,
     -87.8709308
@@ -248,13 +244,9 @@
     -90.9223059
   ],
   "the richardson school": null,
-  "tigerton school district": [
-    44.7404426,
-    -89.0623847
-  ],
   "tomorrow river school district": [
-    44.430922,
-    -89.2760799
+    44.4309644,
+    -89.2759685
   ],
   "two rivers public school district": [
     44.149206,
