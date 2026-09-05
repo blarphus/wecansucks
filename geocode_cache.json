@@ -1,18 +1,12 @@
 {
-  "bader hillel academy": null,
   "bristol school district # 1": [
     44.960917,
     -92.703225
   ],
   "brown co children w disabilities": null,
-  "cedar grove-belgium area school district": null,
   "cesa 1": null,
   "cesa 2": null,
   "cesa 5": null,
-  "cross trainers academy": [
-    43.0679737,
-    -87.9318298
-  ],
   "d.c. everest area school district": [
     44.9391683,
     -89.6397653
@@ -33,25 +27,12 @@
     42.9985182,
     -87.9038278
   ],
-  "durand-arkansaw school district": null,
   "elkhorn area school district": [
     42.6719206,
     -88.543494
   ],
-  "fall river school district": [
-    43.3873717,
-    -89.0442238
-  ],
   "genesee lake school": null,
-  "germantown school district": [
-    43.2286174,
-    -88.1103691
-  ],
   "glendale-river hills school district": null,
-  "green lake school district": [
-    43.7971612,
-    -89.0402508
-  ],
   "hamilton school district": [
     43.9222491,
     -91.1060036
@@ -65,10 +46,6 @@
     44.3350374,
     -88.639343
   ],
-  "howard-suamico school district": [
-    44.5842757,
-    -88.0253874
-  ],
   "iowa-grant school district": [
     42.9313785,
     -90.3967571
@@ -76,10 +53,6 @@
   "johnson creek school district": [
     43.0700694,
     -88.7859681
-  ],
-  "kiel": [
-    43.912493,
-    -88.0356515
   ],
   "la causa charter school": [
     43.0131344,
@@ -93,14 +66,6 @@
   "manitowoc public school district": [
     44.0998341,
     -87.827992
-  ],
-  "marinette school district": [
-    45.3834983,
-    -88.0409574
-  ],
-  "mequon-thiensville school district": [
-    43.2396327,
-    -87.9859619
   ],
   "merrill area public schools": [
     45.180522,
@@ -137,7 +102,6 @@
     42.8451651,
     -88.1340107
   ],
-  "national heritage academies": null,
   "oconomowoc area school district": [
     43.1116731,
     -88.4992659
@@ -151,14 +115,6 @@
     43.3662526,
     -90.4557081
   ],
-  "river ridge school district": [
-    43.1718311,
-    -88.0346824
-  ],
-  "rosholt school district": [
-    44.6285666,
-    -89.3088427
-  ],
   "sauk prairie school district": [
     43.2981475,
     -89.7565455
@@ -166,10 +122,6 @@
   "school district of abbotsford": [
     44.9471087,
     -90.3194786
-  ],
-  "school district of arcadia": [
-    44.2527212,
-    -91.5014893
   ],
   "school district of bayfield": [
     46.4710241,
@@ -179,17 +131,9 @@
     45.2323813,
     -88.0043302
   ],
-  "school district of cudahy": [
-    42.959738,
-    -87.861471
-  ],
   "school district of elcho": [
     45.435841,
     -89.183475
-  ],
-  "school district of hartford j1": [
-    43.317744,
-    -88.3788508
   ],
   "school district of maple": [
     46.5896621,
@@ -198,14 +142,6 @@
   "school district of neillsville": [
     44.5604073,
     -90.5962609
-  ],
-  "school district of oakfield": [
-    43.6836929,
-    -88.5474431
-  ],
-  "school district of river falls": [
-    44.8596498,
-    -92.6255048
   ],
   "school district of shiocton": [
     44.4420959,
@@ -223,27 +159,18 @@
     44.445547,
     -88.0753807
   ],
-  "school district of wisconsin dells": [
-    43.6256168,
-    -89.7715646
-  ],
   "st. croix central school district": [
-    44.9823306,
-    -92.4486371
+    44.9768064,
+    -92.4363528
   ],
   "st. francis school district": [
     42.9744081,
     -87.8709308
   ],
-  "st. joseph academy": [
-    42.9890468,
-    -87.934382
-  ],
   "stanley-boyd area schools": [
     44.9626104,
     -90.9223059
   ],
-  "the richardson school": null,
   "tomorrow river school district": [
     44.4309644,
     -89.2759685
@@ -251,10 +178,6 @@
   "two rivers public school district": [
     44.149206,
     -87.5682149
-  ],
-  "united community center schools": [
-    43.0206611,
-    -87.9220984
   ],
   "unity school district": [
     44.8506143,
