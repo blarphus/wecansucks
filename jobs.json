@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-06T10:38:38.292175-05:00",
+ "generated_at": "2026-09-07T12:51:02.494203-05:00",
  "weeks": 3,
  "subject_labels": {
   "english": "English / ELA",
@@ -238,8 +238,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/273166",
    "source": "wecan",
-   "lat": 44.9823306,
-   "lng": -92.4486371,
+   "lat": 44.9768064,
+   "lng": -92.4363528,
    "subjects": [],
    "levels": [
     "elementary"
@@ -255,8 +255,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/273164",
    "source": "wecan",
-   "lat": 44.9823306,
-   "lng": -92.4486371,
+   "lat": 44.9768064,
+   "lng": -92.4363528,
    "subjects": [],
    "levels": [
     "elementary"
@@ -272,8 +272,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/273163",
    "source": "wecan",
-   "lat": 44.9823306,
-   "lng": -92.4486371,
+   "lat": 44.9768064,
+   "lng": -92.4363528,
    "subjects": [],
    "levels": [
     "elementary"
@@ -481,8 +481,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/273043",
    "source": "wecan",
-   "lat": 44.430922,
-   "lng": -89.2760799,
+   "lat": 44.4309644,
+   "lng": -89.2759685,
    "subjects": [
     "cs_tech"
    ],
@@ -3372,23 +3372,6 @@
    "source": "wecan",
    "lat": null,
    "lng": null,
-   "subjects": [],
-   "levels": [
-    "middle"
-   ]
-  },
-  {
-   "id": "271850",
-   "title": "Long Term Guest Teacher - Middle School Special Education",
-   "district": "Muskego-Norway School District",
-   "location": "Muskego Lakes Middle School",
-   "posted": "2026-08-16",
-   "start": "9/3/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/271850",
-   "source": "wecan",
-   "lat": 42.8451651,
-   "lng": -88.1340107,
    "subjects": [],
    "levels": [
     "middle"
