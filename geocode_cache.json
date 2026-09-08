@@ -1,13 +1,17 @@
 {
-  "bader hillel academy": null,
   "bristol school district # 1": [
     44.960917,
     -92.703225
   ],
   "brown co children w disabilities": null,
+  "cedar grove-belgium area school district": null,
   "cesa 1": null,
   "cesa 2": null,
   "cesa 5": null,
+  "chippewa falls area unified school district": [
+    44.9371325,
+    -91.3932118
+  ],
   "cross trainers academy": [
     43.0679737,
     -87.9318298
@@ -33,16 +37,16 @@
     -87.9038278
   ],
   "durand-arkansaw school district": null,
-  "elkhorn area school district": [
-    42.6719206,
-    -88.543494
-  ],
   "fall river school district": [
     43.3873717,
     -89.0442238
   ],
   "genesee lake school": null,
   "glendale-river hills school district": null,
+  "granton area schools": [
+    44.5872517,
+    -90.4624637
+  ],
   "green lake school district": [
     43.7971612,
     -89.0402508
@@ -71,10 +75,6 @@
   "johnson creek school district": [
     43.0700694,
     -88.7859681
-  ],
-  "kiel": [
-    43.912493,
-    -88.0356515
   ],
   "la causa charter school": [
     43.0131344,
@@ -111,10 +111,6 @@
     -89.3546857
   ],
   "mmsd:gillespie": null,
-  "mmsd:schenk": [
-    43.092265,
-    -89.3247882
-  ],
   "mmsd:sennett": null,
   "mmsd:sherman": [
     43.1177357,
@@ -141,6 +137,10 @@
   "richland school district": [
     43.3662526,
     -90.4557081
+  ],
+  "richmond school": [
+    43.1203313,
+    -88.2746601
   ],
   "river ridge school district": [
     43.1718311,
@@ -178,10 +178,6 @@
     45.435841,
     -89.183475
   ],
-  "school district of hartford j1": [
-    43.317744,
-    -88.3788508
-  ],
   "school district of maple": [
     46.5896621,
     -91.7207434
@@ -189,10 +185,6 @@
   "school district of neillsville": [
     44.5604073,
     -90.5962609
-  ],
-  "school district of oakfield": [
-    43.6836929,
-    -88.5474431
   ],
   "school district of river falls": [
     44.8596498,
@@ -242,10 +234,6 @@
   "two rivers public school district": [
     44.149206,
     -87.5682149
-  ],
-  "united community center schools": [
-    43.0206611,
-    -87.9220984
   ],
   "unity school district": [
     44.8506143,
