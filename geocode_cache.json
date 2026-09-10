@@ -28,20 +28,11 @@
     42.9985182,
     -87.9038278
   ],
-  "durand-arkansaw school district": null,
   "genesee lake school": null,
   "glendale-river hills school district": null,
   "granton area schools": [
     44.5872517,
     -90.4624637
-  ],
-  "green lake school district": [
-    43.7971612,
-    -89.0402508
-  ],
-  "hamilton school district": [
-    43.9222491,
-    -91.1060036
   ],
   "hartland-lakeside school district": null,
   "heritage christian schools": [
@@ -51,10 +42,6 @@
   "hortonville area school district": [
     44.3350374,
     -88.639343
-  ],
-  "howard-suamico school district": [
-    44.5842757,
-    -88.0253874
   ],
   "iowa-grant school district": [
     42.9313785,
@@ -101,9 +88,9 @@
     45.180522,
     -89.683459
   ],
-  "mmsd:anana": [
-    43.0400195,
-    -89.4896913
+  "messmer high school": [
+    43.0899818,
+    -87.9204772
   ],
   "mmsd:black hawk": null,
   "mmsd:doyle": [
@@ -119,31 +106,32 @@
     43.1177357,
     -89.3621885
   ],
+  "mmsd:whitehorse": null,
   "mukwonago area school district": [
     42.8666803,
     -88.3334274
-  ],
-  "muskego-norway school district": [
-    42.8451651,
-    -88.1340107
   ],
   "national heritage academies": null,
   "oconomowoc area school district": [
     43.1116731,
     -88.4992659
   ],
+  "oneida nation schools": [
+    44.4913567,
+    -88.1077568
+  ],
   "paris j1": [
     42.6377392,
     -90.6029325
   ],
   "port washington-saukville school district": null,
+  "richland school district": [
+    43.3662526,
+    -90.4557081
+  ],
   "richmond school": [
     43.1203313,
     -88.2746601
-  ],
-  "river ridge school district": [
-    43.1718311,
-    -88.0346824
   ],
   "sauk prairie school district": [
     43.2981475,
@@ -198,8 +186,8 @@
     -88.0753807
   ],
   "st. croix central school district": [
-    44.9768064,
-    -92.4363528
+    44.9823306,
+    -92.4486371
   ],
   "st. francis school district": [
     42.9744081,
@@ -209,14 +197,19 @@
     44.9626104,
     -90.9223059
   ],
+  "tigerton school district": [
+    44.7404426,
+    -89.0623847
+  ],
   "tomorrow river school district": [
-    44.4309644,
-    -89.2759685
+    44.430922,
+    -89.2760799
   ],
   "two rivers public school district": [
     44.149206,
     -87.5682149
   ],
+  "washington caldwell school district": null,
   "waupun area school district": [
     43.633216,
     -88.7296352
