@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T11:41:23.807961-05:00",
+ "generated_at": "2026-09-12T10:44:18.588640-05:00",
  "weeks": 3,
  "subject_labels": {
   "english": "English / ELA",
@@ -19,6 +19,218 @@
   "high": "High school"
  },
  "jobs": [
+  {
+   "id": "273592",
+   "title": "4K Teacher (Long-Term Substitute)",
+   "district": "School District of Amery",
+   "location": "Lien Elementary School",
+   "posted": "2026-09-11",
+   "start": "10/6/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/273592",
+   "source": "wecan",
+   "lat": 45.3125385,
+   "lng": -92.3620836,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "273591",
+   "title": "Lead Librarian",
+   "district": "St. Mary Catholic Schools - Neenah/Menasha (Green Bay Diocese)",
+   "location": "St. Mary Catholic Schools (Neenah)",
+   "posted": "2026-09-11",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/273591",
+   "source": "wecan",
+   "lat": 44.5133,
+   "lng": -88.0133,
+   "subjects": [],
+   "levels": []
+  },
+  {
+   "id": "273590",
+   "title": "Special Education Teacher",
+   "district": "Sparta Area School District",
+   "location": "Sparta High School",
+   "posted": "2026-09-11",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/273590",
+   "source": "wecan",
+   "lat": 43.9732475,
+   "lng": -90.8516564,
+   "subjects": [],
+   "levels": [
+    "high"
+   ]
+  },
+  {
+   "id": "273585",
+   "title": "Elementary Reading and Math Teacher",
+   "district": "Mukwonago Area School District",
+   "location": "Clarendon Avenue Elementary School",
+   "posted": "2026-09-11",
+   "start": "9/1/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/273585",
+   "source": "wecan",
+   "lat": 42.8666803,
+   "lng": -88.3334274,
+   "subjects": [
+    "math"
+   ],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "273584",
+   "title": "0.5 FTE Algoma Venture Academy English Advisor",
+   "district": "School District of Algoma",
+   "location": "Algoma School District",
+   "posted": "2026-09-11",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/273584",
+   "source": "wecan",
+   "lat": 44.6096421,
+   "lng": -87.4364981,
+   "subjects": [
+    "english"
+   ],
+   "levels": []
+  },
+  {
+   "id": "273583",
+   "title": "Upper Elementary School Teacher",
+   "district": "Atlas Preparatory Academy",
+   "location": "Kansas Campus",
+   "posted": "2026-09-11",
+   "start": "8/25/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/273583",
+   "source": "wecan",
+   "lat": 43.0389,
+   "lng": -87.9065,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "273582",
+   "title": "Elementary School Physical Education Teacher",
+   "district": "Atlas Preparatory Academy",
+   "location": "Kansas Campus",
+   "posted": "2026-09-11",
+   "start": "8/25/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/273582",
+   "source": "wecan",
+   "lat": 43.0389,
+   "lng": -87.9065,
+   "subjects": [
+    "pe_health"
+   ],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "273581",
+   "title": "Second Grade Teacher",
+   "district": "Atlas Preparatory Academy",
+   "location": "Kansas Campus",
+   "posted": "2026-09-11",
+   "start": "8/25/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/273581",
+   "source": "wecan",
+   "lat": 43.0389,
+   "lng": -87.9065,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "273580",
+   "title": "Elementary Small Group Reading Teacher",
+   "district": "Atlas Preparatory Academy",
+   "location": "Kansas Campus",
+   "posted": "2026-09-11",
+   "start": "8/31/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/273580",
+   "source": "wecan",
+   "lat": 43.0389,
+   "lng": -87.9065,
+   "subjects": [
+    "english"
+   ],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "273579",
+   "title": "Elementary School Math Support Teacher",
+   "district": "Atlas Preparatory Academy",
+   "location": "Kansas Campus",
+   "posted": "2026-09-11",
+   "start": "8/31/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/273579",
+   "source": "wecan",
+   "lat": 43.0389,
+   "lng": -87.9065,
+   "subjects": [
+    "math"
+   ],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "273565",
+   "title": "Science Teacher",
+   "district": "School District of Maple",
+   "location": "Northwestern High School",
+   "posted": "2026-09-11",
+   "start": "10/5/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/273565",
+   "source": "wecan",
+   "lat": 46.5896621,
+   "lng": -91.7207434,
+   "subjects": [
+    "science"
+   ],
+   "levels": [
+    "high"
+   ]
+  },
+  {
+   "id": "273561",
+   "title": "Intervention Specialist - Reading (.50 FTE) - Harvey Elementary School",
+   "district": "Kenosha Unified School District",
+   "location": "Harvey",
+   "posted": "2026-09-11",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/273561",
+   "source": "wecan",
+   "lat": 42.5847,
+   "lng": -87.8212,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
   {
    "id": "273545",
    "title": "K4-8th Grade Music Teacher",
@@ -198,7 +410,7 @@
    "location": "Pershing Elementary",
    "posted": "2026-09-10",
    "start": "As Soon as Possible",
-   "close": "Until filled",
+   "close": "9/18/2026",
    "url": "https://wecan.waspa.org/Vacancy/273492",
    "source": "wecan",
    "lat": 43.0389,
@@ -324,6 +536,25 @@
    "lng": -89.6301,
    "subjects": [],
    "levels": []
+  },
+  {
+   "id": "273458",
+   "title": "Bilingual Resource Teacher",
+   "district": "Verona Area School District",
+   "location": "Sugar Creek Elementary School",
+   "posted": "2026-09-10",
+   "start": "9/11/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/273458",
+   "source": "wecan",
+   "lat": 42.9908,
+   "lng": -89.5332,
+   "subjects": [
+    "esl"
+   ],
+   "levels": [
+    "elementary"
+   ]
   },
   {
    "id": "273454",
@@ -1257,7 +1488,7 @@
    "location": "WAWM School District",
    "posted": "2026-09-04",
    "start": "As Soon as Possible",
-   "close": "Until filled",
+   "close": "9/18/2026",
    "url": "https://wecan.waspa.org/Vacancy/273198",
    "source": "wecan",
    "lat": 43.0389,
@@ -1283,32 +1514,13 @@
    ]
   },
   {
-   "id": "273195",
-   "title": "Long-Term Substitute: Science Teacher",
-   "district": "School District of Maple",
-   "location": "Northwestern High School",
-   "posted": "2026-09-04",
-   "start": "9/4/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/273195",
-   "source": "wecan",
-   "lat": 46.5896621,
-   "lng": -91.7207434,
-   "subjects": [
-    "science"
-   ],
-   "levels": [
-    "high"
-   ]
-  },
-  {
    "id": "273193",
    "title": "District Wide Special Education Teacher - Intensive Services",
    "district": "West Allis-West Milwaukee School District",
    "location": "WAWM School District",
    "posted": "2026-09-04",
    "start": "As Soon as Possible",
-   "close": "Until filled",
+   "close": "9/18/2026",
    "url": "https://wecan.waspa.org/Vacancy/273193",
    "source": "wecan",
    "lat": 43.0389,
@@ -1341,7 +1553,7 @@
    "location": "Jefferson Elementary",
    "posted": "2026-09-04",
    "start": "As Soon as Possible",
-   "close": "Until filled",
+   "close": "9/18/2026",
    "url": "https://wecan.waspa.org/Vacancy/273176",
    "source": "wecan",
    "lat": 43.0389,
@@ -1640,8 +1852,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/273043",
    "source": "wecan",
-   "lat": 44.4309644,
-   "lng": -89.2759685,
+   "lat": 44.430922,
+   "lng": -89.2760799,
    "subjects": [
     "cs_tech"
    ],
@@ -1849,8 +2061,8 @@
    "district": "West Allis-West Milwaukee School District",
    "location": "WAWM School District",
    "posted": "2026-09-01",
-   "start": "8/25/2026",
-   "close": "Until filled",
+   "start": "As Soon as Possible",
+   "close": "9/18/2026",
    "url": "https://wecan.waspa.org/Vacancy/272936",
    "source": "wecan",
    "lat": 43.0389,
@@ -1865,7 +2077,7 @@
    "location": "Horace Mann Elementary",
    "posted": "2026-09-01",
    "start": "As Soon as Possible",
-   "close": "Until filled",
+   "close": "9/18/2026",
    "url": "https://wecan.waspa.org/Vacancy/272916",
    "source": "wecan",
    "lat": 43.0389,
@@ -2395,44 +2607,6 @@
    "lat": 42.8666803,
    "lng": -88.3334274,
    "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "272734",
-   "title": "Elementary School Math Support Teacher",
-   "district": "Atlas Preparatory Academy",
-   "location": "Kansas Campus",
-   "posted": "2026-08-27",
-   "start": "8/31/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/272734",
-   "source": "wecan",
-   "lat": 43.0389,
-   "lng": -87.9065,
-   "subjects": [
-    "math"
-   ],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "272732",
-   "title": "Elementary Small Group Reading Teacher",
-   "district": "Atlas Preparatory Academy",
-   "location": "Kansas Campus",
-   "posted": "2026-08-27",
-   "start": "8/31/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/272732",
-   "source": "wecan",
-   "lat": 43.0389,
-   "lng": -87.9065,
-   "subjects": [
-    "english"
-   ],
    "levels": [
     "elementary"
    ]
@@ -3284,133 +3458,6 @@
    ]
   },
   {
-   "id": "272379",
-   "title": "Second Grade Teacher",
-   "district": "Atlas Preparatory Academy",
-   "location": "Kansas Campus",
-   "posted": "2026-08-24",
-   "start": "8/25/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/272379",
-   "source": "wecan",
-   "lat": 43.0389,
-   "lng": -87.9065,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "272377",
-   "title": "Upper Elementary School Teacher",
-   "district": "Atlas Preparatory Academy",
-   "location": "Kansas Campus",
-   "posted": "2026-08-24",
-   "start": "8/25/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/272377",
-   "source": "wecan",
-   "lat": 43.0389,
-   "lng": -87.9065,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "272376",
-   "title": "Elementary School Physical Education Teacher",
-   "district": "Atlas Preparatory Academy",
-   "location": "Kansas Campus",
-   "posted": "2026-08-24",
-   "start": "8/25/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/272376",
-   "source": "wecan",
-   "lat": 43.0389,
-   "lng": -87.9065,
-   "subjects": [
-    "pe_health"
-   ],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "272348",
-   "title": "Special Education Teacher (2026-2027 Full-Time Position w/Benefits)",
-   "district": "St. Francis School District",
-   "location": "St. Francis Public School District - Willow Glen Primary School",
-   "posted": "2026-08-21",
-   "start": "8/24/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/272348",
-   "source": "wecan",
-   "lat": 42.9744081,
-   "lng": -87.8709308,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "272312",
-   "title": "K-12 Art Teacher",
-   "district": "School District of Elcho",
-   "location": "Elcho School District",
-   "posted": "2026-08-21",
-   "start": "8/24/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/272312",
-   "source": "wecan",
-   "lat": 45.435841,
-   "lng": -89.183475,
-   "subjects": [
-    "art"
-   ],
-   "levels": [
-    "elementary",
-    "high",
-    "middle"
-   ]
-  },
-  {
-   "id": "272309",
-   "title": "Middle School Teacher (Grades 6-8)",
-   "district": "Verona Area School District",
-   "location": "Savanna Oaks Middle School",
-   "posted": "2026-08-21",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/272309",
-   "source": "wecan",
-   "lat": 42.9908,
-   "lng": -89.5332,
-   "subjects": [],
-   "levels": [
-    "middle"
-   ]
-  },
-  {
-   "id": "272298",
-   "title": "LONG TERM SUB : Science",
-   "district": "West Bend School District",
-   "location": "Badger Middle School",
-   "posted": "2026-08-21",
-   "start": "10/5/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/272298",
-   "source": "wecan",
-   "lat": 43.4252776,
-   "lng": -88.1834277,
-   "subjects": [
-    "science"
-   ],
-   "levels": [
-    "middle"
-   ]
-  },
-  {
    "id": "mmsd:9588",
    "title": "4K Teacher - Hawthorne - 1.0 FTE - 26-27 SY",
    "district": "Madison Metropolitan School District",
@@ -3640,36 +3687,6 @@
    "levels": [
     "middle"
    ]
-  },
-  {
-   "id": "mmsd:9533",
-   "title": "Program Support Teacher (PST) - Occupational Therapist (OT) - Doyle - 0.3 FTE - 26-27 SY",
-   "district": "Madison Metropolitan School District",
-   "location": "Doyle (Madison, WI)",
-   "posted": "2026-08-21",
-   "start": "",
-   "close": "",
-   "url": "https://mmsd.csod.com/ux/ats/careersite/1/home/requisition/9533?c=mmsd",
-   "source": "mmsd",
-   "lat": 43.0706245,
-   "lng": -89.3950353,
-   "subjects": [],
-   "levels": []
-  },
-  {
-   "id": "mmsd:9527",
-   "title": "Advanced Learning Teacher - Ada Deer - 0.5 FTE - 26-27 SY",
-   "district": "Madison Metropolitan School District",
-   "location": "Ada Deer (Madison, WI)",
-   "posted": "2026-08-21",
-   "start": "",
-   "close": "",
-   "url": "https://mmsd.csod.com/ux/ats/careersite/1/home/requisition/9527?c=mmsd",
-   "source": "mmsd",
-   "lat": 43.0731,
-   "lng": -89.4012,
-   "subjects": [],
-   "levels": []
   }
  ]
 }
