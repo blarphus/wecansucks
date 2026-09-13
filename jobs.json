@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T10:44:18.588640-05:00",
+ "generated_at": "2026-09-13T11:33:46.675125-05:00",
  "weeks": 3,
  "subject_labels": {
   "english": "English / ELA",
@@ -1609,8 +1609,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/273166",
    "source": "wecan",
-   "lat": 44.9768064,
-   "lng": -92.4363528,
+   "lat": 44.9823306,
+   "lng": -92.4486371,
    "subjects": [],
    "levels": [
     "elementary"
@@ -1626,8 +1626,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/273164",
    "source": "wecan",
-   "lat": 44.9768064,
-   "lng": -92.4363528,
+   "lat": 44.9823306,
+   "lng": -92.4486371,
    "subjects": [],
    "levels": [
     "elementary"
@@ -1643,8 +1643,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/273163",
    "source": "wecan",
-   "lat": 44.9768064,
-   "lng": -92.4363528,
+   "lat": 44.9823306,
+   "lng": -92.4486371,
    "subjects": [],
    "levels": [
     "elementary"
@@ -1852,8 +1852,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/273043",
    "source": "wecan",
-   "lat": 44.430922,
-   "lng": -89.2760799,
+   "lat": 44.4309644,
+   "lng": -89.2759685,
    "subjects": [
     "cs_tech"
    ],
@@ -2762,7 +2762,7 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/272688",
    "source": "wecan",
-   "lat": 44.960916,
+   "lat": 44.960917,
    "lng": -92.703225,
    "subjects": [
     "english"
