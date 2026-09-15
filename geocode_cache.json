@@ -1,12 +1,16 @@
 {
+  "bader hillel academy": null,
+  "barneveld school district": [
+    43.0153376,
+    -89.8958792
+  ],
   "bristol school district # 1": [
-    44.960916,
+    44.960917,
     -92.703225
   ],
   "brown co children w disabilities": null,
   "cedar grove-belgium area school district": null,
   "cesa 1": null,
-  "cesa 2": null,
   "cesa 5": null,
   "cesa 8": null,
   "chippewa falls area unified school district": [
@@ -34,6 +38,10 @@
   "granton area schools": [
     44.5872517,
     -90.4624637
+  ],
+  "greendale school district": [
+    42.9338104,
+    -87.997996
   ],
   "hartland-lakeside school district": null,
   "heritage christian schools": [
@@ -133,6 +141,10 @@
     -88.3334274
   ],
   "national heritage academies": null,
+  "nekoosa school district": [
+    44.3154564,
+    -89.8918206
+  ],
   "oconomowoc area school district": [
     43.1116731,
     -88.4992659
@@ -144,6 +156,10 @@
   "paris j1": [
     42.6377392,
     -90.6029325
+  ],
+  "pewaukee school district": [
+    43.0846017,
+    -88.2139452
   ],
   "port washington-saukville school district": null,
   "richland school district": [
@@ -178,6 +194,10 @@
     46.4710241,
     -91.1983175
   ],
+  "school district of chilton": [
+    44.028944,
+    -88.1628151
+  ],
   "school district of crivitz": [
     45.2323813,
     -88.0043302
@@ -186,9 +206,13 @@
     46.5896621,
     -91.7207434
   ],
-  "school district of neillsville": [
-    44.5604073,
-    -90.5962609
+  "school district of new richmond": [
+    45.1227287,
+    -92.537502
+  ],
+  "school district of rhinelander": [
+    45.636623,
+    -89.412075
   ],
   "school district of shiocton": [
     44.4420959,
@@ -211,16 +235,12 @@
     -90.8516564
   ],
   "st. croix central school district": [
-    44.9768064,
-    -92.4363528
+    44.9823306,
+    -92.4486371
   ],
   "st. joseph academy": [
     42.9890468,
     -87.934382
-  ],
-  "stanley-boyd area schools": [
-    44.9626104,
-    -90.9223059
   ],
   "the richardson school": null,
   "tigerton school district": [
@@ -228,8 +248,8 @@
     -89.0623847
   ],
   "tomorrow river school district": [
-    44.4309644,
-    -89.2759685
+    44.430922,
+    -89.2760799
   ],
   "valders area school district": [
     44.0661044,
