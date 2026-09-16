@@ -11,15 +11,10 @@
   "brown co children w disabilities": null,
   "cedar grove-belgium area school district": null,
   "cesa 1": null,
-  "cesa 5": null,
   "cesa 8": null,
   "chippewa falls area unified school district": [
     44.9371325,
     -91.3932118
-  ],
-  "d.c. everest area school district": [
-    44.9391683,
-    -89.6397653
   ],
   "delavan-darien school district": [
     42.6309356,
@@ -40,13 +35,17 @@
     -90.4624637
   ],
   "greendale school district": [
-    42.9338104,
-    -87.997996
+    42.9401508,
+    -87.9994517
   ],
   "hartland-lakeside school district": null,
   "heritage christian schools": [
     43.018643,
     -88.0476792
+  ],
+  "holy hill area school district": [
+    43.2444487,
+    -88.32704
   ],
   "hortonville area school district": [
     44.3350374,
@@ -77,9 +76,9 @@
     43.1633642,
     -89.3867593
   ],
-  "manitowoc public school district": [
-    44.0998341,
-    -87.827992
+  "marquette university high school": [
+    43.0379584,
+    -87.9558448
   ],
   "medford area public school district": [
     45.1391437,
@@ -145,6 +144,10 @@
     44.3154564,
     -89.8918206
   ],
+  "oak creek-franklin joint school district": [
+    42.9054721,
+    -87.9265921
+  ],
   "oconomowoc area school district": [
     43.1116731,
     -88.4992659
@@ -198,10 +201,6 @@
     44.028944,
     -88.1628151
   ],
-  "school district of crivitz": [
-    45.2323813,
-    -88.0043302
-  ],
   "school district of maple": [
     46.5896621,
     -91.7207434
@@ -226,9 +225,9 @@
     44.9012628,
     -91.9297247
   ],
-  "school district of west de pere": [
-    44.445547,
-    -88.0753807
+  "seymour community school district": [
+    44.5429082,
+    -88.312718
   ],
   "sparta area school district": [
     43.9732475,
