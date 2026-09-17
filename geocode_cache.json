@@ -9,6 +9,7 @@
     -92.703225
   ],
   "brown co children w disabilities": null,
+  "carmen schools of science and technology": null,
   "cedar grove-belgium area school district": null,
   "cesa 1": null,
   "cesa 8": null,
@@ -20,16 +21,16 @@
     42.6309356,
     -88.6614499
   ],
-  "divine savior holy angels high school": [
-    43.0950801,
-    -88.0393975
-  ],
   "downtown montessori academy": [
     42.9985182,
     -87.9038278
   ],
   "genesee lake school": null,
   "glendale-river hills school district": null,
+  "goodman community center": [
+    43.097123,
+    -89.343693
+  ],
   "granton area schools": [
     44.5872517,
     -90.4624637
@@ -47,17 +48,9 @@
     43.2444487,
     -88.32704
   ],
-  "hortonville area school district": [
-    44.3350374,
-    -88.639343
-  ],
   "iowa-grant school district": [
     42.9313785,
     -90.3967571
-  ],
-  "johnson creek school district": [
-    43.0700694,
-    -88.7859681
   ],
   "kiel": [
     43.912493,
@@ -152,6 +145,10 @@
     43.1116731,
     -88.4992659
   ],
+  "one city schools": [
+    43.0438637,
+    -89.3921729
+  ],
   "oneida nation schools": [
     44.4913567,
     -88.1077568
@@ -164,7 +161,6 @@
     43.0846017,
     -88.2139452
   ],
-  "port washington-saukville school district": null,
   "richland school district": [
     43.3662526,
     -90.4557081
@@ -247,8 +243,8 @@
     -89.0623847
   ],
   "tomorrow river school district": [
-    44.430922,
-    -89.2760799
+    44.4309644,
+    -89.2759685
   ],
   "valders area school district": [
     44.0661044,
@@ -266,6 +262,5 @@
   "wisconsin rapids public schools": [
     44.4037069,
     -89.8737566
-  ],
-  "wonewoc-union center school district": null
+  ]
 }
