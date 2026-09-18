@@ -4,10 +4,6 @@
     43.0153376,
     -89.8958792
   ],
-  "bristol school district # 1": [
-    44.960917,
-    -92.703225
-  ],
   "brown co children w disabilities": null,
   "carmen schools of science and technology": null,
   "cedar grove-belgium area school district": null,
@@ -17,9 +13,17 @@
     44.9371325,
     -91.3932118
   ],
+  "colby school district": [
+    44.9099665,
+    -90.3156911
+  ],
   "delavan-darien school district": [
     42.6309356,
     -88.6614499
+  ],
+  "diocese of madison catholic schools": [
+    43.0514334,
+    -89.5229716
   ],
   "downtown montessori academy": [
     42.9985182,
@@ -36,8 +40,8 @@
     -90.4624637
   ],
   "greendale school district": [
-    42.9401508,
-    -87.9994517
+    42.9338104,
+    -87.997996
   ],
   "hartland-lakeside school district": null,
   "heritage christian schools": [
@@ -47,10 +51,6 @@
   "holy hill area school district": [
     43.2444487,
     -88.32704
-  ],
-  "iowa-grant school district": [
-    42.9313785,
-    -90.3967571
   ],
   "kiel": [
     43.912493,
@@ -89,15 +89,15 @@
     43.2396327,
     -87.9859619
   ],
-  "merrill area public schools": [
-    45.180522,
-    -89.683459
-  ],
   "messmer high school": [
     43.0899818,
     -87.9204772
   ],
   "mmsd:black hawk": null,
+  "mmsd:cherokee": [
+    43.0413528,
+    -89.4497607
+  ],
   "mmsd:doyle": [
     43.0706245,
     -89.3950353
@@ -133,6 +133,10 @@
     -88.3334274
   ],
   "national heritage academies": null,
+  "neenah joint school district": [
+    44.1837802,
+    -88.4634176
+  ],
   "nekoosa school district": [
     44.3154564,
     -89.8918206
@@ -152,10 +156,6 @@
   "oneida nation schools": [
     44.4913567,
     -88.1077568
-  ],
-  "paris j1": [
-    42.6377392,
-    -90.6029325
   ],
   "pewaukee school district": [
     43.0846017,
@@ -201,6 +201,10 @@
     46.5896621,
     -91.7207434
   ],
+  "school district of mondovi": [
+    44.5678717,
+    -91.6706955
+  ],
   "school district of new richmond": [
     45.1227287,
     -92.537502
@@ -243,8 +247,8 @@
     -89.0623847
   ],
   "tomorrow river school district": [
-    44.4309644,
-    -89.2759685
+    44.430922,
+    -89.2760799
   ],
   "valders area school district": [
     44.0661044,
@@ -258,6 +262,10 @@
   "west bend school district": [
     43.4252776,
     -88.1834277
+  ],
+  "whitewater unified school district": [
+    42.8283755,
+    -88.7512805
   ],
   "wisconsin rapids public schools": [
     44.4037069,
