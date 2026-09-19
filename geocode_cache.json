@@ -4,7 +4,6 @@
     43.0153376,
     -89.8958792
   ],
-  "brown co children w disabilities": null,
   "carmen schools of science and technology": null,
   "cedar grove-belgium area school district": null,
   "cesa 1": null,
@@ -25,23 +24,20 @@
     43.0514334,
     -89.5229716
   ],
-  "downtown montessori academy": [
-    42.9985182,
-    -87.9038278
-  ],
+  "fundamentals llc": null,
   "genesee lake school": null,
   "glendale-river hills school district": null,
   "goodman community center": [
-    43.097123,
-    -89.343693
+    43.0973475,
+    -89.3431739
   ],
   "granton area schools": [
     44.5872517,
     -90.4624637
   ],
   "greendale school district": [
-    42.9338104,
-    -87.997996
+    42.9401508,
+    -87.9994517
   ],
   "hartland-lakeside school district": null,
   "heritage christian schools": [
@@ -51,6 +47,10 @@
   "holy hill area school district": [
     43.2444487,
     -88.32704
+  ],
+  "hudson school district": [
+    44.9750953,
+    -92.7554671
   ],
   "kiel": [
     43.912493,
@@ -81,10 +81,6 @@
     44.2022293,
     -88.4465361
   ],
-  "menominee indian school district": [
-    44.9762964,
-    -88.7347165
-  ],
   "mequon-thiensville school district": [
     43.2396327,
     -87.9859619
@@ -102,10 +98,6 @@
     43.0706245,
     -89.3950353
   ],
-  "mmsd:east": [
-    43.0976765,
-    -89.3546857
-  ],
   "mmsd:emerson": [
     43.1008728,
     -89.3524499
@@ -119,10 +111,6 @@
     -89.3403366
   ],
   "mmsd:sennett": null,
-  "mmsd:sherman": [
-    43.1177357,
-    -89.3621885
-  ],
   "mmsd:whitehorse": null,
   "mosinee school district": [
     44.7927669,
@@ -189,9 +177,9 @@
     44.2527212,
     -91.5014893
   ],
-  "school district of bayfield": [
-    46.4710241,
-    -91.1983175
+  "school district of bloomer": [
+    45.1015011,
+    -91.4887197
   ],
   "school district of chilton": [
     44.028944,
@@ -221,10 +209,6 @@
     46.3529163,
     -91.8205458
   ],
-  "school district of the menomonie area": [
-    44.9012628,
-    -91.9297247
-  ],
   "seymour community school district": [
     44.5429082,
     -88.312718
@@ -247,8 +231,8 @@
     -89.0623847
   ],
   "tomorrow river school district": [
-    44.430922,
-    -89.2760799
+    44.4309644,
+    -89.2759685
   ],
   "valders area school district": [
     44.0661044,
