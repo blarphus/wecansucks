@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-19T11:00:07.192863-05:00",
+ "generated_at": "2026-09-20T11:22:52.479715-05:00",
  "weeks": 3,
  "subject_labels": {
   "english": "English / ELA",
@@ -19,6 +19,23 @@
   "high": "High school"
  },
  "jobs": [
+  {
+   "id": "273988",
+   "title": "5th Grade Teacher",
+   "district": "Milwaukee Southwest Catholic Schools",
+   "location": "St. Matthew School - Oak Creek",
+   "posted": "2026-09-19",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/273988",
+   "source": "wecan",
+   "lat": 43.0389,
+   "lng": -87.9065,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
   {
    "id": "273984",
    "title": "Teacher: Long-Term Substitute (Family & Consumer Science)",
@@ -413,8 +430,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/273886",
    "source": "wecan",
-   "lat": 43.0973475,
-   "lng": -89.3431739,
+   "lat": 43.097123,
+   "lng": -89.343693,
    "subjects": [],
    "levels": [
     "high"
@@ -2530,8 +2547,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/273166",
    "source": "wecan",
-   "lat": 44.9823306,
-   "lng": -92.4486371,
+   "lat": 44.9768064,
+   "lng": -92.4363528,
    "subjects": [],
    "levels": [
     "elementary"
@@ -2547,8 +2564,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/273164",
    "source": "wecan",
-   "lat": 44.9823306,
-   "lng": -92.4486371,
+   "lat": 44.9768064,
+   "lng": -92.4363528,
    "subjects": [],
    "levels": [
     "elementary"
@@ -2564,8 +2581,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/273163",
    "source": "wecan",
-   "lat": 44.9823306,
-   "lng": -92.4486371,
+   "lat": 44.9768064,
+   "lng": -92.4363528,
    "subjects": [],
    "levels": [
     "elementary"
@@ -3136,23 +3153,6 @@
     "elementary",
     "middle"
    ]
-  },
-  {
-   "id": "272818",
-   "title": "Art Teacher (Limited Term 2026-27 School Year)",
-   "district": "Glendale-River Hills School District",
-   "location": "Glen Hills Middle Schol",
-   "posted": "2026-08-29",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/272818",
-   "source": "wecan",
-   "lat": null,
-   "lng": null,
-   "subjects": [
-    "art"
-   ],
-   "levels": []
   },
   {
    "id": "mmsd:9603",
