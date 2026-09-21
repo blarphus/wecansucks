@@ -1,9 +1,5 @@
 {
   "bader hillel academy": null,
-  "barneveld school district": [
-    43.0153376,
-    -89.8958792
-  ],
   "carmen schools of science and technology": null,
   "cedar grove-belgium area school district": null,
   "cesa 1": null,
@@ -17,12 +13,16 @@
     -90.3156911
   ],
   "delavan-darien school district": [
-    42.6309356,
-    -88.6614499
+    42.6297486,
+    -88.661441
   ],
   "diocese of madison catholic schools": [
     43.0514334,
     -89.5229716
+  ],
+  "dominican high school": [
+    43.1199064,
+    -87.909658
   ],
   "fundamentals llc": null,
   "genesee lake school": null,
@@ -35,8 +35,8 @@
     -90.4624637
   ],
   "greendale school district": [
-    42.9401508,
-    -87.9994517
+    42.9338104,
+    -87.997996
   ],
   "hartland-lakeside school district": null,
   "heritage christian schools": [
@@ -80,9 +80,17 @@
     44.2022293,
     -88.4465361
   ],
+  "menominee indian school district": [
+    44.9762964,
+    -88.7347165
+  ],
   "mequon-thiensville school district": [
     43.2396327,
     -87.9859619
+  ],
+  "merton community school district": [
+    43.1541501,
+    -88.3695085
   ],
   "messmer high school": [
     43.0899818,
@@ -147,10 +155,6 @@
   "pewaukee school district": [
     43.0846017,
     -88.2139452
-  ],
-  "richland school district": [
-    43.3662526,
-    -90.4557081
   ],
   "richmond school": [
     43.1203313,
@@ -230,8 +234,8 @@
     -89.0623847
   ],
   "tomorrow river school district": [
-    44.4309644,
-    -89.2759685
+    44.430922,
+    -89.2760799
   ],
   "valders area school district": [
     44.0661044,
@@ -241,6 +245,10 @@
   "waupun area school district": [
     43.633216,
     -88.7296352
+  ],
+  "wauwatosa school district": [
+    43.0494122,
+    -88.0079271
   ],
   "west bend school district": [
     43.4252776,
