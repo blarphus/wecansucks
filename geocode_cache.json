@@ -36,10 +36,9 @@
     -90.4624637
   ],
   "greendale school district": [
-    42.9338104,
-    -87.997996
+    42.9401508,
+    -87.9994517
   ],
-  "hartland-lakeside school district": null,
   "heritage christian schools": [
     43.018643,
     -88.0476792
@@ -106,10 +105,6 @@
     43.0413528,
     -89.4497607
   ],
-  "mmsd:doyle": [
-    43.0706245,
-    -89.3950353
-  ],
   "mmsd:emerson": [
     43.1008728,
     -89.3524499
@@ -149,6 +144,10 @@
     43.1116731,
     -88.4992659
   ],
+  "oconto unified school district": [
+    44.9988053,
+    -88.2480072
+  ],
   "one city schools": [
     43.0438637,
     -89.3921729
@@ -160,6 +159,11 @@
   "pewaukee school district": [
     43.0846017,
     -88.2139452
+  ],
+  "regis catholic schools": null,
+  "rib lake school district": [
+    45.3189756,
+    -90.2042115
   ],
   "river ridge school district": [
     43.1718311,
@@ -181,9 +185,17 @@
     44.2527212,
     -91.5014893
   ],
+  "school district of athens": [
+    45.0349745,
+    -90.0738874
+  ],
   "school district of bloomer": [
     45.1015011,
     -91.4887197
+  ],
+  "school district of brown deer": [
+    43.1744352,
+    -87.972722
   ],
   "school district of chilton": [
     44.028944,
@@ -205,10 +217,6 @@
     45.636623,
     -89.412075
   ],
-  "school district of solon springs": [
-    46.3529163,
-    -91.8205458
-  ],
   "school district of waupaca": [
     44.4927889,
     -88.9650419
@@ -222,8 +230,8 @@
     -90.8516564
   ],
   "st. croix central school district": [
-    44.9768064,
-    -92.4363528
+    44.9823306,
+    -92.4486371
   ],
   "st. joseph academy": [
     42.9890468,
@@ -232,6 +240,10 @@
   "superior school district": [
     46.4800042,
     -92.1829648
+  ],
+  "swallow school district": [
+    43.1348696,
+    -89.3543
   ],
   "the richardson school": null,
   "tigerton school district": [
