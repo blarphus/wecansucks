@@ -2,7 +2,6 @@
   "bader hillel academy": null,
   "carmen schools of science and technology": null,
   "cedar grove-belgium area school district": null,
-  "cesa 1": null,
   "cesa 5": null,
   "cesa 8": null,
   "chippewa falls area unified school district": [
@@ -26,7 +25,6 @@
     -87.909658
   ],
   "fundamentals llc": null,
-  "genesee lake school": null,
   "goodman community center": [
     43.097123,
     -89.343693
@@ -38,10 +36,6 @@
   "greendale school district": [
     42.9401508,
     -87.9994517
-  ],
-  "heritage christian schools": [
-    43.018643,
-    -88.0476792
   ],
   "holy hill area school district": [
     43.2444487,
@@ -68,10 +62,6 @@
     -88.9125723
   ],
   "lutheran urban mission initiative, inc. (lumin)": null,
-  "madison country day school": [
-    43.1633642,
-    -89.3867593
-  ],
   "marquette university high school": [
     43.0379584,
     -87.9558448
@@ -105,6 +95,10 @@
     43.0413528,
     -89.4497607
   ],
+  "mmsd:doyle": [
+    43.0706245,
+    -89.3950353
+  ],
   "mmsd:emerson": [
     43.1008728,
     -89.3524499
@@ -136,6 +130,7 @@
     44.3154564,
     -89.8918206
   ],
+  "north shore catholic schools": null,
   "oak creek-franklin joint school district": [
     42.9054721,
     -87.9265921
@@ -159,6 +154,10 @@
   "pewaukee school district": [
     43.0846017,
     -88.2139452
+  ],
+  "providence academy": [
+    43.8386569,
+    -91.2457452
   ],
   "regis catholic schools": null,
   "rib lake school district": [
@@ -205,6 +204,10 @@
     46.5896621,
     -91.7207434
   ],
+  "school district of mauston": [
+    43.7968543,
+    -90.0756767
+  ],
   "school district of mondovi": [
     44.5678717,
     -91.6706955
@@ -230,8 +233,8 @@
     -90.8516564
   ],
   "st. croix central school district": [
-    44.9823306,
-    -92.4486371
+    44.9768064,
+    -92.4363528
   ],
   "st. joseph academy": [
     42.9890468,
@@ -250,10 +253,6 @@
     44.7404426,
     -89.0623847
   ],
-  "tomorrow river school district": [
-    44.4309644,
-    -89.2759685
-  ],
   "valders area school district": [
     44.0661044,
     -87.8842583
@@ -266,10 +265,6 @@
   "wauwatosa school district": [
     43.0494122,
     -88.0079271
-  ],
-  "west bend school district": [
-    43.4252776,
-    -88.1834277
   ],
   "whitewater unified school district": [
     42.8283755,
