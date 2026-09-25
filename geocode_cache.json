@@ -24,7 +24,9 @@
     43.1199064,
     -87.909658
   ],
+  "durand-arkansaw school district": null,
   "fundamentals llc": null,
+  "genesee lake school": null,
   "goodman community center": [
     43.097123,
     -89.343693
@@ -62,6 +64,10 @@
     -88.9125723
   ],
   "lutheran urban mission initiative, inc. (lumin)": null,
+  "manitowoc public school district": [
+    44.0998341,
+    -87.827992
+  ],
   "marquette university high school": [
     43.0379584,
     -87.9558448
@@ -78,10 +84,6 @@
     44.9762964,
     -88.7347165
   ],
-  "mequon-thiensville school district": [
-    43.2396327,
-    -87.9859619
-  ],
   "merton community school district": [
     43.1541501,
     -88.3695085
@@ -91,17 +93,9 @@
     -87.9204772
   ],
   "mmsd:black hawk": null,
-  "mmsd:cherokee": [
-    43.0413528,
-    -89.4497607
-  ],
   "mmsd:doyle": [
     43.0706245,
     -89.3950353
-  ],
-  "mmsd:emerson": [
-    43.1008728,
-    -89.3524499
   ],
   "mmsd:hawthorne": [
     43.1120346,
@@ -131,6 +125,7 @@
     -89.8918206
   ],
   "north shore catholic schools": null,
+  "north wisconsin district lcms": null,
   "oak creek-franklin joint school district": [
     42.9054721,
     -87.9265921
@@ -212,6 +207,10 @@
     44.5678717,
     -91.6706955
   ],
+  "school district of neillsville": [
+    44.5604073,
+    -90.5962609
+  ],
   "school district of new richmond": [
     45.1227287,
     -92.537502
@@ -227,6 +226,14 @@
   "seymour community school district": [
     44.5429082,
     -88.312718
+  ],
+  "shawano school district": [
+    44.7817214,
+    -88.7118868
+  ],
+  "shorewood school district": [
+    43.0883957,
+    -87.8881302
   ],
   "sparta area school district": [
     43.9732475,
