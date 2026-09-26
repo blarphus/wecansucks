@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-25T12:25:52.217956-05:00",
+ "generated_at": "2026-09-26T11:35:23.942587-05:00",
  "weeks": 3,
  "subject_labels": {
   "english": "English / ELA",
@@ -19,6 +19,58 @@
   "high": "High school"
  },
  "jobs": [
+  {
+   "id": "274346",
+   "title": "Special Education Teacher",
+   "district": "School District of New London",
+   "location": "Lincoln Elementary School",
+   "posted": "2026-09-25",
+   "start": "10/12/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274346",
+   "source": "wecan",
+   "lat": 44.3928,
+   "lng": -88.7398,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "274341",
+   "title": "MS Science & Social Studies, 2026-2027 school year",
+   "district": "Lutheran Urban Mission Initiative, Inc. (LUMIN)",
+   "location": "Renaissance Lutheran, Taylor campus - Racine, WI",
+   "posted": "2026-09-25",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274341",
+   "source": "wecan",
+   "lat": null,
+   "lng": null,
+   "subjects": [
+    "science",
+    "social"
+   ],
+   "levels": []
+  },
+  {
+   "id": "274338",
+   "title": "Regular Education Intervention Paraeducator",
+   "district": "School District of the Menomonie Area",
+   "location": "Oaklawn Elementary",
+   "posted": "2026-09-25",
+   "start": "10/5/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274338",
+   "source": "wecan",
+   "lat": 44.9012628,
+   "lng": -91.9297247,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
   {
    "id": "274334",
    "title": "High School Math Teacher",
@@ -91,7 +143,7 @@
   },
   {
    "id": "274327",
-   "title": "Special Education Teacher- $5000 Signing Bonus",
+   "title": "Special Education Teacher",
    "district": "The Richardson School",
    "location": "The Richardson School - Sheboygan",
    "posted": "2026-09-25",
@@ -3127,164 +3179,6 @@
    ]
   },
   {
-   "id": "273223",
-   "title": "One Year Art Teacher",
-   "district": "Green Bay Area Public School District",
-   "location": "Katherine Johnson Academy of Enriched Virtual Learning / Sullivan Elementary School",
-   "posted": "2026-09-04",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/273223",
-   "source": "wecan",
-   "lat": 44.5133,
-   "lng": -88.0133,
-   "subjects": [
-    "art"
-   ],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "273209",
-   "title": "Part Time Spanish Teacher (50%)",
-   "district": "Green Bay Area Public School District",
-   "location": "Franklin Middle School/ Leonardo da Vinci School for Gifted Learners",
-   "posted": "2026-09-04",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/273209",
-   "source": "wecan",
-   "lat": 44.5133,
-   "lng": -88.0133,
-   "subjects": [
-    "world_lang"
-   ],
-   "levels": [
-    "middle"
-   ]
-  },
-  {
-   "id": "273196",
-   "title": "Media and Technology Integration Specialist \u2013 Elementary",
-   "district": "Eau Claire Area School District",
-   "location": "Sam Davey Elementary",
-   "posted": "2026-09-04",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/273196",
-   "source": "wecan",
-   "lat": 44.8113,
-   "lng": -91.4985,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "273183",
-   "title": "K-8 Guidance COunselor",
-   "district": "Siena Catholic Schools of Racine-Consortium",
-   "location": "",
-   "posted": "2026-09-04",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/273183",
-   "source": "wecan",
-   "lat": 42.7261,
-   "lng": -87.7829,
-   "subjects": [],
-   "levels": [
-    "elementary",
-    "middle"
-   ]
-  },
-  {
-   "id": "273173",
-   "title": "Reading Interventionist",
-   "district": "Wisconsin Rapids Public Schools",
-   "location": "Howe Elementary School",
-   "posted": "2026-09-04",
-   "start": "9/25/2026",
-   "close": "10/30/2026",
-   "url": "https://wecan.waspa.org/Vacancy/273173",
-   "source": "wecan",
-   "lat": 44.4037069,
-   "lng": -89.8737566,
-   "subjects": [
-    "english"
-   ],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "273166",
-   "title": "Long-Term Substitute Kindergarten Teacher",
-   "district": "St. Croix Central School District",
-   "location": "SCC Elementary School",
-   "posted": "2026-09-04",
-   "start": "11/20/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/273166",
-   "source": "wecan",
-   "lat": 44.9768064,
-   "lng": -92.4363528,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "273164",
-   "title": "Long-Term Substitute 3rd Grade Teacher",
-   "district": "St. Croix Central School District",
-   "location": "SCC Elementary School",
-   "posted": "2026-09-04",
-   "start": "11/20/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/273164",
-   "source": "wecan",
-   "lat": 44.9768064,
-   "lng": -92.4363528,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "273163",
-   "title": "Long-Term Substitute 2nd Grade Teacher",
-   "district": "St. Croix Central School District",
-   "location": "SCC Elementary School",
-   "posted": "2026-09-04",
-   "start": "11/2/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/273163",
-   "source": "wecan",
-   "lat": 44.9768064,
-   "lng": -92.4363528,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "273160",
-   "title": "Social Emotional Specialist",
-   "district": "Green Bay Area Public School District",
-   "location": "Head Start Learning Center",
-   "posted": "2026-09-04",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/273160",
-   "source": "wecan",
-   "lat": 44.5133,
-   "lng": -88.0133,
-   "subjects": [],
-   "levels": []
-  },
-  {
    "id": "mmsd:9603",
    "title": "Grade 4 Teacher - Hawthorne - 1.0 FTE - 26-27 SY",
    "district": "Madison Metropolitan School District",
@@ -3374,79 +3268,6 @@
    "levels": [
     "middle"
    ]
-  },
-  {
-   "id": "mmsd:9573",
-   "title": "Math Gr 8 Teacher - Sennett - 1.0 FTE - 26-27 SY",
-   "district": "Madison Metropolitan School District",
-   "location": "Sennett (Madison, WI)",
-   "posted": "2026-09-04",
-   "start": "",
-   "close": "",
-   "url": "https://mmsd.csod.com/ux/ats/careersite/1/home/requisition/9573?c=mmsd",
-   "source": "mmsd",
-   "lat": 43.0731,
-   "lng": -89.4012,
-   "subjects": [
-    "math"
-   ],
-   "levels": [
-    "middle"
-   ]
-  },
-  {
-   "id": "mmsd:9572",
-   "title": "Extended Long Term Sub (ELTS) Grade 7 Language Arts Teacher - Black Hawk - 1.0 FTE - 26-27 SY",
-   "district": "Madison Metropolitan School District",
-   "location": "Black Hawk (Madison, WI)",
-   "posted": "2026-09-04",
-   "start": "",
-   "close": "",
-   "url": "https://mmsd.csod.com/ux/ats/careersite/1/home/requisition/9572?c=mmsd",
-   "source": "mmsd",
-   "lat": 43.0731,
-   "lng": -89.4012,
-   "subjects": [
-    "english"
-   ],
-   "levels": [
-    "middle"
-   ]
-  },
-  {
-   "id": "mmsd:9569",
-   "title": "Bilingual Resource Teacher (Spanish) - Whitehorse - 0.333 FTE - 26-27 SY",
-   "district": "Madison Metropolitan School District",
-   "location": "Whitehorse (Madison, WI)",
-   "posted": "2026-09-04",
-   "start": "",
-   "close": "",
-   "url": "https://mmsd.csod.com/ux/ats/careersite/1/home/requisition/9569?c=mmsd",
-   "source": "mmsd",
-   "lat": 43.0731,
-   "lng": -89.4012,
-   "subjects": [
-    "esl",
-    "world_lang"
-   ],
-   "levels": [
-    "middle"
-   ]
-  },
-  {
-   "id": "mmsd:9561",
-   "title": "Teacher Leader - Social Work - TEP - Doyle - 1.0 FTE - 26-27 SY",
-   "district": "Madison Metropolitan School District",
-   "location": "Doyle (Madison, WI)",
-   "posted": "2026-09-04",
-   "start": "",
-   "close": "",
-   "url": "https://mmsd.csod.com/ux/ats/careersite/1/home/requisition/9561?c=mmsd",
-   "source": "mmsd",
-   "lat": 43.0706245,
-   "lng": -89.3950353,
-   "subjects": [],
-   "levels": []
   }
  ]
 }

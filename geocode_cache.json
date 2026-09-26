@@ -93,10 +93,6 @@
     -87.9204772
   ],
   "mmsd:black hawk": null,
-  "mmsd:doyle": [
-    43.0706245,
-    -89.3950353
-  ],
   "mmsd:hawthorne": [
     43.1120346,
     -89.3282322
@@ -106,7 +102,6 @@
     -89.3403366
   ],
   "mmsd:sennett": null,
-  "mmsd:whitehorse": null,
   "mosinee school district": [
     44.7927669,
     -89.7030748
@@ -219,6 +214,10 @@
     45.636623,
     -89.412075
   ],
+  "school district of the menomonie area": [
+    44.9012628,
+    -91.9297247
+  ],
   "school district of waupaca": [
     44.4927889,
     -88.9650419
@@ -238,10 +237,6 @@
   "sparta area school district": [
     43.9732475,
     -90.8516564
-  ],
-  "st. croix central school district": [
-    44.9768064,
-    -92.4363528
   ],
   "st. joseph academy": [
     42.9890468,
