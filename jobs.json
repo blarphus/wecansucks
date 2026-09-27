@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-26T11:35:23.942587-05:00",
+ "generated_at": "2026-09-27T12:09:42.660444-05:00",
  "weeks": 3,
  "subject_labels": {
   "english": "English / ELA",
@@ -1969,8 +1969,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/273679",
    "source": "wecan",
-   "lat": 42.9401508,
-   "lng": -87.9994517,
+   "lat": 42.9338104,
+   "lng": -87.997996,
    "subjects": [
     "english"
    ],
@@ -3159,23 +3159,6 @@
    "subjects": [],
    "levels": [
     "middle"
-   ]
-  },
-  {
-   "id": "273225",
-   "title": "26-27 Grade 5 Teacher",
-   "district": "Racine Unified School District",
-   "location": "Julian Thomas Elementary School",
-   "posted": "2026-09-05",
-   "start": "9/5/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/273225",
-   "source": "wecan",
-   "lat": 42.7261,
-   "lng": -87.7829,
-   "subjects": [],
-   "levels": [
-    "elementary"
    ]
   },
   {
