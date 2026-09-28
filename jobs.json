@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-27T12:09:42.660444-05:00",
+ "generated_at": "2026-09-28T14:47:37.277664-05:00",
  "weeks": 3,
  "subject_labels": {
   "english": "English / ELA",
@@ -19,6 +19,206 @@
   "high": "High school"
  },
  "jobs": [
+  {
+   "id": "274415",
+   "title": "High School/Transition Special Education Teacher",
+   "district": "The Richardson School",
+   "location": "The Richardson School - Cudahy",
+   "posted": "2026-09-28",
+   "start": "11/2/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274415",
+   "source": "wecan",
+   "lat": null,
+   "lng": null,
+   "subjects": [],
+   "levels": [
+    "high"
+   ]
+  },
+  {
+   "id": "274404",
+   "title": "Third Grade Teacher- Long term Sub",
+   "district": "Ellsworth Community School District",
+   "location": "Ellsworth Elementary School",
+   "posted": "2026-09-28",
+   "start": "11/18/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274404",
+   "source": "wecan",
+   "lat": 44.732122,
+   "lng": -92.4831218,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "274394",
+   "title": "LONG TERM SUB : Physical Education",
+   "district": "West Bend School District",
+   "location": "Jackson Elementary School",
+   "posted": "2026-09-28",
+   "start": "11/23/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274394",
+   "source": "wecan",
+   "lat": 43.4252776,
+   "lng": -88.1834277,
+   "subjects": [
+    "pe_health"
+   ],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "274391",
+   "title": "Middle School 7th ELA Teacher -Sign on Bonus 2,500",
+   "district": "Milwaukee Academy of Science",
+   "location": "Milwaukee Academy of Science",
+   "posted": "2026-09-28",
+   "start": "9/28/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274391",
+   "source": "wecan",
+   "lat": 43.0389,
+   "lng": -87.9065,
+   "subjects": [
+    "english",
+    "science"
+   ],
+   "levels": [
+    "middle"
+   ]
+  },
+  {
+   "id": "274390",
+   "title": "Kindergarten Teacher",
+   "district": "Gillett School District",
+   "location": "Gillett Elementary School",
+   "posted": "2026-09-28",
+   "start": "1/11/2027",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274390",
+   "source": "wecan",
+   "lat": 44.891,
+   "lng": -88.307,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "274387",
+   "title": "Teacher - English - North",
+   "district": "School District of Waukesha",
+   "location": "Waukesha North High School",
+   "posted": "2026-09-28",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274387",
+   "source": "wecan",
+   "lat": 43.0117,
+   "lng": -88.2315,
+   "subjects": [
+    "english"
+   ],
+   "levels": [
+    "high"
+   ]
+  },
+  {
+   "id": "274384",
+   "title": "8th Grade Math Long-Term Substitute",
+   "district": "School District of Sheboygan Falls",
+   "location": "Sheboygan Falls Middle School",
+   "posted": "2026-09-28",
+   "start": "12/9/2026",
+   "close": "10/28/2026",
+   "url": "https://wecan.waspa.org/Vacancy/274384",
+   "source": "wecan",
+   "lat": 43.7508,
+   "lng": -87.7145,
+   "subjects": [
+    "math"
+   ],
+   "levels": [
+    "middle"
+   ]
+  },
+  {
+   "id": "274382",
+   "title": "Special Education Teacher - 6-week assignment",
+   "district": "Oak Creek-Franklin Joint School District",
+   "location": "Cedar Hills Elementary School",
+   "posted": "2026-09-28",
+   "start": "10/22/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274382",
+   "source": "wecan",
+   "lat": 42.9054721,
+   "lng": -87.9265921,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "274377",
+   "title": "Family and Consumer Science Teacher",
+   "district": "Verona Area School District",
+   "location": "Badger Ridge Middle School",
+   "posted": "2026-09-28",
+   "start": "9/28/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274377",
+   "source": "wecan",
+   "lat": 42.9908,
+   "lng": -89.5332,
+   "subjects": [
+    "science"
+   ],
+   "levels": [
+    "middle"
+   ]
+  },
+  {
+   "id": "274371",
+   "title": "Multilingual Learner Teacher",
+   "district": "Neenah Joint School District",
+   "location": "Neenah Joint School District",
+   "posted": "2026-09-28",
+   "start": "10/26/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274371",
+   "source": "wecan",
+   "lat": 44.1837802,
+   "lng": -88.4634176,
+   "subjects": [
+    "esl"
+   ],
+   "levels": []
+  },
+  {
+   "id": "274364",
+   "title": "Middle/High School ELA Teacher",
+   "district": "Lake Country Classical Academy",
+   "location": "Lake Country Classical Academy - West",
+   "posted": "2026-09-28",
+   "start": "10/26/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274364",
+   "source": "wecan",
+   "lat": null,
+   "lng": null,
+   "subjects": [
+    "english"
+   ],
+   "levels": [
+    "high"
+   ]
+  },
   {
    "id": "274346",
    "title": "Special Education Teacher",
@@ -202,23 +402,6 @@
    "source": "wecan",
    "lat": 43.0883957,
    "lng": -87.8881302,
-   "subjects": [],
-   "levels": [
-    "high"
-   ]
-  },
-  {
-   "id": "274315",
-   "title": "Long-Term Substitute: Middle & High School Special Education Teacher",
-   "district": "Durand-Arkansaw School District",
-   "location": "Durand-Arkansaw Middle & High Schools",
-   "posted": "2026-09-25",
-   "start": "1/25/2027",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/274315",
-   "source": "wecan",
-   "lat": null,
-   "lng": null,
    "subjects": [],
    "levels": [
     "high"
@@ -468,7 +651,7 @@
    "location": "Mitchell Elementary",
    "posted": "2026-09-23",
    "start": "As Soon as Possible",
-   "close": "Until filled",
+   "close": "10/2/2026",
    "url": "https://wecan.waspa.org/Vacancy/274204",
    "source": "wecan",
    "lat": 43.0389,
@@ -796,23 +979,6 @@
    ]
   },
   {
-   "id": "274085",
-   "title": "5th Grade Teacher",
-   "district": "St. Joseph Academy",
-   "location": "",
-   "posted": "2026-09-22",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/274085",
-   "source": "wecan",
-   "lat": 42.9890468,
-   "lng": -87.934382,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
    "id": "274081",
    "title": "Lead Teacher-Alternative Education",
    "district": "CESA 5",
@@ -888,7 +1054,7 @@
    "location": "WAWM School District",
    "posted": "2026-09-21",
    "start": "As Soon as Possible",
-   "close": "9/28/2026",
+   "close": "10/2/2026",
    "url": "https://wecan.waspa.org/Vacancy/274055",
    "source": "wecan",
    "lat": 43.0389,
@@ -903,7 +1069,7 @@
    "location": "WAWM School District",
    "posted": "2026-09-21",
    "start": "As Soon as Possible",
-   "close": "9/28/2026",
+   "close": "10/2/2026",
    "url": "https://wecan.waspa.org/Vacancy/274054",
    "source": "wecan",
    "lat": 43.0389,
@@ -918,7 +1084,7 @@
    "location": "Private Schools",
    "posted": "2026-09-21",
    "start": "As Soon as Possible",
-   "close": "9/28/2026",
+   "close": "10/2/2026",
    "url": "https://wecan.waspa.org/Vacancy/274053",
    "source": "wecan",
    "lat": 43.0389,
@@ -935,7 +1101,7 @@
    "location": "Horace Mann Elementary",
    "posted": "2026-09-21",
    "start": "As Soon as Possible",
-   "close": "9/28/2026",
+   "close": "10/2/2026",
    "url": "https://wecan.waspa.org/Vacancy/274052",
    "source": "wecan",
    "lat": 43.0389,
@@ -952,7 +1118,7 @@
    "location": "WAWM School District",
    "posted": "2026-09-21",
    "start": "As Soon as Possible",
-   "close": "9/28/2026",
+   "close": "10/2/2026",
    "url": "https://wecan.waspa.org/Vacancy/274051",
    "source": "wecan",
    "lat": 43.0389,
@@ -967,7 +1133,7 @@
    "location": "Jefferson Elementary",
    "posted": "2026-09-21",
    "start": "As Soon as Possible",
-   "close": "9/28/2026",
+   "close": "10/2/2026",
    "url": "https://wecan.waspa.org/Vacancy/274049",
    "source": "wecan",
    "lat": 43.0389,
@@ -984,7 +1150,7 @@
    "location": "Dottke Project-Based Learning High School",
    "posted": "2026-09-21",
    "start": "As Soon as Possible",
-   "close": "9/28/2026",
+   "close": "10/2/2026",
    "url": "https://wecan.waspa.org/Vacancy/274048",
    "source": "wecan",
    "lat": 43.0389,
@@ -1179,9 +1345,9 @@
    "id": "273982",
    "title": "Special Education Teacher",
    "district": "Fundamentals LLC",
-   "location": "Fundamentals LLC - Milwaukee & Sheboygan",
+   "location": "Fundamentals LLC - Oshkosh, Milwaukee, & Sheboygan",
    "posted": "2026-09-18",
-   "start": "10/5/2026",
+   "start": "10/12/2026",
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/273982",
    "source": "wecan",
@@ -1205,23 +1371,6 @@
    "subjects": [],
    "levels": [
     "high"
-   ]
-  },
-  {
-   "id": "273968",
-   "title": "4K Inclusionary SPED Teacher",
-   "district": "West Allis-West Milwaukee School District",
-   "location": "Horace Mann Elementary",
-   "posted": "2026-09-18",
-   "start": "As Soon as Possible",
-   "close": "9/28/2026",
-   "url": "https://wecan.waspa.org/Vacancy/273968",
-   "source": "wecan",
-   "lat": 43.0389,
-   "lng": -87.9065,
-   "subjects": [],
-   "levels": [
-    "elementary"
    ]
   },
   {
@@ -1541,6 +1690,23 @@
    ]
   },
   {
+   "id": "273875",
+   "title": "Kindergarten Teacher (Anticipated Vacancy)",
+   "district": "Clintonville Public Schools",
+   "location": "Clintonville Elementary School",
+   "posted": "2026-09-17",
+   "start": "10/26/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/273875",
+   "source": "wecan",
+   "lat": 42.558,
+   "lng": -88.865,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
    "id": "273869",
    "title": "Long Term Substitute Teacher",
    "district": "School District of North Fond du Lac",
@@ -1747,7 +1913,7 @@
    "location": "Pershing Elementary",
    "posted": "2026-09-16",
    "start": "As Soon as Possible",
-   "close": "9/28/2026",
+   "close": "10/2/2026",
    "url": "https://wecan.waspa.org/Vacancy/273795",
    "source": "wecan",
    "lat": 43.0389,
@@ -1969,8 +2135,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/273679",
    "source": "wecan",
-   "lat": 42.9338104,
-   "lng": -87.997996,
+   "lat": 42.9401508,
+   "lng": -87.9994517,
    "subjects": [
     "english"
    ],
@@ -2313,23 +2479,6 @@
    ]
   },
   {
-   "id": "273534",
-   "title": "Middle School Special Education Cross Categorical Teacher",
-   "district": "River Ridge School District",
-   "location": "Middle School",
-   "posted": "2026-09-11",
-   "start": "9/11/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/273534",
-   "source": "wecan",
-   "lat": 43.1718311,
-   "lng": -88.0346824,
-   "subjects": [],
-   "levels": [
-    "middle"
-   ]
-  },
-  {
    "id": "273532",
    "title": "High School Math Teacher (1.0 FTE)",
    "district": "Valders Area School District",
@@ -2362,23 +2511,6 @@
    "lng": null,
    "subjects": [],
    "levels": []
-  },
-  {
-   "id": "273529",
-   "title": "1st Grade Long-Term Substitute",
-   "district": "Sauk Prairie School District",
-   "location": "Tower Rock Elementary School",
-   "posted": "2026-09-11",
-   "start": "9/28/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/273529",
-   "source": "wecan",
-   "lat": 43.2981475,
-   "lng": -89.7565455,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
   },
   {
    "id": "273528",
@@ -3159,6 +3291,25 @@
    "subjects": [],
    "levels": [
     "middle"
+   ]
+  },
+  {
+   "id": "mmsd:9581",
+   "title": "ESL DLI Grade 1 Teacher - Schenk - 1.0 FTE - 26-27 SY",
+   "district": "Madison Metropolitan School District",
+   "location": "Schenk (Madison, WI)",
+   "posted": "2026-09-28",
+   "start": "",
+   "close": "",
+   "url": "https://mmsd.csod.com/ux/ats/careersite/1/home/requisition/9581?c=mmsd",
+   "source": "mmsd",
+   "lat": 43.092265,
+   "lng": -89.3247882,
+   "subjects": [
+    "esl"
+   ],
+   "levels": [
+    "elementary"
    ]
   },
   {

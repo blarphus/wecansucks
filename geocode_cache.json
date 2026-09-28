@@ -24,7 +24,10 @@
     43.1199064,
     -87.909658
   ],
-  "durand-arkansaw school district": null,
+  "ellsworth community school district": [
+    44.732122,
+    -92.4831218
+  ],
   "fundamentals llc": null,
   "genesee lake school": null,
   "goodman community center": [
@@ -36,8 +39,8 @@
     -90.4624637
   ],
   "greendale school district": [
-    42.9338104,
-    -87.997996
+    42.9401508,
+    -87.9994517
   ],
   "holy hill area school district": [
     43.2444487,
@@ -59,6 +62,7 @@
     43.0131344,
     -87.9129714
   ],
+  "lake country classical academy": null,
   "lake mills area school district": [
     43.0798032,
     -88.9125723
@@ -100,6 +104,10 @@
   "mmsd:lowell": [
     43.0926724,
     -89.3403366
+  ],
+  "mmsd:schenk": [
+    43.092265,
+    -89.3247882
   ],
   "mmsd:sennett": null,
   "mosinee school district": [
@@ -153,14 +161,6 @@
   "rib lake school district": [
     45.3189756,
     -90.2042115
-  ],
-  "river ridge school district": [
-    43.1718311,
-    -88.0346824
-  ],
-  "sauk prairie school district": [
-    43.2981475,
-    -89.7565455
   ],
   "school district of abbotsford": [
     44.9471087,
@@ -267,6 +267,10 @@
   "wauwatosa school district": [
     43.0494122,
     -88.0079271
+  ],
+  "west bend school district": [
+    43.4252776,
+    -88.1834277
   ],
   "whitewater unified school district": [
     42.8283755,
