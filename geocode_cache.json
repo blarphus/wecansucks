@@ -162,6 +162,10 @@
     45.3189756,
     -90.2042115
   ],
+  "rice lake area school district": [
+    45.5027926,
+    -91.733423
+  ],
   "school district of abbotsford": [
     44.9471087,
     -90.3194786
@@ -189,6 +193,10 @@
   "school district of chilton": [
     44.028944,
     -88.1628151
+  ],
+  "school district of cudahy": [
+    42.959738,
+    -87.861471
   ],
   "school district of maple": [
     46.5896621,
@@ -260,10 +268,6 @@
     -87.8842583
   ],
   "washington caldwell school district": null,
-  "waupun area school district": [
-    43.633216,
-    -88.7296352
-  ],
   "wauwatosa school district": [
     43.0494122,
     -88.0079271

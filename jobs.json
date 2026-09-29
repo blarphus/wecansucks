@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-28T14:47:37.277664-05:00",
+ "generated_at": "2026-09-29T13:12:16.979633-05:00",
  "weeks": 3,
  "subject_labels": {
   "english": "English / ELA",
@@ -19,6 +19,114 @@
   "high": "High school"
  },
  "jobs": [
+  {
+   "id": "274470",
+   "title": "Middle School Math Teacher",
+   "district": "Dr. Howard Fuller Collegiate Academy",
+   "location": "Dr.Howard Fuller Collegiate Academy - HS Campus",
+   "posted": "2026-09-29",
+   "start": "As Soon as Possible",
+   "close": "10/30/2026",
+   "url": "https://wecan.waspa.org/Vacancy/274470",
+   "source": "wecan",
+   "lat": 43.0389,
+   "lng": -87.9065,
+   "subjects": [
+    "math"
+   ],
+   "levels": [
+    "middle"
+   ]
+  },
+  {
+   "id": "274460",
+   "title": "Elementary Special Education Intern",
+   "district": "Rice Lake Area School District",
+   "location": "Tainter Elementary",
+   "posted": "2026-09-29",
+   "start": "1/12/2027",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274460",
+   "source": "wecan",
+   "lat": 45.5027926,
+   "lng": -91.733423,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "274456",
+   "title": "Bilingual Resource Teacher (ESL)",
+   "district": "Verona Area School District",
+   "location": "Country View and Glacier Edge Elementary Schools",
+   "posted": "2026-09-29",
+   "start": "9/29/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274456",
+   "source": "wecan",
+   "lat": 42.9908,
+   "lng": -89.5332,
+   "subjects": [
+    "esl"
+   ],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "274445",
+   "title": "Spanish Teacher - 1 Hour Per Day",
+   "district": "School District of Cudahy",
+   "location": "Cudahy Middle School",
+   "posted": "2026-09-29",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274445",
+   "source": "wecan",
+   "lat": 42.959738,
+   "lng": -87.861471,
+   "subjects": [
+    "world_lang"
+   ],
+   "levels": [
+    "middle"
+   ]
+  },
+  {
+   "id": "274432",
+   "title": "Grade 7 Teacher (Literacy)",
+   "district": "Sun Prairie Area School District",
+   "location": "Prairie View Middle School",
+   "posted": "2026-09-28",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274432",
+   "source": "wecan",
+   "lat": 43.1836,
+   "lng": -89.2137,
+   "subjects": [
+    "english"
+   ],
+   "levels": [
+    "middle"
+   ]
+  },
+  {
+   "id": "274424",
+   "title": "Special Education Teacher- $3000 Signing Bonus!",
+   "district": "Genesee Lake School",
+   "location": "Genesee Lake School",
+   "posted": "2026-09-28",
+   "start": "11/2/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274424",
+   "source": "wecan",
+   "lat": null,
+   "lng": null,
+   "subjects": [],
+   "levels": []
+  },
   {
    "id": "274415",
    "title": "High School/Transition Special Education Teacher",
@@ -325,21 +433,6 @@
    "levels": [
     "elementary"
    ]
-  },
-  {
-   "id": "274329",
-   "title": "Special Education Teacher",
-   "district": "Genesee Lake School",
-   "location": "Genesee Lake School",
-   "posted": "2026-09-25",
-   "start": "11/2/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/274329",
-   "source": "wecan",
-   "lat": null,
-   "lng": null,
-   "subjects": [],
-   "levels": []
   },
   {
    "id": "274327",
@@ -1110,21 +1203,6 @@
    "levels": [
     "elementary"
    ]
-  },
-  {
-   "id": "274051",
-   "title": "District Wide Special Education Teacher",
-   "district": "West Allis-West Milwaukee School District",
-   "location": "WAWM School District",
-   "posted": "2026-09-21",
-   "start": "As Soon as Possible",
-   "close": "10/2/2026",
-   "url": "https://wecan.waspa.org/Vacancy/274051",
-   "source": "wecan",
-   "lat": 43.0389,
-   "lng": -87.9065,
-   "subjects": [],
-   "levels": []
   },
   {
    "id": "274049",
@@ -2042,7 +2120,7 @@
    "id": "273699",
    "title": "Special Education Teacher (26-27)",
    "district": "Dr. Howard Fuller Collegiate Academy",
-   "location": "Multi Campus",
+   "location": "High School Campus",
    "posted": "2026-09-15",
    "start": "As Soon as Possible",
    "close": "Until filled",
@@ -2051,7 +2129,9 @@
    "lat": 43.0389,
    "lng": -87.9065,
    "subjects": [],
-   "levels": []
+   "levels": [
+    "high"
+   ]
   },
   {
    "id": "273695",
@@ -2664,25 +2744,6 @@
    "levels": []
   },
   {
-   "id": "273458",
-   "title": "Bilingual Resource Teacher",
-   "district": "Verona Area School District",
-   "location": "Sugar Creek Elementary School",
-   "posted": "2026-09-10",
-   "start": "9/11/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/273458",
-   "source": "wecan",
-   "lat": 42.9908,
-   "lng": -89.5332,
-   "subjects": [
-    "esl"
-   ],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
    "id": "273454",
    "title": "K-12 General Music/Choir Teacher",
    "district": "Tigerton School District",
@@ -2771,26 +2832,6 @@
    "subjects": [],
    "levels": [
     "elementary"
-   ]
-  },
-  {
-   "id": "273428",
-   "title": "7-12 Technology Education Teacher",
-   "district": "Waupun Area School District",
-   "location": "Junior/Senior High School",
-   "posted": "2026-09-10",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/273428",
-   "source": "wecan",
-   "lat": 43.633216,
-   "lng": -88.7296352,
-   "subjects": [
-    "cs_tech"
-   ],
-   "levels": [
-    "high",
-    "middle"
    ]
   },
   {
@@ -2928,23 +2969,6 @@
    "source": "wecan",
    "lat": 42.8666803,
    "lng": -88.3334274,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "273360",
-   "title": "1st Grade Teacher",
-   "district": "National Heritage Academies",
-   "location": "Mill Creek Academy",
-   "posted": "2026-09-09",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/273360",
-   "source": "wecan",
-   "lat": null,
-   "lng": null,
    "subjects": [],
    "levels": [
     "elementary"
