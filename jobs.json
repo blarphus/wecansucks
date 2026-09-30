@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-29T13:12:16.979633-05:00",
+ "generated_at": "2026-09-30T13:04:25.336010-05:00",
  "weeks": 3,
  "subject_labels": {
   "english": "English / ELA",
@@ -19,6 +19,302 @@
   "high": "High school"
  },
  "jobs": [
+  {
+   "id": "274526",
+   "title": "Special Education Teacher",
+   "district": "Darlington Community School District",
+   "location": "Darlington Elementary-Middle School",
+   "posted": "2026-09-30",
+   "start": "10/5/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274526",
+   "source": "wecan",
+   "lat": 42.6802288,
+   "lng": -90.1178079,
+   "subjects": [],
+   "levels": [
+    "elementary",
+    "middle"
+   ]
+  },
+  {
+   "id": "274524",
+   "title": "Special Education - Cross Categorical - Grant Elementary School",
+   "district": "Kenosha Unified School District",
+   "location": "Grant",
+   "posted": "2026-09-30",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274524",
+   "source": "wecan",
+   "lat": 42.5847,
+   "lng": -87.8212,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "274523",
+   "title": "1st Grade Teacher",
+   "district": "St. Mary's Springs Academy",
+   "location": "255 County Road K, Fond du Lac, WI 54937",
+   "posted": "2026-09-30",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274523",
+   "source": "wecan",
+   "lat": null,
+   "lng": null,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "274511",
+   "title": "Special Education - Intensive Services Teacher",
+   "district": "West Allis-West Milwaukee School District",
+   "location": "Irving Elementary",
+   "posted": "2026-09-30",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274511",
+   "source": "wecan",
+   "lat": 43.0389,
+   "lng": -87.9065,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "274502",
+   "title": "Government Teacher (long-term assignment - End of 26/27 SY)",
+   "district": "Oak Creek-Franklin Joint School District",
+   "location": "Oak Creek High School",
+   "posted": "2026-09-30",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274502",
+   "source": "wecan",
+   "lat": 42.9054721,
+   "lng": -87.9265921,
+   "subjects": [
+    "social"
+   ],
+   "levels": [
+    "high"
+   ]
+  },
+  {
+   "id": "274501",
+   "title": "Speech & Language Pathologist (1-year only)",
+   "district": "School District of New Richmond",
+   "location": "Elementary/Early Childhood",
+   "posted": "2026-09-30",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274501",
+   "source": "wecan",
+   "lat": 45.1227287,
+   "lng": -92.537502,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "274500",
+   "title": "Teacher: Long-Term Substitute (Agriculture)",
+   "district": "Hudson School District",
+   "location": "Hudson High School",
+   "posted": "2026-09-30",
+   "start": "1/18/2027",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274500",
+   "source": "wecan",
+   "lat": 44.9750953,
+   "lng": -92.7554671,
+   "subjects": [],
+   "levels": [
+    "high"
+   ]
+  },
+  {
+   "id": "274489",
+   "title": "Special Education Teacher",
+   "district": "Grafton School District",
+   "location": "Grafton High School",
+   "posted": "2026-09-29",
+   "start": "10/12/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274489",
+   "source": "wecan",
+   "lat": 43.3195224,
+   "lng": -87.9517842,
+   "subjects": [],
+   "levels": [
+    "high"
+   ]
+  },
+  {
+   "id": "274487",
+   "title": "Second Grade Teacher",
+   "district": "Atlas Preparatory Academy",
+   "location": "Kansas Campus",
+   "posted": "2026-09-29",
+   "start": "9/29/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274487",
+   "source": "wecan",
+   "lat": 43.0389,
+   "lng": -87.9065,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "274486",
+   "title": "Elementary School Physical Education Teacher",
+   "district": "Atlas Preparatory Academy",
+   "location": "Kansas Campus",
+   "posted": "2026-09-29",
+   "start": "9/29/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274486",
+   "source": "wecan",
+   "lat": 43.0389,
+   "lng": -87.9065,
+   "subjects": [
+    "pe_health"
+   ],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "274485",
+   "title": "Upper Elementary School Teacher",
+   "district": "Atlas Preparatory Academy",
+   "location": "Kansas Campus",
+   "posted": "2026-09-29",
+   "start": "9/29/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274485",
+   "source": "wecan",
+   "lat": 43.0389,
+   "lng": -87.9065,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "274483",
+   "title": "4K Teacher",
+   "district": "Newman Catholic Schools",
+   "location": "Newman Catholic School: St. Therese",
+   "posted": "2026-09-29",
+   "start": "10/1/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274483",
+   "source": "wecan",
+   "lat": 44.97248,
+   "lng": -89.6492298,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "274480",
+   "title": "Teacher: Long-Term Substitute (Grade 1)",
+   "district": "Hudson School District",
+   "location": "North Hudson Elementary",
+   "posted": "2026-09-29",
+   "start": "1/11/2027",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274480",
+   "source": "wecan",
+   "lat": 44.9750953,
+   "lng": -92.7554671,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "274478",
+   "title": "Teacher: Long-Term Substitute (Kindergarten)",
+   "district": "Hudson School District",
+   "location": "North Hudson Elementary",
+   "posted": "2026-09-29",
+   "start": "12/11/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274478",
+   "source": "wecan",
+   "lat": 44.9750953,
+   "lng": -92.7554671,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "274477",
+   "title": "Teacher: Long-Term Substitute (Grade 5)",
+   "district": "Hudson School District",
+   "location": "Hudson Prairie Elementary",
+   "posted": "2026-09-29",
+   "start": "11/18/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274477",
+   "source": "wecan",
+   "lat": 44.9750953,
+   "lng": -92.7554671,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "274474",
+   "title": "Middle School Math Teacher",
+   "district": "School District of North Fond du Lac",
+   "location": "Bessie Allen Middle School - North Fond du Lac School District",
+   "posted": "2026-09-29",
+   "start": "10/19/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274474",
+   "source": "wecan",
+   "lat": 43.812,
+   "lng": -88.483,
+   "subjects": [
+    "math"
+   ],
+   "levels": [
+    "middle"
+   ]
+  },
+  {
+   "id": "274473",
+   "title": "Cross Categorical Special Education Teacher - 1.0 FTE - Wilson Middle School",
+   "district": "Appleton Area School District",
+   "location": "Wilson Middle School",
+   "posted": "2026-09-29",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274473",
+   "source": "wecan",
+   "lat": 44.2619,
+   "lng": -88.4153,
+   "subjects": [],
+   "levels": [
+    "middle"
+   ]
+  },
   {
    "id": "274470",
    "title": "Middle School Math Teacher",
@@ -668,6 +964,21 @@
    "levels": [
     "high"
    ]
+  },
+  {
+   "id": "274239",
+   "title": "Instrumental Music (.2 FTE)",
+   "district": "Mount Horeb Area School District",
+   "location": "Intermediate Center",
+   "posted": "2026-09-24",
+   "start": "8/16/2027",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274239",
+   "source": "wecan",
+   "lat": 43.0086,
+   "lng": -89.7385,
+   "subjects": [],
+   "levels": []
   },
   {
    "id": "274234",
@@ -1951,23 +2262,6 @@
    ]
   },
   {
-   "id": "273810",
-   "title": "Kindergarten Teacher",
-   "district": "Atlas Preparatory Academy",
-   "location": "Kansas Campus",
-   "posted": "2026-09-16",
-   "start": "9/21/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/273810",
-   "source": "wecan",
-   "lat": 43.0389,
-   "lng": -87.9065,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
    "id": "273804",
    "title": "Special Education Teacher - Middle School",
    "district": "Holy Hill Area School District",
@@ -2215,8 +2509,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/273679",
    "source": "wecan",
-   "lat": 42.9401508,
-   "lng": -87.9994517,
+   "lat": 42.9338104,
+   "lng": -87.997996,
    "subjects": [
     "english"
    ],
@@ -2432,59 +2726,6 @@
    "levels": []
   },
   {
-   "id": "273583",
-   "title": "Upper Elementary School Teacher",
-   "district": "Atlas Preparatory Academy",
-   "location": "Kansas Campus",
-   "posted": "2026-09-11",
-   "start": "8/25/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/273583",
-   "source": "wecan",
-   "lat": 43.0389,
-   "lng": -87.9065,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "273582",
-   "title": "Elementary School Physical Education Teacher",
-   "district": "Atlas Preparatory Academy",
-   "location": "Kansas Campus",
-   "posted": "2026-09-11",
-   "start": "8/25/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/273582",
-   "source": "wecan",
-   "lat": 43.0389,
-   "lng": -87.9065,
-   "subjects": [
-    "pe_health"
-   ],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "273581",
-   "title": "Second Grade Teacher",
-   "district": "Atlas Preparatory Academy",
-   "location": "Kansas Campus",
-   "posted": "2026-09-11",
-   "start": "8/25/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/273581",
-   "source": "wecan",
-   "lat": 43.0389,
-   "lng": -87.9065,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
    "id": "273580",
    "title": "Elementary Small Group Reading Teacher",
    "district": "Atlas Preparatory Academy",
@@ -2539,23 +2780,6 @@
    ],
    "levels": [
     "high"
-   ]
-  },
-  {
-   "id": "273561",
-   "title": "Intervention Specialist - Reading (.50 FTE) - Harvey Elementary School",
-   "district": "Kenosha Unified School District",
-   "location": "Harvey",
-   "posted": "2026-09-11",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/273561",
-   "source": "wecan",
-   "lat": 42.5847,
-   "lng": -87.8212,
-   "subjects": [],
-   "levels": [
-    "elementary"
    ]
   },
   {
@@ -3145,177 +3369,6 @@
    "lng": -88.447,
    "subjects": [],
    "levels": []
-  },
-  {
-   "id": "273336",
-   "title": "Orchestra Music Teacher",
-   "district": "Green Bay Area Public School District",
-   "location": "East High School/Washington Middle School",
-   "posted": "2026-09-08",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/273336",
-   "source": "wecan",
-   "lat": 44.5133,
-   "lng": -88.0133,
-   "subjects": [
-    "music"
-   ],
-   "levels": [
-    "high",
-    "middle"
-   ]
-  },
-  {
-   "id": "273329",
-   "title": "Cross Categorical Special Education Teacher",
-   "district": "Menasha Joint School District",
-   "location": "Clovis Grove Elementary",
-   "posted": "2026-09-08",
-   "start": "9/21/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/273329",
-   "source": "wecan",
-   "lat": 44.2022293,
-   "lng": -88.4465361,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "273328",
-   "title": "Multilingual Language (ML) Teacher",
-   "district": "Menasha Joint School District",
-   "location": "Clovis Elementary",
-   "posted": "2026-09-08",
-   "start": "9/21/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/273328",
-   "source": "wecan",
-   "lat": 44.2022293,
-   "lng": -88.4465361,
-   "subjects": [
-    "esl"
-   ],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "273314",
-   "title": "Special Education - Cross Categorical - Bose Elementary School",
-   "district": "Kenosha Unified School District",
-   "location": "Bose",
-   "posted": "2026-09-08",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/273314",
-   "source": "wecan",
-   "lat": 42.5847,
-   "lng": -87.8212,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "273301",
-   "title": "Speech & Language Pathologist - Long Term Substitute",
-   "district": "Franklin Public Schools",
-   "location": "Secondary",
-   "posted": "2026-09-08",
-   "start": "10/19/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/273301",
-   "source": "wecan",
-   "lat": 42.8886,
-   "lng": -88.0385,
-   "subjects": [],
-   "levels": [
-    "high"
-   ]
-  },
-  {
-   "id": "273280",
-   "title": "26-27 K3 PCOC (Parent-Child Oriented Classroom) Co-Taught Classroom Teacher",
-   "district": "Racine Unified School District",
-   "location": "BEE Center",
-   "posted": "2026-09-08",
-   "start": "8/25/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/273280",
-   "source": "wecan",
-   "lat": 42.7261,
-   "lng": -87.7829,
-   "subjects": [],
-   "levels": []
-  },
-  {
-   "id": "273257",
-   "title": "Special Education Teacher",
-   "district": "Granton Area Schools",
-   "location": "Granton Area School",
-   "posted": "2026-09-08",
-   "start": "10/19/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/273257",
-   "source": "wecan",
-   "lat": 44.5872517,
-   "lng": -90.4624637,
-   "subjects": [],
-   "levels": []
-  },
-  {
-   "id": "273255",
-   "title": "Technology Education Teacher",
-   "district": "Granton Area Schools",
-   "location": "Granton Area School",
-   "posted": "2026-09-08",
-   "start": "1/4/2027",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/273255",
-   "source": "wecan",
-   "lat": 44.5872517,
-   "lng": -90.4624637,
-   "subjects": [
-    "cs_tech"
-   ],
-   "levels": []
-  },
-  {
-   "id": "273245",
-   "title": "Special Education Teacher-Elementary",
-   "district": "Cedar Grove-Belgium Area School District",
-   "location": "Elementary",
-   "posted": "2026-09-08",
-   "start": "8/24/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/273245",
-   "source": "wecan",
-   "lat": null,
-   "lng": null,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "273233",
-   "title": "Middle School Business Education Teacher-LTE",
-   "district": "Chippewa Falls Area Unified School District",
-   "location": "Chippewa Falls Middle School",
-   "posted": "2026-09-08",
-   "start": "1/18/2027",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/273233",
-   "source": "wecan",
-   "lat": 44.9371325,
-   "lng": -91.3932118,
-   "subjects": [],
-   "levels": [
-    "middle"
-   ]
   },
   {
    "id": "mmsd:9581",

@@ -1,16 +1,15 @@
 {
   "bader hillel academy": null,
   "carmen schools of science and technology": null,
-  "cedar grove-belgium area school district": null,
   "cesa 5": null,
   "cesa 8": null,
-  "chippewa falls area unified school district": [
-    44.9371325,
-    -91.3932118
-  ],
   "colby school district": [
     44.9099665,
     -90.3156911
+  ],
+  "darlington community school district": [
+    42.6802288,
+    -90.1178079
   ],
   "delavan-darien school district": [
     42.6297486,
@@ -34,13 +33,13 @@
     43.097123,
     -89.343693
   ],
-  "granton area schools": [
-    44.5872517,
-    -90.4624637
+  "grafton school district": [
+    43.3195224,
+    -87.9517842
   ],
   "greendale school district": [
-    42.9401508,
-    -87.9994517
+    42.9338104,
+    -87.997996
   ],
   "holy hill area school district": [
     43.2444487,
@@ -126,6 +125,10 @@
   "nekoosa school district": [
     44.3154564,
     -89.8918206
+  ],
+  "newman catholic schools": [
+    44.97248,
+    -89.6492298
   ],
   "north shore catholic schools": null,
   "north wisconsin district lcms": null,
@@ -250,6 +253,7 @@
     42.9890468,
     -87.934382
   ],
+  "st. mary's springs academy": null,
   "superior school district": [
     46.4800042,
     -92.1829648
