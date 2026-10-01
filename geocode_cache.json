@@ -1,8 +1,13 @@
 {
   "bader hillel academy": null,
+  "bowler school district": [
+    44.8629629,
+    -88.9815472
+  ],
   "carmen schools of science and technology": null,
   "cesa 5": null,
   "cesa 8": null,
+  "cesa 9": null,
   "colby school district": [
     44.9099665,
     -90.3156911
@@ -11,17 +16,9 @@
     42.6802288,
     -90.1178079
   ],
-  "delavan-darien school district": [
-    42.6297486,
-    -88.661441
-  ],
   "diocese of madison catholic schools": [
     43.0514334,
     -89.5229716
-  ],
-  "dominican high school": [
-    43.1199064,
-    -87.909658
   ],
   "ellsworth community school district": [
     44.732122,
@@ -38,8 +35,8 @@
     -87.9517842
   ],
   "greendale school district": [
-    42.9338104,
-    -87.997996
+    42.9401508,
+    -87.9994517
   ],
   "holy hill area school district": [
     43.2444487,
@@ -62,9 +59,9 @@
     -87.9129714
   ],
   "lake country classical academy": null,
-  "lake mills area school district": [
-    43.0798032,
-    -88.9125723
+  "lake geneva schools": [
+    42.571693,
+    -88.4152537
   ],
   "lutheran urban mission initiative, inc. (lumin)": null,
   "manitowoc public school district": [
@@ -75,25 +72,13 @@
     43.0379584,
     -87.9558448
   ],
-  "medford area public school district": [
-    45.1391437,
-    -90.3460806
-  ],
   "menasha joint school district": [
     44.2022293,
     -88.4465361
   ],
-  "menominee indian school district": [
-    44.9762964,
-    -88.7347165
-  ],
   "merton community school district": [
     43.1541501,
     -88.3695085
-  ],
-  "messmer high school": [
-    43.0899818,
-    -87.9204772
   ],
   "mmsd:black hawk": null,
   "mmsd:hawthorne": [
@@ -237,10 +222,6 @@
     44.5429082,
     -88.312718
   ],
-  "shawano school district": [
-    44.7817214,
-    -88.7118868
-  ],
   "shorewood school district": [
     43.0883957,
     -87.8881302
@@ -271,7 +252,6 @@
     44.0661044,
     -87.8842583
   ],
-  "washington caldwell school district": null,
   "wauwatosa school district": [
     43.0494122,
     -88.0079271
