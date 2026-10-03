@@ -6,7 +6,6 @@
   ],
   "carmen schools of science and technology": null,
   "cesa 5": null,
-  "cesa 8": null,
   "cesa 9": null,
   "colby school district": [
     44.9099665,
@@ -84,7 +83,6 @@
     45.1391437,
     -90.3460806
   ],
-  "mmsd:black hawk": null,
   "mmsd:capital hs": null,
   "mmsd:east": [
     43.0976765,
@@ -96,10 +94,6 @@
     -89.3282322
   ],
   "mmsd:lakeview": null,
-  "mmsd:lowell": [
-    43.0926724,
-    -89.3403366
-  ],
   "mmsd:mendota": [
     43.1370862,
     -89.3848164
@@ -112,10 +106,6 @@
   "mosinee school district": [
     44.7927669,
     -89.7030748
-  ],
-  "mukwonago area school district": [
-    42.8666803,
-    -88.3334274
   ],
   "national heritage academies": null,
   "necedah area school district": [
@@ -174,10 +164,6 @@
     44.9471087,
     -90.3194786
   ],
-  "school district of algoma": [
-    44.6096421,
-    -87.4364981
-  ],
   "school district of athens": [
     45.0349745,
     -90.0738874
@@ -201,10 +187,6 @@
   "school district of holmen": [
     43.9632211,
     -91.2563658
-  ],
-  "school district of maple": [
-    46.5896621,
-    -91.7207434
   ],
   "school district of mauston": [
     43.7968543,
@@ -252,10 +234,6 @@
     -92.1829648
   ],
   "the richardson school": null,
-  "valders area school district": [
-    44.0661044,
-    -87.8842583
-  ],
   "wauwatosa school district": [
     43.0494122,
     -88.0079271
