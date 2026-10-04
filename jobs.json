@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-03T11:35:53.861025-05:00",
+ "generated_at": "2026-10-04T11:56:32.780745-05:00",
  "weeks": 3,
  "subject_labels": {
   "english": "English / ELA",
@@ -19,6 +19,24 @@
   "high": "High school"
  },
  "jobs": [
+  {
+   "id": "274701",
+   "title": "Teacher K-8",
+   "district": "Menominee Tribal School",
+   "location": "Menominee Tribal School",
+   "posted": "2026-10-03",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274701",
+   "source": "wecan",
+   "lat": 44.978897,
+   "lng": -88.833996,
+   "subjects": [],
+   "levels": [
+    "elementary",
+    "middle"
+   ]
+  },
   {
    "id": "274698",
    "title": "High School Special Education Teacher (PART TIME 1:1)",
@@ -2345,8 +2363,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/273886",
    "source": "wecan",
-   "lat": 43.097123,
-   "lng": -89.343693,
+   "lat": 43.0973475,
+   "lng": -89.3431739,
    "subjects": [],
    "levels": [
     "high"

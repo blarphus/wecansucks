@@ -26,8 +26,8 @@
   "fundamentals llc": null,
   "genesee lake school": null,
   "goodman community center": [
-    43.097123,
-    -89.343693
+    43.0973475,
+    -89.3431739
   ],
   "grafton school district": [
     43.3195224,
@@ -82,6 +82,10 @@
   "medford area public school district": [
     45.1391437,
     -90.3460806
+  ],
+  "menominee tribal school": [
+    44.978897,
+    -88.833996
   ],
   "mmsd:capital hs": null,
   "mmsd:east": [
