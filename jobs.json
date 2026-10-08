@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T14:02:21.831961-05:00",
+ "generated_at": "2026-10-08T13:57:59.701799-05:00",
  "weeks": 3,
  "subject_labels": {
   "english": "English / ELA",
@@ -19,6 +19,176 @@
   "high": "High school"
  },
  "jobs": [
+  {
+   "id": "275021",
+   "title": "MS/HS Science Teacher",
+   "district": "School District of Mellen",
+   "location": "Mellen School District",
+   "posted": "2026-10-08",
+   "start": "10/19/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275021",
+   "source": "wecan",
+   "lat": 46.325,
+   "lng": -90.659,
+   "subjects": [
+    "science"
+   ],
+   "levels": []
+  },
+  {
+   "id": "275014",
+   "title": "Teacher - Technology Education",
+   "district": "School District of Marshfield",
+   "location": "High School",
+   "posted": "2026-10-08",
+   "start": "1/4/2027",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275014",
+   "source": "wecan",
+   "lat": 44.6688,
+   "lng": -90.1718,
+   "subjects": [
+    "cs_tech"
+   ],
+   "levels": [
+    "high"
+   ]
+  },
+  {
+   "id": "275012",
+   "title": "STREAM Teacher",
+   "district": "GRACE Green Bay Area Catholic Education System",
+   "location": "GRACE - Holy Family Catholic School",
+   "posted": "2026-10-08",
+   "start": "10/19/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275012",
+   "source": "wecan",
+   "lat": 44.5133,
+   "lng": -88.0133,
+   "subjects": [],
+   "levels": []
+  },
+  {
+   "id": "275011",
+   "title": "General Electives Teacher",
+   "district": "GRACE Green Bay Area Catholic Education System",
+   "location": "GRACE - Holy Family Catholic School",
+   "posted": "2026-10-08",
+   "start": "10/19/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275011",
+   "source": "wecan",
+   "lat": 44.5133,
+   "lng": -88.0133,
+   "subjects": [],
+   "levels": []
+  },
+  {
+   "id": "275002",
+   "title": "Long Term Guest Teacher - HS Special Education",
+   "district": "Muskego-Norway School District",
+   "location": "Muskego High School",
+   "posted": "2026-10-08",
+   "start": "1/4/2027",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275002",
+   "source": "wecan",
+   "lat": 42.8451651,
+   "lng": -88.1340107,
+   "subjects": [],
+   "levels": [
+    "high"
+   ]
+  },
+  {
+   "id": "274988",
+   "title": "Special Education Teacher (#3540)",
+   "district": "School District of Ashland",
+   "location": "Middle School",
+   "posted": "2026-10-08",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274988",
+   "source": "wecan",
+   "lat": 46.2062319,
+   "lng": -90.6802594,
+   "subjects": [],
+   "levels": [
+    "middle"
+   ]
+  },
+  {
+   "id": "274982",
+   "title": "LONG TERM SUBSTITUTE- 7th Grade Math",
+   "district": "Baldwin-Woodville Area School District",
+   "location": "Viking Middle School",
+   "posted": "2026-10-08",
+   "start": "1/25/2027",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274982",
+   "source": "wecan",
+   "lat": 44.9679055,
+   "lng": -92.3821799,
+   "subjects": [
+    "math"
+   ],
+   "levels": [
+    "middle"
+   ]
+  },
+  {
+   "id": "274969",
+   "title": "2nd Grade, 2026-2027 school year",
+   "district": "Lutheran Urban Mission Initiative, Inc. (LUMIN)",
+   "location": "St. Peter-Immanuel Lutheran - Milwaukee, WI",
+   "posted": "2026-10-08",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274969",
+   "source": "wecan",
+   "lat": null,
+   "lng": null,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "274956",
+   "title": "Special Education Teacher - Cross Categorical (LTE)",
+   "district": "School District of Brown Deer",
+   "location": "Elementary",
+   "posted": "2026-10-07",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274956",
+   "source": "wecan",
+   "lat": 43.1744352,
+   "lng": -87.972722,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "274941",
+   "title": "High School Alternative Education Teacher at AVA - Limited Term",
+   "district": "Janesville School District",
+   "location": "ARISE Virtual Academy",
+   "posted": "2026-10-07",
+   "start": "1/15/2027",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/274941",
+   "source": "wecan",
+   "lat": 42.6828,
+   "lng": -89.0187,
+   "subjects": [],
+   "levels": [
+    "high"
+   ]
+  },
   {
    "id": "274934",
    "title": "2nd Grade, 2026-2027 school year",
@@ -566,6 +736,23 @@
    ],
    "levels": [
     "high"
+   ]
+  },
+  {
+   "id": "274755",
+   "title": "Cross Catergorical Special Education Intern",
+   "district": "Chippewa Falls Area Unified School District",
+   "location": "Parkview Elementary",
+   "posted": "2026-10-05",
+   "start": "1/18/2027",
+   "close": "10/30/2026",
+   "url": "https://wecan.waspa.org/Vacancy/274755",
+   "source": "wecan",
+   "lat": 44.9371325,
+   "lng": -91.3932118,
+   "subjects": [],
+   "levels": [
+    "elementary"
    ]
   },
   {
@@ -1144,7 +1331,7 @@
    "location": "Remote (Requires travel to CESA 9 approximately one day per month)",
    "posted": "2026-10-01",
    "start": "1/4/2027",
-   "close": "Until filled",
+   "close": "10/30/2026",
    "url": "https://wecan.waspa.org/Vacancy/274571",
    "source": "wecan",
    "lat": null,
@@ -1238,24 +1425,6 @@
    "lng": -87.827992,
    "subjects": [],
    "levels": [
-    "middle"
-   ]
-  },
-  {
-   "id": "274553",
-   "title": "5th Grade Teacher",
-   "district": "Colby School District",
-   "location": "Colby Middle School",
-   "posted": "2026-09-30",
-   "start": "8/16/2027",
-   "close": "10/7/2026",
-   "url": "https://wecan.waspa.org/Vacancy/274553",
-   "source": "wecan",
-   "lat": 44.9099665,
-   "lng": -90.3156911,
-   "subjects": [],
-   "levels": [
-    "elementary",
     "middle"
    ]
   },
@@ -1904,7 +2073,7 @@
    "district": "Wauwatosa School District",
    "location": "Jefferson Elementary School",
    "posted": "2026-09-25",
-   "start": "9/25/2026",
+   "start": "As Soon as Possible",
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/274330",
    "source": "wecan",
@@ -2468,7 +2637,7 @@
    "location": "District",
    "posted": "2026-09-22",
    "start": "10/26/2026",
-   "close": "10/9/2026",
+   "close": "10/16/2026",
    "url": "https://wecan.waspa.org/Vacancy/274090",
    "source": "wecan",
    "lat": 46.4800042,
@@ -2947,191 +3116,19 @@
    "levels": []
   },
   {
-   "id": "273856",
-   "title": "Middle School English Teacher",
-   "district": "The Lutheran High School Association of Greater Milwaukee",
-   "location": "Wauwatosa Lutheran School",
-   "posted": "2026-09-16",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/273856",
-   "source": "wecan",
-   "lat": 43.0389,
-   "lng": -87.9065,
-   "subjects": [
-    "english"
-   ],
-   "levels": [
-    "high",
-    "middle"
-   ]
-  },
-  {
-   "id": "273849",
-   "title": "26-27 5th-Grade Math Teacher",
-   "district": "Milwaukee Academy of Science",
-   "location": "Milwaukee Academy of Science",
-   "posted": "2026-09-16",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/273849",
-   "source": "wecan",
-   "lat": 43.0389,
-   "lng": -87.9065,
-   "subjects": [
-    "math",
-    "science"
-   ],
+   "id": "mmsd:9624",
+   "title": "Special Education Teacher (Cross Categorical) - IIP Services/Holtzman - 1.0 FTE - 26-27 SY",
+   "district": "Madison Metropolitan School District",
+   "location": "IIP Services/Holtzman (Madison, WI)",
+   "posted": "2026-10-08",
+   "start": "",
+   "close": "",
+   "url": "https://mmsd.csod.com/ux/ats/careersite/1/home/requisition/9624?c=mmsd",
+   "source": "mmsd",
+   "lat": 43.0731,
+   "lng": -89.4012,
+   "subjects": [],
    "levels": []
-  },
-  {
-   "id": "273846",
-   "title": "Cross Categorical Special Education Teacher (3 Year Retention Bonus Eligible!)",
-   "district": "Green Bay Area Public School District",
-   "location": "Franklin Middle School",
-   "posted": "2026-09-16",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/273846",
-   "source": "wecan",
-   "lat": 44.5133,
-   "lng": -88.0133,
-   "subjects": [],
-   "levels": [
-    "middle"
-   ]
-  },
-  {
-   "id": "273842",
-   "title": "Special Education Teacher- High Needs 6th grade through Transition",
-   "district": "Gillett School District",
-   "location": "Secondary School",
-   "posted": "2026-09-16",
-   "start": "9/28/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/273842",
-   "source": "wecan",
-   "lat": 44.891,
-   "lng": -88.307,
-   "subjects": [],
-   "levels": [
-    "high",
-    "middle"
-   ]
-  },
-  {
-   "id": "273839",
-   "title": "Math Teacher (26/27 School Year)",
-   "district": "Franklin Public Schools",
-   "location": "Franklin High School",
-   "posted": "2026-09-16",
-   "start": "10/12/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/273839",
-   "source": "wecan",
-   "lat": 42.8886,
-   "lng": -88.0385,
-   "subjects": [
-    "math"
-   ],
-   "levels": [
-    "high"
-   ]
-  },
-  {
-   "id": "273829",
-   "title": "26-27 Middle School Science Teacher -",
-   "district": "Carmen Schools of Science and Technology",
-   "location": "Northwest Middle Campus",
-   "posted": "2026-09-16",
-   "start": "8/5/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/273829",
-   "source": "wecan",
-   "lat": null,
-   "lng": null,
-   "subjects": [
-    "science"
-   ],
-   "levels": [
-    "middle"
-   ]
-  },
-  {
-   "id": "273821",
-   "title": "26-27 Northwest Middle School Social Studies Teacher",
-   "district": "Carmen Schools of Science and Technology",
-   "location": "Carmen Northwest Campus",
-   "posted": "2026-09-16",
-   "start": "8/5/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/273821",
-   "source": "wecan",
-   "lat": null,
-   "lng": null,
-   "subjects": [
-    "science",
-    "social"
-   ],
-   "levels": [
-    "middle"
-   ]
-  },
-  {
-   "id": "273820",
-   "title": "26-27 Middle School ELA Teacher",
-   "district": "Carmen Schools of Science and Technology",
-   "location": "South Middle Campus",
-   "posted": "2026-09-16",
-   "start": "8/5/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/273820",
-   "source": "wecan",
-   "lat": null,
-   "lng": null,
-   "subjects": [
-    "english",
-    "science"
-   ],
-   "levels": [
-    "middle"
-   ]
-  },
-  {
-   "id": "273804",
-   "title": "Special Education Teacher - Middle School",
-   "district": "Holy Hill Area School District",
-   "location": "Richfield Middle School",
-   "posted": "2026-09-16",
-   "start": "8/19/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/273804",
-   "source": "wecan",
-   "lat": 43.2444487,
-   "lng": -88.32704,
-   "subjects": [],
-   "levels": [
-    "middle"
-   ]
-  },
-  {
-   "id": "273786",
-   "title": "Health Teacher - Full Time",
-   "district": "Marquette University High School",
-   "location": "Marquette University High School",
-   "posted": "2026-09-16",
-   "start": "1/4/2027",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/273786",
-   "source": "wecan",
-   "lat": 43.0379584,
-   "lng": -87.9558448,
-   "subjects": [
-    "pe_health"
-   ],
-   "levels": [
-    "high"
-   ]
   },
   {
    "id": "mmsd:9619",

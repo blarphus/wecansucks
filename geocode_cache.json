@@ -3,6 +3,10 @@
     42.728657,
     -87.7953505
   ],
+  "baldwin-woodville area school district": [
+    44.9679055,
+    -92.3821799
+  ],
   "blair-taylor school district": [
     44.2911843,
     -91.208753
@@ -11,10 +15,13 @@
     44.8629629,
     -88.9815472
   ],
-  "carmen schools of science and technology": null,
   "cedar grove-belgium area school district": null,
   "cesa 5": null,
   "cesa 9": null,
+  "chippewa falls area unified school district": [
+    44.9371325,
+    -91.3932118
+  ],
   "colby school district": [
     44.9099665,
     -90.3156911
@@ -54,10 +61,6 @@
     43.018643,
     -88.0476792
   ],
-  "holy hill area school district": [
-    43.2444487,
-    -88.32704
-  ],
   "hudson school district": [
     44.9750953,
     -92.7554671
@@ -79,10 +82,6 @@
   "manitowoc public school district": [
     44.0998341,
     -87.827992
-  ],
-  "marquette university high school": [
-    43.0379584,
-    -87.9558448
   ],
   "medford area public school district": [
     45.1391437,
@@ -111,6 +110,10 @@
   "mosinee school district": [
     44.7927669,
     -89.7030748
+  ],
+  "muskego-norway school district": [
+    42.8451651,
+    -88.1340107
   ],
   "national heritage academies": null,
   "necedah area school district": [
@@ -164,6 +167,10 @@
   "school district of altoona": [
     44.8046825,
     -91.4429355
+  ],
+  "school district of ashland": [
+    46.2062319,
+    -90.6802594
   ],
   "school district of athens": [
     45.0349745,
