@@ -7,6 +7,14 @@
     44.9679055,
     -92.3821799
   ],
+  "bangor school district": [
+    43.8919819,
+    -90.9891728
+  ],
+  "berlin area school district": [
+    43.9684264,
+    -88.9466233
+  ],
   "blair-taylor school district": [
     44.2911843,
     -91.208753
@@ -30,6 +38,10 @@
     42.6802288,
     -90.1178079
   ],
+  "delavan-darien school district": [
+    42.6317048,
+    -88.6608361
+  ],
   "diocese of madison catholic schools": [
     43.0514334,
     -89.5229716
@@ -45,10 +57,6 @@
   ],
   "fundamentals llc": null,
   "genesee lake school": null,
-  "goodman community center": [
-    43.097123,
-    -89.343693
-  ],
   "grafton school district": [
     43.3195224,
     -87.9517842
@@ -87,17 +95,45 @@
     45.1391437,
     -90.3460806
   ],
+  "menominee indian school district": [
+    44.9762964,
+    -88.7347165
+  ],
   "menominee tribal school": [
     44.978897,
     -88.833996
   ],
+  "mmsd:anana": [
+    43.0400195,
+    -89.4896913
+  ],
   "mmsd:capital hs": null,
+  "mmsd:emerson": [
+    43.1008728,
+    -89.3524499
+  ],
+  "mmsd:franklin": [
+    43.0554226,
+    -89.3876581
+  ],
   "mmsd:gillespie": null,
   "mmsd:hawthorne": [
     43.1120346,
     -89.3282322
   ],
   "mmsd:lakeview": null,
+  "mmsd:lapham": [
+    43.0854961,
+    -89.3720388
+  ],
+  "mmsd:leopold": [
+    43.0278428,
+    -89.4213155
+  ],
+  "mmsd:lowell": [
+    43.0926724,
+    -89.3403366
+  ],
   "mmsd:mendota": [
     43.1370862,
     -89.3848164
@@ -107,6 +143,18 @@
     -89.3247882
   ],
   "mmsd:sennett": null,
+  "mmsd:shabazz": [
+    43.1178073,
+    -89.3631068
+  ],
+  "mmsd:thoreau": [
+    43.0459,
+    -89.4424801
+  ],
+  "mmsd:wright": [
+    43.0484371,
+    -89.4002258
+  ],
   "mosinee school district": [
     44.7927669,
     -89.7030748
@@ -142,10 +190,6 @@
     44.9988053,
     -88.2480072
   ],
-  "one city schools": [
-    43.0438637,
-    -89.3921729
-  ],
   "port washington-saukville school district": null,
   "providence academy": [
     43.8386569,
@@ -159,10 +203,6 @@
   "rice lake area school district": [
     45.5027926,
     -91.733423
-  ],
-  "school district of abbotsford": [
-    44.9471087,
-    -90.3194786
   ],
   "school district of altoona": [
     44.8046825,
@@ -220,6 +260,10 @@
     43.8980198,
     -91.0813561
   ],
+  "seymour community school district": [
+    44.5429082,
+    -88.312718
+  ],
   "shorewood school district": [
     43.0883957,
     -87.8881302
@@ -254,9 +298,5 @@
   "whitewater unified school district": [
     42.8283755,
     -88.7512805
-  ],
-  "wisconsin rapids public schools": [
-    44.4037069,
-    -89.8737566
   ]
 }
