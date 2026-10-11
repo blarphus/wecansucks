@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T12:25:49.215772-05:00",
+ "generated_at": "2026-10-11T12:44:53.212718-05:00",
  "weeks": 3,
  "subject_labels": {
   "english": "English / ELA",
@@ -738,8 +738,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/274921",
    "source": "wecan",
-   "lat": 44.8064265,
-   "lng": -91.4338323,
+   "lat": 44.8046825,
+   "lng": -91.4429355,
    "subjects": [
     "cs_tech"
    ],
@@ -3008,23 +3008,6 @@
    ],
    "levels": [
     "high"
-   ]
-  },
-  {
-   "id": "273988",
-   "title": "5th Grade Teacher",
-   "district": "Milwaukee Southwest Catholic Schools",
-   "location": "St. Matthew School - Oak Creek",
-   "posted": "2026-09-19",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/273988",
-   "source": "wecan",
-   "lat": 43.0389,
-   "lng": -87.9065,
-   "subjects": [],
-   "levels": [
-    "elementary"
    ]
   },
   {
