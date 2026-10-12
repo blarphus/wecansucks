@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-11T12:44:53.212718-05:00",
+ "generated_at": "2026-10-12T16:22:04.330288-05:00",
  "weeks": 3,
  "subject_labels": {
   "english": "English / ELA",
@@ -19,6 +19,287 @@
   "high": "High school"
  },
  "jobs": [
+  {
+   "id": "275201",
+   "title": "Long Term Sub Middle School Art Teacher",
+   "district": "Spooner Area School District",
+   "location": "Middle School",
+   "posted": "2026-10-12",
+   "start": "11/2/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275201",
+   "source": "wecan",
+   "lat": 45.8267729,
+   "lng": -91.8882375,
+   "subjects": [
+    "art"
+   ],
+   "levels": [
+    "middle"
+   ]
+  },
+  {
+   "id": "275199",
+   "title": "Career/Technical Education Teacher 2027-28 School Year",
+   "district": "Wauwatosa School District",
+   "location": "Wauwatosa East High School",
+   "posted": "2026-10-12",
+   "start": "8/16/2027",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275199",
+   "source": "wecan",
+   "lat": 43.0494122,
+   "lng": -88.0079271,
+   "subjects": [],
+   "levels": [
+    "high"
+   ]
+  },
+  {
+   "id": "275197",
+   "title": "Long Term Substitute Teacher - 2nd Grade",
+   "district": "Pulaski Community School District",
+   "location": "Sunnyside Elementary School 720 County Rd C, Sobieski, WI 54171",
+   "posted": "2026-10-12",
+   "start": "10/12/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275197",
+   "source": "wecan",
+   "lat": 44.666,
+   "lng": -88.243,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "275189",
+   "title": "High School Special Education Co-Teacher - Temporary",
+   "district": "Middleton-Cross Plains Area School District",
+   "location": "Middleton High School",
+   "posted": "2026-10-12",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275189",
+   "source": "wecan",
+   "lat": 43.0972,
+   "lng": -89.5124,
+   "subjects": [],
+   "levels": [
+    "high"
+   ]
+  },
+  {
+   "id": "275172",
+   "title": "26-27 Cross Categorical Teacher",
+   "district": "Racine Unified School District",
+   "location": "Gifford K-8 Campus",
+   "posted": "2026-10-12",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275172",
+   "source": "wecan",
+   "lat": 42.7261,
+   "lng": -87.7829,
+   "subjects": [],
+   "levels": [
+    "elementary",
+    "middle"
+   ]
+  },
+  {
+   "id": "275171",
+   "title": "Special Education Teacher - Elementary Specialized Program (Autism emphasis)",
+   "district": "Burlington Area School District",
+   "location": "Waller Elementary",
+   "posted": "2026-10-12",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275171",
+   "source": "wecan",
+   "lat": 42.6781,
+   "lng": -88.2762,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "275169",
+   "title": "Grade 7 Teacher (Social Studies Emphasis) at Marshall Middle School",
+   "district": "Janesville School District",
+   "location": "Marshall Middle School",
+   "posted": "2026-10-12",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275169",
+   "source": "wecan",
+   "lat": 42.6828,
+   "lng": -89.0187,
+   "subjects": [
+    "social"
+   ],
+   "levels": [
+    "middle"
+   ]
+  },
+  {
+   "id": "275168",
+   "title": "Long-Term Substitute Kindergarten Teacher - State Road Elementary School",
+   "district": "School District of La Crosse",
+   "location": "State Road Elementary School",
+   "posted": "2026-10-12",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275168",
+   "source": "wecan",
+   "lat": 43.8014,
+   "lng": -91.2396,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "275165",
+   "title": "26-27 Middle School Science Teacher",
+   "district": "Milwaukee Academy of Science",
+   "location": "Milwaukee Academy of Science",
+   "posted": "2026-10-12",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275165",
+   "source": "wecan",
+   "lat": 43.0389,
+   "lng": -87.9065,
+   "subjects": [
+    "science"
+   ],
+   "levels": [
+    "middle"
+   ]
+  },
+  {
+   "id": "275164",
+   "title": "4th Grade Teacher",
+   "district": "Gillett School District",
+   "location": "Gillett Elementary School",
+   "posted": "2026-10-12",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275164",
+   "source": "wecan",
+   "lat": 44.891,
+   "lng": -88.307,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "275163",
+   "title": "Long-term Substitute Science Teacher",
+   "district": "Dodgeville School District",
+   "location": "Dodgeville Middle School",
+   "posted": "2026-10-12",
+   "start": "11/1/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275163",
+   "source": "wecan",
+   "lat": 42.9603,
+   "lng": -90.1301,
+   "subjects": [
+    "science"
+   ],
+   "levels": [
+    "middle"
+   ]
+  },
+  {
+   "id": "275159",
+   "title": "26-27 4yr Old Kindergarten Teacher",
+   "district": "Racine Unified School District",
+   "location": "BEE Center",
+   "posted": "2026-10-12",
+   "start": "1/22/2027",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275159",
+   "source": "wecan",
+   "lat": 42.7261,
+   "lng": -87.7829,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "275158",
+   "title": "Educational Sign Language Interpreter",
+   "district": "CESA 5",
+   "location": "School District of Auburndale",
+   "posted": "2026-10-12",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275158",
+   "source": "wecan",
+   "lat": null,
+   "lng": null,
+   "subjects": [],
+   "levels": []
+  },
+  {
+   "id": "275152",
+   "title": "Temporary Long-Term Special Education Sub",
+   "district": "Salem School District",
+   "location": "Salem School District",
+   "posted": "2026-10-12",
+   "start": "10/19/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275152",
+   "source": "wecan",
+   "lat": 43.9481892,
+   "lng": -90.7552826,
+   "subjects": [],
+   "levels": []
+  },
+  {
+   "id": "275145",
+   "title": "Early Childhood Teacher - LTE",
+   "district": "Beaver Dam Unified School District",
+   "location": "District Wide",
+   "posted": "2026-10-12",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275145",
+   "source": "wecan",
+   "lat": 43.4578,
+   "lng": -88.8371,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "275138",
+   "title": "Middle School Teacher-English/Language Arts",
+   "district": "Milwaukee Math and Science Academy",
+   "location": "Milwaukee Math and Science Academy",
+   "posted": "2026-10-11",
+   "start": "12/15/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275138",
+   "source": "wecan",
+   "lat": 43.0389,
+   "lng": -87.9065,
+   "subjects": [
+    "english",
+    "math",
+    "science"
+   ],
+   "levels": [
+    "middle"
+   ]
+  },
   {
    "id": "275134",
    "title": "Cross Categorical Teacher",
@@ -1426,23 +1707,6 @@
    ]
   },
   {
-   "id": "274657",
-   "title": "Career/Technical Education Teacher",
-   "district": "Wauwatosa School District",
-   "location": "Wauwatosa East High School",
-   "posted": "2026-10-02",
-   "start": "10/5/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/274657",
-   "source": "wecan",
-   "lat": 43.0494122,
-   "lng": -88.0079271,
-   "subjects": [],
-   "levels": [
-    "high"
-   ]
-  },
-  {
    "id": "274656",
    "title": "Special Education Teacher - Long Term Assignments",
    "district": "Oak Creek-Franklin Joint School District",
@@ -1966,40 +2230,6 @@
    ]
   },
   {
-   "id": "274483",
-   "title": "4K Teacher",
-   "district": "Newman Catholic Schools",
-   "location": "Newman Catholic School: St. Therese",
-   "posted": "2026-09-29",
-   "start": "10/1/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/274483",
-   "source": "wecan",
-   "lat": 44.97248,
-   "lng": -89.6492298,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "274478",
-   "title": "Teacher: Long-Term Substitute (Kindergarten)",
-   "district": "Hudson School District",
-   "location": "North Hudson Elementary",
-   "posted": "2026-09-29",
-   "start": "12/11/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/274478",
-   "source": "wecan",
-   "lat": 44.9750953,
-   "lng": -92.7554671,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
    "id": "274477",
    "title": "Teacher: Long-Term Substitute (Grade 5)",
    "district": "Hudson School District",
@@ -2271,11 +2501,11 @@
   },
   {
    "id": "274377",
-   "title": "Family and Consumer Science Teacher",
+   "title": "Family and Consumer Sciences (FCS) Teacher",
    "district": "Verona Area School District",
    "location": "Badger Ridge Middle School",
    "posted": "2026-09-28",
-   "start": "9/28/2026",
+   "start": "10/12/2026",
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/274377",
    "source": "wecan",
@@ -2409,23 +2639,6 @@
    "levels": []
   },
   {
-   "id": "274326",
-   "title": "Grade 5 Teacher - 1.0 FTE - Johnston Elementary School",
-   "district": "Appleton Area School District",
-   "location": "Johnston Elementary",
-   "posted": "2026-09-25",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/274326",
-   "source": "wecan",
-   "lat": 44.2619,
-   "lng": -88.4153,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
    "id": "274322",
    "title": "Cross Categorical Special Education Teacher",
    "district": "Shorewood School District",
@@ -2528,7 +2741,7 @@
   },
   {
    "id": "274273",
-   "title": "Alternative Education Teacher/Special Education Teacher",
+   "title": "Alternative Education Teacher",
    "district": "Manitowoc Public School District",
    "location": "Lakeshore School of Innovation",
    "posted": "2026-09-24",
@@ -3011,38 +3224,6 @@
    ]
   },
   {
-   "id": "mmsd:9662",
-   "title": "Special Education Teacher (Cross Categorical) - Capital HS - 1.0 FTE - 26-27 SY",
-   "district": "Madison Metropolitan School District",
-   "location": "Capital HS (Madison, WI)",
-   "posted": "2026-10-09",
-   "start": "",
-   "close": "",
-   "url": "https://mmsd.csod.com/ux/ats/careersite/1/home/requisition/9662?c=mmsd",
-   "source": "mmsd",
-   "lat": 43.0731,
-   "lng": -89.4012,
-   "subjects": [],
-   "levels": [
-    "high"
-   ]
-  },
-  {
-   "id": "mmsd:9660",
-   "title": "Special Education Teacher (Cross Categorical) - Erlanger - 0.5 FTE - 26-27 SY",
-   "district": "Madison Metropolitan School District",
-   "location": "Erlanger (Madison, WI)",
-   "posted": "2026-10-09",
-   "start": "",
-   "close": "",
-   "url": "https://mmsd.csod.com/ux/ats/careersite/1/home/requisition/9660?c=mmsd",
-   "source": "mmsd",
-   "lat": 43.0731,
-   "lng": -89.4012,
-   "subjects": [],
-   "levels": []
-  },
-  {
    "id": "mmsd:9658",
    "title": "Special Education Teacher (Cross Categorical) - Franklin - 1.0 FTE - 26-27 SY",
    "district": "Madison Metropolitan School District",
@@ -3085,23 +3266,6 @@
    "start": "",
    "close": "",
    "url": "https://mmsd.csod.com/ux/ats/careersite/1/home/requisition/9656?c=mmsd",
-   "source": "mmsd",
-   "lat": 43.0926724,
-   "lng": -89.3403366,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "mmsd:9655",
-   "title": "Grade 2 Teacher - Lowell - 1.0 FTE - 26-27 SY",
-   "district": "Madison Metropolitan School District",
-   "location": "Lowell (Madison, WI)",
-   "posted": "2026-10-09",
-   "start": "",
-   "close": "",
-   "url": "https://mmsd.csod.com/ux/ats/careersite/1/home/requisition/9655?c=mmsd",
    "source": "mmsd",
    "lat": 43.0926724,
    "lng": -89.3403366,
@@ -3172,25 +3336,6 @@
    "lat": 43.092265,
    "lng": -89.3247882,
    "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "mmsd:9642",
-   "title": "ESL Teacher - Leopold - 1.0 FTE - 26-27 SY",
-   "district": "Madison Metropolitan School District",
-   "location": "Leopold (Madison, WI)",
-   "posted": "2026-10-09",
-   "start": "",
-   "close": "",
-   "url": "https://mmsd.csod.com/ux/ats/careersite/1/home/requisition/9642?c=mmsd",
-   "source": "mmsd",
-   "lat": 43.0278428,
-   "lng": -89.4213155,
-   "subjects": [
-    "esl"
-   ],
    "levels": [
     "elementary"
    ]
@@ -3312,23 +3457,6 @@
    "subjects": [],
    "levels": [
     "high"
-   ]
-  },
-  {
-   "id": "mmsd:9615",
-   "title": "Special Education Teacher (Cross Categorical) - Gillespie - 1.0 FTE - 26-27 SY",
-   "district": "Madison Metropolitan School District",
-   "location": "Gillespie (Madison, WI)",
-   "posted": "2026-10-02",
-   "start": "",
-   "close": "",
-   "url": "https://mmsd.csod.com/ux/ats/careersite/1/home/requisition/9615?c=mmsd",
-   "source": "mmsd",
-   "lat": 43.0731,
-   "lng": -89.4012,
-   "subjects": [],
-   "levels": [
-    "elementary"
    ]
   },
   {

@@ -108,7 +108,6 @@
     43.0554226,
     -89.3876581
   ],
-  "mmsd:gillespie": null,
   "mmsd:lakeview": null,
   "mmsd:lapham": [
     43.0854961,
@@ -159,10 +158,6 @@
     44.1837802,
     -88.4634176
   ],
-  "newman catholic schools": [
-    44.97248,
-    -89.6492298
-  ],
   "north shore catholic schools": null,
   "north wisconsin district lcms": null,
   "oak creek-franklin joint school district": [
@@ -198,6 +193,10 @@
   "richland school district": [
     43.3662526,
     -90.4557081
+  ],
+  "salem school district": [
+    43.9481892,
+    -90.7552826
   ],
   "school district of altoona": [
     44.8046825,
@@ -262,6 +261,10 @@
   "southern door county school district": [
     44.774689,
     -87.5246702
+  ],
+  "spooner area school district": [
+    45.8267729,
+    -91.8882375
   ],
   "st. andrew parish school": null,
   "st. joseph academy": [
