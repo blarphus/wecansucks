@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12T16:22:04.330288-05:00",
+ "generated_at": "2026-10-13T14:27:00.499266-05:00",
  "weeks": 3,
  "subject_labels": {
   "english": "English / ELA",
@@ -19,6 +19,260 @@
   "high": "High school"
  },
  "jobs": [
+  {
+   "id": "275263",
+   "title": "Special Education Teacher - 1 Year Position",
+   "district": "Hayward Community Schools",
+   "location": "Intermediate School",
+   "posted": "2026-10-13",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275263",
+   "source": "wecan",
+   "lat": 46.0129676,
+   "lng": -91.4848728,
+   "subjects": [],
+   "levels": [
+    "middle"
+   ]
+  },
+  {
+   "id": "275260",
+   "title": "Special Education Teacher- $3000 Signing Bonus!",
+   "district": "Genesee Lake School",
+   "location": "Genesee Lake School",
+   "posted": "2026-10-13",
+   "start": "1/4/2027",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275260",
+   "source": "wecan",
+   "lat": null,
+   "lng": null,
+   "subjects": [],
+   "levels": []
+  },
+  {
+   "id": "275259",
+   "title": "Intellectual Disabilities Special Education Teacher (1.0 FTE)",
+   "district": "School District of Milton",
+   "location": "Northside Intermediate",
+   "posted": "2026-10-13",
+   "start": "1/25/2027",
+   "close": "11/2/2026",
+   "url": "https://wecan.waspa.org/Vacancy/275259",
+   "source": "wecan",
+   "lat": 42.7753567,
+   "lng": -88.9390017,
+   "subjects": [],
+   "levels": []
+  },
+  {
+   "id": "275257",
+   "title": "26-27 Cross Categorical Teacher",
+   "district": "Racine Unified School District",
+   "location": "O. Brown K-8 Campus",
+   "posted": "2026-10-13",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275257",
+   "source": "wecan",
+   "lat": 42.7261,
+   "lng": -87.7829,
+   "subjects": [],
+   "levels": [
+    "elementary",
+    "middle"
+   ]
+  },
+  {
+   "id": "275256",
+   "title": "Head Start 4k Full Day Teacher",
+   "district": "Green Bay Area Public School District",
+   "location": "Jefferson Head Start",
+   "posted": "2026-10-13",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275256",
+   "source": "wecan",
+   "lat": 44.5133,
+   "lng": -88.0133,
+   "subjects": [],
+   "levels": []
+  },
+  {
+   "id": "275238",
+   "title": "26-27 Cross Categorical Teacher",
+   "district": "Racine Unified School District",
+   "location": "Red Apple K-8 Campus",
+   "posted": "2026-10-13",
+   "start": "10/13/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275238",
+   "source": "wecan",
+   "lat": 42.7261,
+   "lng": -87.7829,
+   "subjects": [],
+   "levels": [
+    "elementary",
+    "middle"
+   ]
+  },
+  {
+   "id": "275237",
+   "title": "Elementary Music Teacher",
+   "district": "Riverdale School District",
+   "location": "Elementary School",
+   "posted": "2026-10-13",
+   "start": "8/23/2027",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275237",
+   "source": "wecan",
+   "lat": 43.346,
+   "lng": -90.379,
+   "subjects": [
+    "music"
+   ],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "275231",
+   "title": "Early Childhood Special Education Teacher",
+   "district": "Blair-Taylor School District",
+   "location": "Blair-Taylor Elementary",
+   "posted": "2026-10-13",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275231",
+   "source": "wecan",
+   "lat": 44.2911843,
+   "lng": -91.208753,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "275230",
+   "title": "Special Education Behavioral Interventionist",
+   "district": "Seymour Community School District",
+   "location": "Rock Ledge Elementary/Black Creek",
+   "posted": "2026-10-13",
+   "start": "10/13/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275230",
+   "source": "wecan",
+   "lat": 44.5429082,
+   "lng": -88.312718,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "275224",
+   "title": "Business Education Teacher at Parker High School",
+   "district": "Janesville School District",
+   "location": "Parker High School",
+   "posted": "2026-10-13",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275224",
+   "source": "wecan",
+   "lat": 42.6828,
+   "lng": -89.0187,
+   "subjects": [],
+   "levels": [
+    "high"
+   ]
+  },
+  {
+   "id": "275222",
+   "title": "Cross Categorical Teacher",
+   "district": "Sun Prairie Area School District",
+   "location": "Eastside Elementary",
+   "posted": "2026-10-13",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275222",
+   "source": "wecan",
+   "lat": 43.1836,
+   "lng": -89.2137,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "275209",
+   "title": "Long Term Substitite- Special Education Teacher",
+   "district": "Swallow School District",
+   "location": "Swallow School",
+   "posted": "2026-10-13",
+   "start": "3/1/2027",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275209",
+   "source": "wecan",
+   "lat": 43.1348696,
+   "lng": -89.3543,
+   "subjects": [],
+   "levels": []
+  },
+  {
+   "id": "275206",
+   "title": "Long Term Substitute - 4K Teacher",
+   "district": "Mukwonago Area School District",
+   "location": "Prairie View Elementary School",
+   "posted": "2026-10-13",
+   "start": "11/2/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275206",
+   "source": "wecan",
+   "lat": 42.8666803,
+   "lng": -88.3334274,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "275205",
+   "title": "26-27 Grade 3 Teacher",
+   "district": "Racine Unified School District",
+   "location": "Schulte K-8 Campus",
+   "posted": "2026-10-13",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275205",
+   "source": "wecan",
+   "lat": 42.7261,
+   "lng": -87.7829,
+   "subjects": [],
+   "levels": [
+    "elementary",
+    "middle"
+   ]
+  },
+  {
+   "id": "275203",
+   "title": "High School Math Teacher",
+   "district": "Ellsworth Community School District",
+   "location": "Ellsworth High School",
+   "posted": "2026-10-13",
+   "start": "1/18/2027",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275203",
+   "source": "wecan",
+   "lat": 44.732122,
+   "lng": -92.4831218,
+   "subjects": [
+    "math"
+   ],
+   "levels": [
+    "high"
+   ]
+  },
   {
    "id": "275201",
    "title": "Long Term Sub Middle School Art Teacher",
@@ -216,23 +470,6 @@
    ]
   },
   {
-   "id": "275159",
-   "title": "26-27 4yr Old Kindergarten Teacher",
-   "district": "Racine Unified School District",
-   "location": "BEE Center",
-   "posted": "2026-10-12",
-   "start": "1/22/2027",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275159",
-   "source": "wecan",
-   "lat": 42.7261,
-   "lng": -87.7829,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
    "id": "275158",
    "title": "Educational Sign Language Interpreter",
    "district": "CESA 5",
@@ -315,23 +552,6 @@
    "subjects": [],
    "levels": [
     "high"
-   ]
-  },
-  {
-   "id": "275133",
-   "title": "Cross Categorical Teacher- 1yr",
-   "district": "Sun Prairie Area School District",
-   "location": "Eastside Elementary",
-   "posted": "2026-10-09",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275133",
-   "source": "wecan",
-   "lat": 43.1836,
-   "lng": -89.2137,
-   "subjects": [],
-   "levels": [
-    "elementary"
    ]
   },
   {
@@ -1019,8 +1239,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/274921",
    "source": "wecan",
-   "lat": 44.8046825,
-   "lng": -91.4429355,
+   "lat": 44.8064265,
+   "lng": -91.4338323,
    "subjects": [
     "cs_tech"
    ],
@@ -2376,21 +2596,6 @@
    ]
   },
   {
-   "id": "274424",
-   "title": "Special Education Teacher- $3000 Signing Bonus!",
-   "district": "Genesee Lake School",
-   "location": "Genesee Lake School",
-   "posted": "2026-09-28",
-   "start": "11/2/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/274424",
-   "source": "wecan",
-   "lat": null,
-   "lng": null,
-   "subjects": [],
-   "levels": []
-  },
-  {
    "id": "274415",
    "title": "High School/Transition Special Education Teacher",
    "district": "The Richardson School",
@@ -3185,42 +3390,6 @@
    "levels": [
     "high",
     "middle"
-   ]
-  },
-  {
-   "id": "274019",
-   "title": "26-27 South Campus Middle School Writing Teacher",
-   "district": "St. Augustine Preparatory Academy",
-   "location": "",
-   "posted": "2026-09-21",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/274019",
-   "source": "wecan",
-   "lat": 43.0389,
-   "lng": -87.9065,
-   "subjects": [],
-   "levels": [
-    "middle"
-   ]
-  },
-  {
-   "id": "274012",
-   "title": "26-27 Technology Education Teacher",
-   "district": "Racine Unified School District",
-   "location": "Horlick High School",
-   "posted": "2026-09-21",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/274012",
-   "source": "wecan",
-   "lat": 42.7261,
-   "lng": -87.7829,
-   "subjects": [
-    "cs_tech"
-   ],
-   "levels": [
-    "high"
    ]
   },
   {
