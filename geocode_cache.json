@@ -1,24 +1,25 @@
 {
-  "baldwin-woodville area school district": [
-    44.9679055,
-    -92.3821799
-  ],
   "bangor school district": [
     43.8919819,
     -90.9891728
-  ],
-  "berlin area school district": [
-    43.9684264,
-    -88.9466233
   ],
   "blair-taylor school district": [
     44.2911843,
     -91.208753
   ],
   "cesa 5": null,
+  "chileda": null,
   "delavan-darien school district": [
     42.6317048,
     -88.6608361
+  ],
+  "dodgeland school district": [
+    43.4025756,
+    -88.7162216
+  ],
+  "east troy community school district": [
+    42.7851871,
+    -88.4054374
   ],
   "ellsworth community school district": [
     44.732122,
@@ -35,12 +36,15 @@
     -91.4848728
   ],
   "holyland catholic school": null,
+  "hortonville area school district": [
+    44.3350374,
+    -88.639343
+  ],
   "independence public schools": [
     44.35691,
     -91.4206949
   ],
   "lake country classical academy": null,
-  "lutheran urban mission initiative, inc. (lumin)": null,
   "manitowoc public school district": [
     44.0998341,
     -87.827992
@@ -62,6 +66,14 @@
     43.0554226,
     -89.3876581
   ],
+  "mmsd:gompers": [
+    43.1467126,
+    -89.3697456
+  ],
+  "mmsd:kennedy": [
+    43.0940072,
+    -89.2973904
+  ],
   "mmsd:lakeview": null,
   "mmsd:lapham": [
     43.0854961,
@@ -71,9 +83,9 @@
     43.0278428,
     -89.4213155
   ],
-  "mmsd:lowell": [
-    43.0926724,
-    -89.3403366
+  "mmsd:memorial": [
+    43.0639225,
+    -89.5010366
   ],
   "mmsd:mendota": [
     43.1370862,
@@ -91,6 +103,10 @@
     43.0459,
     -89.4424801
   ],
+  "mmsd:west": [
+    43.0686283,
+    -89.4271064
+  ],
   "mmsd:wright": [
     43.0484371,
     -89.4002258
@@ -102,10 +118,6 @@
   "mukwonago area school district": [
     42.8666803,
     -88.3334274
-  ],
-  "muskego-norway school district": [
-    42.8451651,
-    -88.1340107
   ],
   "national heritage academies": null,
   "nekoosa school district": [
@@ -128,21 +140,21 @@
     43.9481892,
     -90.7552826
   ],
-  "school district of ashland": [
-    46.2062319,
-    -90.6802594
-  ],
-  "school district of brown deer": [
-    43.1744352,
-    -87.972722
-  ],
   "school district of hartford j1": [
     43.317744,
     -88.3788508
   ],
+  "school district of ladysmith": [
+    45.4642517,
+    -91.1008637
+  ],
   "school district of mauston": [
     43.7968543,
     -90.0756767
+  ],
+  "school district of menomonee falls": [
+    43.1790768,
+    -88.1170784
   ],
   "school district of milton": [
     42.7753567,
@@ -160,9 +172,9 @@
     43.6836929,
     -88.5474431
   ],
-  "seymour community school district": [
-    44.5429082,
-    -88.312718
+  "shawano school district": [
+    44.7817214,
+    -88.7118868
   ],
   "spooner area school district": [
     45.8267729,
