@@ -1,18 +1,10 @@
 {
-  "bangor school district": [
-    43.8919819,
-    -90.9891728
-  ],
   "blair-taylor school district": [
     44.2911843,
     -91.208753
   ],
   "cesa 5": null,
   "chileda": null,
-  "delavan-darien school district": [
-    42.6317048,
-    -88.6608361
-  ],
   "dodgeland school district": [
     43.4025756,
     -88.7162216
@@ -44,7 +36,6 @@
     44.35691,
     -91.4206949
   ],
-  "lake country classical academy": null,
   "manitowoc public school district": [
     44.0998341,
     -87.827992
@@ -53,9 +44,9 @@
     44.9762964,
     -88.7347165
   ],
-  "mmsd:anana": [
-    43.0400195,
-    -89.4896913
+  "menominee tribal school": [
+    44.978897,
+    -88.833996
   ],
   "mmsd:capital hs": null,
   "mmsd:emerson": [
@@ -87,10 +78,6 @@
     43.0639225,
     -89.5010366
   ],
-  "mmsd:mendota": [
-    43.1370862,
-    -89.3848164
-  ],
   "mmsd:schenk": [
     43.092265,
     -89.3247882
@@ -119,7 +106,6 @@
     42.8666803,
     -88.3334274
   ],
-  "national heritage academies": null,
   "nekoosa school district": [
     44.3154564,
     -89.8918206
@@ -128,13 +114,21 @@
     44.97248,
     -89.6492298
   ],
+  "oak creek-franklin joint school district": [
+    42.9054721,
+    -87.9265921
+  ],
   "pewaukee school district": [
     43.0846017,
     -88.2139452
   ],
-  "richland school district": [
-    43.3662526,
-    -90.4557081
+  "prairie du chien area school district": [
+    43.05194,
+    -91.1409933
+  ],
+  "providence academy": [
+    43.8386569,
+    -91.2457452
   ],
   "salem school district": [
     43.9481892,
@@ -189,6 +183,10 @@
     43.1348696,
     -89.3543
   ],
+  "two rivers public school district": [
+    44.149206,
+    -87.5682149
+  ],
   "wauwatosa school district": [
     43.0494122,
     -88.0079271
@@ -197,5 +195,9 @@
   "whitewater unified school district": [
     42.8283755,
     -88.7512805
+  ],
+  "wisconsin rapids public schools": [
+    44.4037069,
+    -89.8737566
   ]
 }
