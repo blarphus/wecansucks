@@ -27,7 +27,6 @@
     46.0129676,
     -91.4848728
   ],
-  "holyland catholic school": null,
   "hortonville area school district": [
     44.3350374,
     -88.639343
@@ -35,6 +34,10 @@
   "independence public schools": [
     44.35691,
     -91.4206949
+  ],
+  "ithaca public schools": [
+    43.3408176,
+    -90.2817921
   ],
   "manitowoc public school district": [
     44.0998341,
@@ -78,10 +81,6 @@
     43.0639225,
     -89.5010366
   ],
-  "mmsd:schenk": [
-    43.092265,
-    -89.3247882
-  ],
   "mmsd:shabazz": [
     43.1178073,
     -89.3631068
@@ -102,10 +101,6 @@
     44.7927669,
     -89.7030748
   ],
-  "mukwonago area school district": [
-    42.8666803,
-    -88.3334274
-  ],
   "nekoosa school district": [
     44.3154564,
     -89.8918206
@@ -117,10 +112,6 @@
   "oak creek-franklin joint school district": [
     42.9054721,
     -87.9265921
-  ],
-  "pewaukee school district": [
-    43.0846017,
-    -88.2139452
   ],
   "prairie du chien area school district": [
     43.05194,
@@ -154,6 +145,10 @@
     42.7753567,
     -88.9390017
   ],
+  "school district of mondovi": [
+    44.5678717,
+    -91.6706955
+  ],
   "school district of neillsville": [
     44.5604073,
     -90.5962609
@@ -165,6 +160,10 @@
   "school district of oakfield": [
     43.6836929,
     -88.5474431
+  ],
+  "school district of phillips": [
+    45.6900818,
+    -90.3971021
   ],
   "shawano school district": [
     44.7817214,
@@ -186,6 +185,10 @@
   "two rivers public school district": [
     44.149206,
     -87.5682149
+  ],
+  "waterford union": [
+    42.7639055,
+    -88.2187009
   ],
   "wauwatosa school district": [
     43.0494122,

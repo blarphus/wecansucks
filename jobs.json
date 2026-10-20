@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T13:48:14.409247-05:00",
+ "generated_at": "2026-10-20T12:25:54.641372-05:00",
  "weeks": 3,
  "subject_labels": {
   "english": "English / ELA",
@@ -19,6 +19,91 @@
   "high": "High school"
  },
  "jobs": [
+  {
+   "id": "275565",
+   "title": "HS MATH TEACHER",
+   "district": "Ithaca Public Schools",
+   "location": "Ithaca School District",
+   "posted": "2026-10-20",
+   "start": "10/20/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275565",
+   "source": "wecan",
+   "lat": 43.3408176,
+   "lng": -90.2817921,
+   "subjects": [
+    "math"
+   ],
+   "levels": []
+  },
+  {
+   "id": "275538",
+   "title": "Cross-Categorical Special Education Teacher- Miller Elementary",
+   "district": "Tomah Area School District",
+   "location": "Miller Elementary",
+   "posted": "2026-10-19",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275538",
+   "source": "wecan",
+   "lat": 43.9786,
+   "lng": -90.504,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "275537",
+   "title": "Long-Term Substitute for Middle and High School Band",
+   "district": "School District of Mondovi",
+   "location": "Middle/High School",
+   "posted": "2026-10-19",
+   "start": "12/16/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275537",
+   "source": "wecan",
+   "lat": 44.5678717,
+   "lng": -91.6706955,
+   "subjects": [],
+   "levels": [
+    "high"
+   ]
+  },
+  {
+   "id": "275536",
+   "title": "Elementary Teacher - Grade 5",
+   "district": "School District of Phillips",
+   "location": "Phillips Elementary School",
+   "posted": "2026-10-19",
+   "start": "11/2/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275536",
+   "source": "wecan",
+   "lat": 45.6900818,
+   "lng": -90.3971021,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "275530",
+   "title": "Long-Term Cross Categorical Substitute Teacher",
+   "district": "Verona Area School District",
+   "location": "Verona Area High School",
+   "posted": "2026-10-19",
+   "start": "10/26/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275530",
+   "source": "wecan",
+   "lat": 42.9908,
+   "lng": -89.5332,
+   "subjects": [],
+   "levels": [
+    "high"
+   ]
+  },
   {
    "id": "275529",
    "title": "K4-8th Grade Music Teacher",
@@ -330,6 +415,25 @@
    "subjects": [],
    "levels": [
     "elementary"
+   ]
+  },
+  {
+   "id": "275478",
+   "title": "Math Teacher - Long-Term Substitute",
+   "district": "Waterford Union",
+   "location": "Waterford Union High School",
+   "posted": "2026-10-19",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275478",
+   "source": "wecan",
+   "lat": 42.7639055,
+   "lng": -88.2187009,
+   "subjects": [
+    "math"
+   ],
+   "levels": [
+    "high"
    ]
   },
   {
@@ -1370,23 +1474,6 @@
    "levels": []
   },
   {
-   "id": "275206",
-   "title": "Long Term Substitute - 4K Teacher",
-   "district": "Mukwonago Area School District",
-   "location": "Prairie View Elementary School",
-   "posted": "2026-10-13",
-   "start": "11/2/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275206",
-   "source": "wecan",
-   "lat": 42.8666803,
-   "lng": -88.3334274,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
    "id": "275205",
    "title": "26-27 Grade 3 Teacher",
    "district": "Racine Unified School District",
@@ -1650,99 +1737,6 @@
    ]
   },
   {
-   "id": "275138",
-   "title": "Middle School Teacher-English/Language Arts",
-   "district": "Milwaukee Math and Science Academy",
-   "location": "Milwaukee Math and Science Academy",
-   "posted": "2026-10-11",
-   "start": "12/15/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275138",
-   "source": "wecan",
-   "lat": 43.0389,
-   "lng": -87.9065,
-   "subjects": [
-    "english",
-    "math",
-    "science"
-   ],
-   "levels": [
-    "middle"
-   ]
-  },
-  {
-   "id": "275134",
-   "title": "Cross Categorical Teacher",
-   "district": "Sun Prairie Area School District",
-   "location": "High School - East",
-   "posted": "2026-10-09",
-   "start": "10/26/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275134",
-   "source": "wecan",
-   "lat": 43.1836,
-   "lng": -89.2137,
-   "subjects": [],
-   "levels": [
-    "high"
-   ]
-  },
-  {
-   "id": "275125",
-   "title": "6th Grade English Language Arts Teacher",
-   "district": "Manitowoc Public School District",
-   "location": "Wilson Intermediate School",
-   "posted": "2026-10-09",
-   "start": "10/14/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275125",
-   "source": "wecan",
-   "lat": 44.0998341,
-   "lng": -87.827992,
-   "subjects": [
-    "english"
-   ],
-   "levels": [
-    "middle"
-   ]
-  },
-  {
-   "id": "275124",
-   "title": "Long Term Sub - Chinese Teacher",
-   "district": "Pewaukee School District",
-   "location": "Pewaukee High School",
-   "posted": "2026-10-09",
-   "start": "1/11/2027",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275124",
-   "source": "wecan",
-   "lat": 43.0846017,
-   "lng": -88.2139452,
-   "subjects": [
-    "world_lang"
-   ],
-   "levels": [
-    "high"
-   ]
-  },
-  {
-   "id": "275122",
-   "title": "Math Teacher",
-   "district": "Holyland Catholic School",
-   "location": "",
-   "posted": "2026-10-09",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275122",
-   "source": "wecan",
-   "lat": null,
-   "lng": null,
-   "subjects": [
-    "math"
-   ],
-   "levels": []
-  },
-  {
    "id": "mmsd:9675",
    "title": "Special Education Teacher (Cross Categorical) - Gompers - 1.0 FTE - 26-27 SY",
    "district": "Madison Metropolitan School District",
@@ -1980,25 +1974,6 @@
    "subjects": [],
    "levels": [
     "high"
-   ]
-  },
-  {
-   "id": "mmsd:9581",
-   "title": "ESL DLI Grade 1 Teacher - Schenk - 1.0 FTE - 26-27 SY",
-   "district": "Madison Metropolitan School District",
-   "location": "Schenk (Madison, WI)",
-   "posted": "2026-09-28",
-   "start": "",
-   "close": "",
-   "url": "https://mmsd.csod.com/ux/ats/careersite/1/home/requisition/9581?c=mmsd",
-   "source": "mmsd",
-   "lat": 43.092265,
-   "lng": -89.3247882,
-   "subjects": [
-    "esl"
-   ],
-   "levels": [
-    "elementary"
    ]
   }
  ]
