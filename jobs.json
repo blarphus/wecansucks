@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T12:25:54.641372-05:00",
+ "generated_at": "2026-10-21T12:32:23.071055-05:00",
  "weeks": 3,
  "subject_labels": {
   "english": "English / ELA",
@@ -19,6 +19,248 @@
   "high": "High school"
  },
  "jobs": [
+  {
+   "id": "275618",
+   "title": "Classroom Paraprofessional",
+   "district": "Benton School District",
+   "location": "Benton School District",
+   "posted": "2026-10-21",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275618",
+   "source": "wecan",
+   "lat": 42.5672182,
+   "lng": -90.3846938,
+   "subjects": [],
+   "levels": []
+  },
+  {
+   "id": "275615",
+   "title": "Special Education Teacher-Alternative Education",
+   "district": "CESA 5",
+   "location": "Central Point Learning Center (CPLC) - Stevens Point",
+   "posted": "2026-10-21",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275615",
+   "source": "wecan",
+   "lat": null,
+   "lng": null,
+   "subjects": [],
+   "levels": []
+  },
+  {
+   "id": "275611",
+   "title": "Cross Categorical Teacher",
+   "district": "Sun Prairie Area School District",
+   "location": "Middle School - Central",
+   "posted": "2026-10-21",
+   "start": "10/26/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275611",
+   "source": "wecan",
+   "lat": 43.1836,
+   "lng": -89.2137,
+   "subjects": [],
+   "levels": [
+    "middle"
+   ]
+  },
+  {
+   "id": "275610",
+   "title": "Long-Term PBIS Substitute",
+   "district": "Verona Area School District",
+   "location": "Badger Ridge Middle School",
+   "posted": "2026-10-21",
+   "start": "10/26/2026",
+   "close": "11/14/2026",
+   "url": "https://wecan.waspa.org/Vacancy/275610",
+   "source": "wecan",
+   "lat": 42.9908,
+   "lng": -89.5332,
+   "subjects": [],
+   "levels": [
+    "middle"
+   ]
+  },
+  {
+   "id": "275609",
+   "title": "Cross Categorical Special Education Teacher - 1.0 FTE - Appleton East High School",
+   "district": "Appleton Area School District",
+   "location": "East High School",
+   "posted": "2026-10-21",
+   "start": "As Soon as Possible",
+   "close": "10/30/2026",
+   "url": "https://wecan.waspa.org/Vacancy/275609",
+   "source": "wecan",
+   "lat": 44.2619,
+   "lng": -88.4153,
+   "subjects": [],
+   "levels": [
+    "high"
+   ]
+  },
+  {
+   "id": "275606",
+   "title": "Cross Categorical Special Education Teacher - 0.5 FTE - Franklin Elementary",
+   "district": "Appleton Area School District",
+   "location": "Franklin Elementary",
+   "posted": "2026-10-21",
+   "start": "As Soon as Possible",
+   "close": "10/30/2026",
+   "url": "https://wecan.waspa.org/Vacancy/275606",
+   "source": "wecan",
+   "lat": 44.2619,
+   "lng": -88.4153,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "275602",
+   "title": "English Language Learner Specialist - Elementary",
+   "district": "Burlington Area School District",
+   "location": "Dyer Elementary",
+   "posted": "2026-10-21",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275602",
+   "source": "wecan",
+   "lat": 42.6781,
+   "lng": -88.2762,
+   "subjects": [
+    "esl"
+   ],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "275599",
+   "title": "Elementary School Special Education Teacher (Learning Strategist)",
+   "district": "School District of Sheboygan Falls",
+   "location": "Sheboygan Falls Elementary School",
+   "posted": "2026-10-21",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275599",
+   "source": "wecan",
+   "lat": 43.7508,
+   "lng": -87.7145,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "275597",
+   "title": "English Language Arts Teacher",
+   "district": "Stevens Point Area Public School District",
+   "location": "P.J. Jacobs Junior High",
+   "posted": "2026-10-20",
+   "start": "11/9/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275597",
+   "source": "wecan",
+   "lat": 44.5236,
+   "lng": -89.5746,
+   "subjects": [
+    "english"
+   ],
+   "levels": [
+    "middle"
+   ]
+  },
+  {
+   "id": "275593",
+   "title": "5th Grade Teacher",
+   "district": "CESA 6",
+   "location": "KTEC Schools of Innovation",
+   "posted": "2026-10-20",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275593",
+   "source": "wecan",
+   "lat": null,
+   "lng": null,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "275589",
+   "title": "English Learner Teacher",
+   "district": "Wisconsin Rapids Public Schools",
+   "location": "Wisconsin Rapids Area Middle School",
+   "posted": "2026-10-20",
+   "start": "11/2/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275589",
+   "source": "wecan",
+   "lat": 44.4037069,
+   "lng": -89.8737566,
+   "subjects": [
+    "esl"
+   ],
+   "levels": [
+    "middle"
+   ]
+  },
+  {
+   "id": "275578",
+   "title": "Middle School Math Teacher / Long Term Substitute starting January 2027",
+   "district": "Somerset School District",
+   "location": "Middle School",
+   "posted": "2026-10-20",
+   "start": "1/4/2027",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275578",
+   "source": "wecan",
+   "lat": 45.124894,
+   "lng": -92.6730433,
+   "subjects": [
+    "math"
+   ],
+   "levels": [
+    "middle"
+   ]
+  },
+  {
+   "id": "275577",
+   "title": "Special Education Teacher / Long Term Sub, starting mid March 2027",
+   "district": "Somerset School District",
+   "location": "Elementary School",
+   "posted": "2026-10-20",
+   "start": "3/15/2027",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275577",
+   "source": "wecan",
+   "lat": 45.124894,
+   "lng": -92.6730433,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "275575",
+   "title": "Cross Categorical Teacher (may be eligible for a $2500 hiring bonus)",
+   "district": "Verona Area School District",
+   "location": "District Wide Elementary",
+   "posted": "2026-10-20",
+   "start": "10/20/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275575",
+   "source": "wecan",
+   "lat": 42.9908,
+   "lng": -89.5332,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
   {
    "id": "275565",
    "title": "HS MATH TEACHER",
@@ -1033,21 +1275,6 @@
    ]
   },
   {
-   "id": "275306",
-   "title": "Pemeqnaekon Program Facilitator & Lead Teacher",
-   "district": "Menominee Indian School District",
-   "location": "District Wide",
-   "posted": "2026-10-14",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275306",
-   "source": "wecan",
-   "lat": 44.9762964,
-   "lng": -88.7347165,
-   "subjects": [],
-   "levels": []
-  },
-  {
    "id": "275303",
    "title": "2nd Grade Internship",
    "district": "Mosinee School District",
@@ -1508,232 +1735,6 @@
    ],
    "levels": [
     "high"
-   ]
-  },
-  {
-   "id": "275201",
-   "title": "Long Term Sub Middle School Art Teacher",
-   "district": "Spooner Area School District",
-   "location": "Middle School",
-   "posted": "2026-10-12",
-   "start": "11/2/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275201",
-   "source": "wecan",
-   "lat": 45.8267729,
-   "lng": -91.8882375,
-   "subjects": [
-    "art"
-   ],
-   "levels": [
-    "middle"
-   ]
-  },
-  {
-   "id": "275199",
-   "title": "Career/Technical Education Teacher 2027-28 School Year",
-   "district": "Wauwatosa School District",
-   "location": "Wauwatosa East High School",
-   "posted": "2026-10-12",
-   "start": "8/16/2027",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275199",
-   "source": "wecan",
-   "lat": 43.0494122,
-   "lng": -88.0079271,
-   "subjects": [],
-   "levels": [
-    "high"
-   ]
-  },
-  {
-   "id": "275189",
-   "title": "High School Special Education  Co-Teacher - Temporary",
-   "district": "Middleton-Cross Plains Area School District",
-   "location": "Middleton High School",
-   "posted": "2026-10-12",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275189",
-   "source": "wecan",
-   "lat": 43.0972,
-   "lng": -89.5124,
-   "subjects": [],
-   "levels": [
-    "high"
-   ]
-  },
-  {
-   "id": "275172",
-   "title": "26-27 Cross Categorical Teacher",
-   "district": "Racine Unified School District",
-   "location": "Gifford K-8 Campus",
-   "posted": "2026-10-12",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275172",
-   "source": "wecan",
-   "lat": 42.7261,
-   "lng": -87.7829,
-   "subjects": [],
-   "levels": [
-    "elementary",
-    "middle"
-   ]
-  },
-  {
-   "id": "275171",
-   "title": "Special Education Teacher - Elementary Specialized Program (Autism emphasis)",
-   "district": "Burlington Area School District",
-   "location": "Waller Elementary",
-   "posted": "2026-10-12",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275171",
-   "source": "wecan",
-   "lat": 42.6781,
-   "lng": -88.2762,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "275169",
-   "title": "Grade 7 Teacher (Social Studies Emphasis) at Marshall Middle School",
-   "district": "Janesville School District",
-   "location": "Marshall Middle School",
-   "posted": "2026-10-12",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275169",
-   "source": "wecan",
-   "lat": 42.6828,
-   "lng": -89.0187,
-   "subjects": [
-    "social"
-   ],
-   "levels": [
-    "middle"
-   ]
-  },
-  {
-   "id": "275168",
-   "title": "Long-Term Substitute Kindergarten Teacher - State Road Elementary School",
-   "district": "School District of La Crosse",
-   "location": "State Road Elementary School",
-   "posted": "2026-10-12",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275168",
-   "source": "wecan",
-   "lat": 43.8014,
-   "lng": -91.2396,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "275165",
-   "title": "26-27 Middle School Science Teacher ($2,500 hiring incentive)",
-   "district": "Milwaukee Academy of Science",
-   "location": "Milwaukee Academy of Science",
-   "posted": "2026-10-12",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275165",
-   "source": "wecan",
-   "lat": 43.0389,
-   "lng": -87.9065,
-   "subjects": [
-    "science"
-   ],
-   "levels": [
-    "middle"
-   ]
-  },
-  {
-   "id": "275164",
-   "title": "4th Grade Teacher",
-   "district": "Gillett School District",
-   "location": "Gillett Elementary School",
-   "posted": "2026-10-12",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275164",
-   "source": "wecan",
-   "lat": 44.891,
-   "lng": -88.307,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "275163",
-   "title": "Long-term Substitute Science Teacher",
-   "district": "Dodgeville School District",
-   "location": "Dodgeville Middle School",
-   "posted": "2026-10-12",
-   "start": "11/1/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275163",
-   "source": "wecan",
-   "lat": 42.9603,
-   "lng": -90.1301,
-   "subjects": [
-    "science"
-   ],
-   "levels": [
-    "middle"
-   ]
-  },
-  {
-   "id": "275158",
-   "title": "Educational Sign Language Interpreter",
-   "district": "CESA 5",
-   "location": "School District of Auburndale",
-   "posted": "2026-10-12",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275158",
-   "source": "wecan",
-   "lat": null,
-   "lng": null,
-   "subjects": [],
-   "levels": []
-  },
-  {
-   "id": "275152",
-   "title": "Temporary Long-Term Special Education Sub",
-   "district": "Salem School District",
-   "location": "Salem School District",
-   "posted": "2026-10-12",
-   "start": "10/19/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275152",
-   "source": "wecan",
-   "lat": 43.9481892,
-   "lng": -90.7552826,
-   "subjects": [],
-   "levels": []
-  },
-  {
-   "id": "275145",
-   "title": "Early Childhood Teacher - LTE",
-   "district": "Beaver Dam Unified School District",
-   "location": "District Wide",
-   "posted": "2026-10-12",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275145",
-   "source": "wecan",
-   "lat": 43.4578,
-   "lng": -88.8371,
-   "subjects": [],
-   "levels": [
-    "elementary"
    ]
   },
   {

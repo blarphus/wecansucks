@@ -1,9 +1,14 @@
 {
+  "benton school district": [
+    42.5672182,
+    -90.3846938
+  ],
   "blair-taylor school district": [
     44.2911843,
     -91.208753
   ],
   "cesa 5": null,
+  "cesa 6": null,
   "chileda": null,
   "dodgeland school district": [
     43.4025756,
@@ -42,10 +47,6 @@
   "manitowoc public school district": [
     44.0998341,
     -87.827992
-  ],
-  "menominee indian school district": [
-    44.9762964,
-    -88.7347165
   ],
   "menominee tribal school": [
     44.978897,
@@ -121,10 +122,6 @@
     43.8386569,
     -91.2457452
   ],
-  "salem school district": [
-    43.9481892,
-    -90.7552826
-  ],
   "school district of hartford j1": [
     43.317744,
     -88.3788508
@@ -169,9 +166,9 @@
     44.7817214,
     -88.7118868
   ],
-  "spooner area school district": [
-    45.8267729,
-    -91.8882375
+  "somerset school district": [
+    45.124894,
+    -92.6730433
   ],
   "st. joseph academy": [
     42.9890468,
@@ -189,10 +186,6 @@
   "waterford union": [
     42.7639055,
     -88.2187009
-  ],
-  "wauwatosa school district": [
-    43.0494122,
-    -88.0079271
   ],
   "wecan demo/testing account": null,
   "whitewater unified school district": [
