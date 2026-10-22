@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T12:32:23.071055-05:00",
+ "generated_at": "2026-10-22T12:30:04.123648-05:00",
  "weeks": 3,
  "subject_labels": {
   "english": "English / ELA",
@@ -19,6 +19,203 @@
   "high": "High school"
  },
  "jobs": [
+  {
+   "id": "275686",
+   "title": "26-27 Grade 5 Teacher",
+   "district": "Racine Unified School District",
+   "location": "Schulte K-8 Campus",
+   "posted": "2026-10-22",
+   "start": "1/4/2027",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275686",
+   "source": "wecan",
+   "lat": 42.7261,
+   "lng": -87.7829,
+   "subjects": [],
+   "levels": [
+    "elementary",
+    "middle"
+   ]
+  },
+  {
+   "id": "275683",
+   "title": "5th/6th Grade ELA Teacher",
+   "district": "Heritage Christian Schools",
+   "location": "Heritage Christian Elementary School",
+   "posted": "2026-10-22",
+   "start": "10/22/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275683",
+   "source": "wecan",
+   "lat": 43.018643,
+   "lng": -88.0476792,
+   "subjects": [
+    "english"
+   ],
+   "levels": [
+    "elementary",
+    "middle"
+   ]
+  },
+  {
+   "id": "275667",
+   "title": "Special Education Teacher - PT",
+   "district": "CESA 1",
+   "location": "WSTEM (Wauwatosa)",
+   "posted": "2026-10-22",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275667",
+   "source": "wecan",
+   "lat": null,
+   "lng": null,
+   "subjects": [],
+   "levels": []
+  },
+  {
+   "id": "275666",
+   "title": "Special Education Teacher - FT",
+   "district": "CESA 1",
+   "location": "WSTEM (Wauwatosa)",
+   "posted": "2026-10-22",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275666",
+   "source": "wecan",
+   "lat": null,
+   "lng": null,
+   "subjects": [],
+   "levels": []
+  },
+  {
+   "id": "275663",
+   "title": "Math Teacher Grades 3-4",
+   "district": "Holyland Catholic School",
+   "location": "",
+   "posted": "2026-10-22",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275663",
+   "source": "wecan",
+   "lat": null,
+   "lng": null,
+   "subjects": [
+    "math"
+   ],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "275656",
+   "title": "Grade 7 Teacher (Literacy)",
+   "district": "Sun Prairie Area School District",
+   "location": "Prairie View Middle School",
+   "posted": "2026-10-22",
+   "start": "1/27/2027",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275656",
+   "source": "wecan",
+   "lat": 43.1836,
+   "lng": -89.2137,
+   "subjects": [
+    "english"
+   ],
+   "levels": [
+    "middle"
+   ]
+  },
+  {
+   "id": "275651",
+   "title": "26-27 Spanish Teacher",
+   "district": "Racine Unified School District",
+   "location": "Jerstad Agerholm K-8 Campus / Mitchell K-8 Campus",
+   "posted": "2026-10-21",
+   "start": "1/5/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275651",
+   "source": "wecan",
+   "lat": 42.7261,
+   "lng": -87.7829,
+   "subjects": [
+    "world_lang"
+   ],
+   "levels": [
+    "elementary",
+    "middle"
+   ]
+  },
+  {
+   "id": "275644",
+   "title": "Special Education Teacher",
+   "district": "School District of West De Pere",
+   "location": "Hemlock Creek Elementary",
+   "posted": "2026-10-21",
+   "start": "10/27/2026",
+   "close": "10/26/2026",
+   "url": "https://wecan.waspa.org/Vacancy/275644",
+   "source": "wecan",
+   "lat": 44.445547,
+   "lng": -88.0753807,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "275639",
+   "title": "Cross Categorical Special Education Teacher",
+   "district": "Manitowoc Public School District",
+   "location": "Monroe Elementary School",
+   "posted": "2026-10-21",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275639",
+   "source": "wecan",
+   "lat": 44.0998341,
+   "lng": -87.827992,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "275636",
+   "title": "Middle School and High School ELA Teacher",
+   "district": "Ozaukee Christian School",
+   "location": "FaithRidge Christian School (West Bend, WI)",
+   "posted": "2026-10-21",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275636",
+   "source": "wecan",
+   "lat": 43.4288044,
+   "lng": -88.098632,
+   "subjects": [
+    "english"
+   ],
+   "levels": [
+    "high",
+    "middle"
+   ]
+  },
+  {
+   "id": "275633",
+   "title": "4th Grade Teacher - St. Patrick's Catholic School Sparta, WI",
+   "district": "Diocese of La Crosse",
+   "location": "St. Patrick's Catholic School",
+   "posted": "2026-10-21",
+   "start": "10/21/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275633",
+   "source": "wecan",
+   "lat": 43.8014,
+   "lng": -91.2396,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
   {
    "id": "275618",
    "title": "Classroom Paraprofessional",
@@ -171,6 +368,21 @@
    "levels": [
     "middle"
    ]
+  },
+  {
+   "id": "275596",
+   "title": "School Behavior Coach",
+   "district": "Lake Geneva Schools",
+   "location": "Jt #1 School District",
+   "posted": "2026-10-20",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275596",
+   "source": "wecan",
+   "lat": 42.571693,
+   "lng": -88.4152537,
+   "subjects": [],
+   "levels": []
   },
   {
    "id": "275593",
@@ -749,7 +961,7 @@
   },
   {
    "id": "275460",
-   "title": "26-27 Physical Education Teacher",
+   "title": "26-27  Physical Education Teacher",
    "district": "Racine Unified School District",
    "location": "Mitchell K-8 Campus",
    "posted": "2026-10-16",
@@ -1531,211 +1743,6 @@
    "lng": null,
    "subjects": [],
    "levels": []
-  },
-  {
-   "id": "275259",
-   "title": "Intellectual Disabilities Special Education Teacher (1.0 FTE)",
-   "district": "School District of Milton",
-   "location": "Northside Intermediate",
-   "posted": "2026-10-13",
-   "start": "1/25/2027",
-   "close": "11/2/2026",
-   "url": "https://wecan.waspa.org/Vacancy/275259",
-   "source": "wecan",
-   "lat": 42.7753567,
-   "lng": -88.9390017,
-   "subjects": [],
-   "levels": []
-  },
-  {
-   "id": "275257",
-   "title": "26-27  Cross Categorical Teacher",
-   "district": "Racine Unified School District",
-   "location": "O. Brown K-8 Campus",
-   "posted": "2026-10-13",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275257",
-   "source": "wecan",
-   "lat": 42.7261,
-   "lng": -87.7829,
-   "subjects": [],
-   "levels": [
-    "elementary",
-    "middle"
-   ]
-  },
-  {
-   "id": "275256",
-   "title": "Head Start 4k Full Day Teacher",
-   "district": "Green Bay Area Public School District",
-   "location": "Jefferson Head Start",
-   "posted": "2026-10-13",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275256",
-   "source": "wecan",
-   "lat": 44.5133,
-   "lng": -88.0133,
-   "subjects": [],
-   "levels": []
-  },
-  {
-   "id": "275249",
-   "title": "3rd Grade Teacher (Anticipated Vacancy)",
-   "district": "Clintonville Public Schools",
-   "location": "Clintonville Elementary School",
-   "posted": "2026-10-13",
-   "start": "11/16/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275249",
-   "source": "wecan",
-   "lat": 42.558,
-   "lng": -88.865,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "275238",
-   "title": "26-27  Cross Categorical Teacher",
-   "district": "Racine Unified School District",
-   "location": "Red Apple K-8 Campus",
-   "posted": "2026-10-13",
-   "start": "10/13/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275238",
-   "source": "wecan",
-   "lat": 42.7261,
-   "lng": -87.7829,
-   "subjects": [],
-   "levels": [
-    "elementary",
-    "middle"
-   ]
-  },
-  {
-   "id": "275237",
-   "title": "Elementary Music Teacher",
-   "district": "Riverdale School District",
-   "location": "Elementary School",
-   "posted": "2026-10-13",
-   "start": "8/23/2027",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275237",
-   "source": "wecan",
-   "lat": 43.346,
-   "lng": -90.379,
-   "subjects": [
-    "music"
-   ],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "275231",
-   "title": "Early Childhood Special Education Teacher",
-   "district": "Blair-Taylor School District",
-   "location": "Blair-Taylor Elementary",
-   "posted": "2026-10-13",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275231",
-   "source": "wecan",
-   "lat": 44.2911843,
-   "lng": -91.208753,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "275224",
-   "title": "Business Education Teacher at Parker High School",
-   "district": "Janesville School District",
-   "location": "Parker High School",
-   "posted": "2026-10-13",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275224",
-   "source": "wecan",
-   "lat": 42.6828,
-   "lng": -89.0187,
-   "subjects": [],
-   "levels": [
-    "high"
-   ]
-  },
-  {
-   "id": "275222",
-   "title": "Cross Categorical Teacher",
-   "district": "Sun Prairie Area School District",
-   "location": "Eastside Elementary",
-   "posted": "2026-10-13",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275222",
-   "source": "wecan",
-   "lat": 43.1836,
-   "lng": -89.2137,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "275209",
-   "title": "Long Term Substitite- Special Education Teacher",
-   "district": "Swallow School District",
-   "location": "Swallow School",
-   "posted": "2026-10-13",
-   "start": "3/1/2027",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275209",
-   "source": "wecan",
-   "lat": 43.1348696,
-   "lng": -89.3543,
-   "subjects": [],
-   "levels": []
-  },
-  {
-   "id": "275205",
-   "title": "26-27 Grade 3 Teacher",
-   "district": "Racine Unified School District",
-   "location": "Schulte K-8 Campus",
-   "posted": "2026-10-13",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275205",
-   "source": "wecan",
-   "lat": 42.7261,
-   "lng": -87.7829,
-   "subjects": [],
-   "levels": [
-    "elementary",
-    "middle"
-   ]
-  },
-  {
-   "id": "275203",
-   "title": "High School Math Teacher",
-   "district": "Ellsworth Community School District",
-   "location": "Ellsworth High School",
-   "posted": "2026-10-13",
-   "start": "1/18/2027",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275203",
-   "source": "wecan",
-   "lat": 44.732122,
-   "lng": -92.4831218,
-   "subjects": [
-    "math"
-   ],
-   "levels": [
-    "high"
-   ]
   },
   {
    "id": "mmsd:9675",

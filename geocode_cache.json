@@ -3,10 +3,7 @@
     42.5672182,
     -90.3846938
   ],
-  "blair-taylor school district": [
-    44.2911843,
-    -91.208753
-  ],
+  "cesa 1": null,
   "cesa 5": null,
   "cesa 6": null,
   "chileda": null,
@@ -18,10 +15,6 @@
     42.7851871,
     -88.4054374
   ],
-  "ellsworth community school district": [
-    44.732122,
-    -92.4831218
-  ],
   "evergreen academy": null,
   "genesee lake school": null,
   "germantown school district": [
@@ -32,6 +25,11 @@
     46.0129676,
     -91.4848728
   ],
+  "heritage christian schools": [
+    43.018643,
+    -88.0476792
+  ],
+  "holyland catholic school": null,
   "hortonville area school district": [
     44.3350374,
     -88.639343
@@ -43,6 +41,10 @@
   "ithaca public schools": [
     43.3408176,
     -90.2817921
+  ],
+  "lake geneva schools": [
+    42.571693,
+    -88.4152537
   ],
   "manitowoc public school district": [
     44.0998341,
@@ -114,6 +116,10 @@
     42.9054721,
     -87.9265921
   ],
+  "ozaukee christian school": [
+    43.4288044,
+    -88.098632
+  ],
   "prairie du chien area school district": [
     43.05194,
     -91.1409933
@@ -138,10 +144,6 @@
     43.1790768,
     -88.1170784
   ],
-  "school district of milton": [
-    42.7753567,
-    -88.9390017
-  ],
   "school district of mondovi": [
     44.5678717,
     -91.6706955
@@ -162,6 +164,10 @@
     45.6900818,
     -90.3971021
   ],
+  "school district of west de pere": [
+    44.445547,
+    -88.0753807
+  ],
   "shawano school district": [
     44.7817214,
     -88.7118868
@@ -175,10 +181,6 @@
     -87.934382
   ],
   "st. mary parish school (menomonee falls)": null,
-  "swallow school district": [
-    43.1348696,
-    -89.3543
-  ],
   "two rivers public school district": [
     44.149206,
     -87.5682149
