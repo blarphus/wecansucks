@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T12:28:22.118290-05:00",
+ "generated_at": "2026-10-24T11:09:54.158090-05:00",
  "weeks": 3,
  "subject_labels": {
   "english": "English / ELA",
@@ -19,6 +19,59 @@
   "high": "High school"
  },
  "jobs": [
+  {
+   "id": "275785",
+   "title": "Part Time High School Art Teacher (Work From Home)",
+   "district": "McFarland School District",
+   "location": "Wisconsin Virtual Academy High School",
+   "posted": "2026-10-23",
+   "start": "11/16/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275785",
+   "source": "wecan",
+   "lat": 43.0122,
+   "lng": -89.2901,
+   "subjects": [
+    "art"
+   ],
+   "levels": [
+    "high"
+   ]
+  },
+  {
+   "id": "275781",
+   "title": "Long Term Sub FACE Teacher",
+   "district": "Kettle Moraine School District",
+   "location": "Kettle Moraine High School",
+   "posted": "2026-10-23",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275781",
+   "source": "wecan",
+   "lat": 43.0169314,
+   "lng": -88.3760905,
+   "subjects": [],
+   "levels": [
+    "high"
+   ]
+  },
+  {
+   "id": "275778",
+   "title": "26-27 Upper Elementary School 3rd-5th Grade Special Education Teacher",
+   "district": "St. Augustine Preparatory Academy",
+   "location": "St. Augustine Preparatory Academy",
+   "posted": "2026-10-23",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275778",
+   "source": "wecan",
+   "lat": 43.0389,
+   "lng": -87.9065,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
   {
    "id": "275765",
    "title": "Special Education Achieve Teacher (3 Year Retention Bonus Eligible!)",
@@ -1312,42 +1365,6 @@
    ]
   },
   {
-   "id": "275406",
-   "title": "Mathematics Teacher",
-   "district": "School District of Mauston",
-   "location": "Mauston High School",
-   "posted": "2026-10-15",
-   "start": "11/2/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275406",
-   "source": "wecan",
-   "lat": 43.7968543,
-   "lng": -90.0756767,
-   "subjects": [
-    "math"
-   ],
-   "levels": [
-    "high"
-   ]
-  },
-  {
-   "id": "275405",
-   "title": "Special Education Teacher",
-   "district": "School District of Mauston",
-   "location": "Olson Middle School",
-   "posted": "2026-10-15",
-   "start": "11/2/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275405",
-   "source": "wecan",
-   "lat": 43.7968543,
-   "lng": -90.0756767,
-   "subjects": [],
-   "levels": [
-    "middle"
-   ]
-  },
-  {
    "id": "275404",
    "title": "Elementary Teacher - Grade 5",
    "district": "School District of Mauston",
@@ -1750,25 +1767,6 @@
    "levels": []
   },
   {
-   "id": "275283",
-   "title": "MS/HS Choir  Director",
-   "district": "School District of Neillsville",
-   "location": "Neillsville Middle / High School",
-   "posted": "2026-10-13",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275283",
-   "source": "wecan",
-   "lat": 44.5604073,
-   "lng": -90.5962609,
-   "subjects": [
-    "music"
-   ],
-   "levels": [
-    "high"
-   ]
-  },
-  {
    "id": "mmsd:9685",
    "title": "Bilingual Resource Teacher (Spanish) - Leopold - 0.2 FTE - 26-27 SY",
    "district": "Madison Metropolitan School District",
@@ -2011,42 +2009,6 @@
    "lng": -89.4012,
    "subjects": [],
    "levels": []
-  },
-  {
-   "id": "mmsd:9619",
-   "title": "Pashto Bilingual Resource Specialist - Lakeview - 0.968 FTE - 26-27 SY",
-   "district": "Madison Metropolitan School District",
-   "location": "Lakeview (Madison, WI)",
-   "posted": "2026-10-02",
-   "start": "",
-   "close": "",
-   "url": "https://mmsd.csod.com/ux/ats/careersite/1/home/requisition/9619?c=mmsd",
-   "source": "mmsd",
-   "lat": 43.0731,
-   "lng": -89.4012,
-   "subjects": [
-    "esl"
-   ],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "mmsd:9616",
-   "title": "Special Education Teacher (Cross Categorical) - Capital HS - 1.0 FTE - 26-27 SY",
-   "district": "Madison Metropolitan School District",
-   "location": "Capital HS (Madison, WI)",
-   "posted": "2026-10-02",
-   "start": "",
-   "close": "",
-   "url": "https://mmsd.csod.com/ux/ats/careersite/1/home/requisition/9616?c=mmsd",
-   "source": "mmsd",
-   "lat": 43.0731,
-   "lng": -89.4012,
-   "subjects": [],
-   "levels": [
-    "high"
-   ]
   }
  ]
 }

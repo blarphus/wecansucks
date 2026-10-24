@@ -41,6 +41,10 @@
     43.3408176,
     -90.2817921
   ],
+  "kettle moraine school district": [
+    43.0169314,
+    -88.3760905
+  ],
   "lake geneva schools": [
     42.571693,
     -88.4152537
@@ -53,7 +57,6 @@
     44.978897,
     -88.833996
   ],
-  "mmsd:capital hs": null,
   "mmsd:emerson": [
     43.1008728,
     -89.3524499
@@ -66,7 +69,6 @@
     43.1467126,
     -89.3697456
   ],
-  "mmsd:lakeview": null,
   "mmsd:lapham": [
     43.0854961,
     -89.3720388
@@ -142,10 +144,6 @@
   "school district of mondovi": [
     44.5678717,
     -91.6706955
-  ],
-  "school district of neillsville": [
-    44.5604073,
-    -90.5962609
   ],
   "school district of new richmond": [
     45.1227287,
