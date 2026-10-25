@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T11:09:54.158090-05:00",
+ "generated_at": "2026-10-25T11:41:33.118200-05:00",
  "weeks": 3,
  "subject_labels": {
   "english": "English / ELA",
@@ -1236,8 +1236,8 @@
    "close": "Until filled",
    "url": "https://wecan.waspa.org/Vacancy/275435",
    "source": "wecan",
-   "lat": 43.4025756,
-   "lng": -88.7162216,
+   "lat": 43.4016194,
+   "lng": -88.7166629,
    "subjects": [
     "english"
    ],
