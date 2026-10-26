@@ -15,9 +15,13 @@
     43.7387693,
     -87.7192377
   ],
+  "cross trainers academy": [
+    43.0679737,
+    -87.9318298
+  ],
   "dodgeland school district": [
-    43.4016194,
-    -88.7166629
+    43.4025756,
+    -88.7162216
   ],
   "east troy community school district": [
     42.7851871,
@@ -40,6 +44,10 @@
   "ithaca public schools": [
     43.3408176,
     -90.2817921
+  ],
+  "kaukauna area school district": [
+    44.2780432,
+    -88.2720503
   ],
   "kettle moraine school district": [
     43.0169314,
@@ -97,13 +105,9 @@
     43.0484371,
     -89.4002258
   ],
-  "mosinee school district": [
-    44.7927669,
-    -89.7030748
-  ],
-  "nekoosa school district": [
-    44.3154564,
-    -89.8918206
+  "neenah joint school district": [
+    44.1837802,
+    -88.4634176
   ],
   "newman catholic schools": [
     44.97248,
@@ -112,6 +116,14 @@
   "oak creek-franklin joint school district": [
     42.9054721,
     -87.9265921
+  ],
+  "oconomowoc area school district": [
+    43.1116731,
+    -88.4992659
+  ],
+  "oneida nation schools": [
+    44.4913567,
+    -88.1077568
   ],
   "ozaukee christian school": [
     43.4288044,
@@ -124,10 +136,6 @@
   "providence academy": [
     43.8386569,
     -91.2457452
-  ],
-  "school district of hartford j1": [
-    43.317744,
-    -88.3788508
   ],
   "school district of ladysmith": [
     45.4642517,
@@ -173,17 +181,23 @@
     42.9890468,
     -87.934382
   ],
-  "st. mary parish school (menomonee falls)": null,
   "the richardson school": null,
   "two rivers public school district": [
     44.149206,
     -87.5682149
   ],
+  "unified school district of antigo": [
+    45.161232,
+    -89.0933548
+  ],
   "waterford union": [
     42.7639055,
     -88.2187009
   ],
-  "wecan demo/testing account": null,
+  "west bend school district": [
+    43.4252776,
+    -88.1834277
+  ],
   "whitewater unified school district": [
     42.8283755,
     -88.7512805
