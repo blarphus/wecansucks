@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T13:10:01.897762-05:00",
+ "generated_at": "2026-10-28T13:26:29.968310-05:00",
  "weeks": 3,
  "subject_labels": {
   "english": "English / ELA",
@@ -19,6 +19,162 @@
   "high": "High school"
  },
  "jobs": [
+  {
+   "id": "276001",
+   "title": "Middle/High School ELA Teacher",
+   "district": "Lake Country Classical Academy",
+   "location": "Lake Country Classical Academy - West",
+   "posted": "2026-10-28",
+   "start": "10/26/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/276001",
+   "source": "wecan",
+   "lat": null,
+   "lng": null,
+   "subjects": [
+    "english"
+   ],
+   "levels": [
+    "high"
+   ]
+  },
+  {
+   "id": "275985",
+   "title": "District In-House Substitute Teacher",
+   "district": "School District of Hartford J1",
+   "location": "Hartford Jt. 1",
+   "posted": "2026-10-28",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275985",
+   "source": "wecan",
+   "lat": 43.317744,
+   "lng": -88.3788508,
+   "subjects": [],
+   "levels": []
+  },
+  {
+   "id": "275980",
+   "title": "Cross-Categorical Special Education Teacher",
+   "district": "School District of Hartford J1",
+   "location": "Rossman Elementary School",
+   "posted": "2026-10-28",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275980",
+   "source": "wecan",
+   "lat": 43.317744,
+   "lng": -88.3788508,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "275973",
+   "title": "LT Sub Teacher - Grade 3",
+   "district": "Tomorrow River School District",
+   "location": "Amherst Elementary",
+   "posted": "2026-10-28",
+   "start": "1/4/2027",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275973",
+   "source": "wecan",
+   "lat": 44.430922,
+   "lng": -89.2760799,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "275972",
+   "title": "LT Sub Teacher - Elementary Phy Ed",
+   "district": "Tomorrow River School District",
+   "location": "Amherst Elementary",
+   "posted": "2026-10-28",
+   "start": "3/1/2027",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275972",
+   "source": "wecan",
+   "lat": 44.430922,
+   "lng": -89.2760799,
+   "subjects": [
+    "pe_health"
+   ],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "275966",
+   "title": "TEACHER: CROSS CATEGORICAL",
+   "district": "West Bend School District",
+   "location": "Green Tree Elementary",
+   "posted": "2026-10-28",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275966",
+   "source": "wecan",
+   "lat": 43.4252776,
+   "lng": -88.1834277,
+   "subjects": [],
+   "levels": [
+    "elementary"
+   ]
+  },
+  {
+   "id": "275940",
+   "title": "26-27 Grade 1 Teacher",
+   "district": "Racine Unified School District",
+   "location": "Mitchell K-8 Campus",
+   "posted": "2026-10-27",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275940",
+   "source": "wecan",
+   "lat": 42.7261,
+   "lng": -87.7829,
+   "subjects": [],
+   "levels": [
+    "elementary",
+    "middle"
+   ]
+  },
+  {
+   "id": "275935",
+   "title": "Teacher (4k)",
+   "district": "CESA 11",
+   "location": "New Richmond Head Start",
+   "posted": "2026-10-27",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275935",
+   "source": "wecan",
+   "lat": null,
+   "lng": null,
+   "subjects": [],
+   "levels": []
+  },
+  {
+   "id": "275934",
+   "title": "Long Term Substitute - Math Teacher",
+   "district": "Beaver Dam Unified School District",
+   "location": "Beaver Dam Middle School",
+   "posted": "2026-10-27",
+   "start": "11/3/2026",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275934",
+   "source": "wecan",
+   "lat": 43.4578,
+   "lng": -88.8371,
+   "subjects": [
+    "math"
+   ],
+   "levels": [
+    "middle"
+   ]
+  },
   {
    "id": "275918",
    "title": "6th Grade Science Teacher",
@@ -73,6 +229,23 @@
    "levels": [
     "middle"
    ]
+  },
+  {
+   "id": "275902",
+   "title": "Title 1 Private School Reading Interventionist",
+   "district": "School District of Fort Atkinson",
+   "location": "Title 1 Services for Qualifying Students at Crown of Life Christian Academy",
+   "posted": "2026-10-27",
+   "start": "As Soon as Possible",
+   "close": "Until filled",
+   "url": "https://wecan.waspa.org/Vacancy/275902",
+   "source": "wecan",
+   "lat": 42.9289,
+   "lng": -88.837,
+   "subjects": [
+    "english"
+   ],
+   "levels": []
   },
   {
    "id": "275885",
@@ -850,7 +1023,7 @@
   },
   {
    "id": "275636",
-   "title": "Middle School and High School ELA Teacher",
+   "title": "Middle School and High School  ELA Teacher",
    "district": "Ozaukee Christian School",
    "location": "FaithRidge Christian School (West Bend, WI)",
    "posted": "2026-10-21",
@@ -1598,178 +1771,6 @@
     "elementary",
     "middle"
    ]
-  },
-  {
-   "id": "275455",
-   "title": "High School Mathematics Teacher",
-   "district": "Tomah Area School District",
-   "location": "Tomah High School",
-   "posted": "2026-10-16",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275455",
-   "source": "wecan",
-   "lat": 43.9786,
-   "lng": -90.504,
-   "subjects": [
-    "math"
-   ],
-   "levels": [
-    "high"
-   ]
-  },
-  {
-   "id": "275445",
-   "title": "Special Education Teacher- Academic Interventionist",
-   "district": "Hortonville Area School District",
-   "location": "Greenville Elementary School",
-   "posted": "2026-10-16",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275445",
-   "source": "wecan",
-   "lat": 44.3350374,
-   "lng": -88.639343,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "275438",
-   "title": "Special Education Teacher",
-   "district": "Chileda",
-   "location": "Chileda - Menasha, WI",
-   "posted": "2026-10-16",
-   "start": "As Soon as Possible",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275438",
-   "source": "wecan",
-   "lat": null,
-   "lng": null,
-   "subjects": [],
-   "levels": []
-  },
-  {
-   "id": "275437",
-   "title": "Long-Term 8th Grade Math Substitute Teacher",
-   "district": "Verona Area School District",
-   "location": "Savanna Oaks Middle School",
-   "posted": "2026-10-16",
-   "start": "12/21/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275437",
-   "source": "wecan",
-   "lat": 42.9908,
-   "lng": -89.5332,
-   "subjects": [
-    "math"
-   ],
-   "levels": [
-    "middle"
-   ]
-  },
-  {
-   "id": "275435",
-   "title": "Long-Term 8th Grade English/Language Arts Teacher (Perfect for a December Graduate!)",
-   "district": "Dodgeland School District",
-   "location": "Dodgeland Middle School",
-   "posted": "2026-10-16",
-   "start": "2/25/2027",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275435",
-   "source": "wecan",
-   "lat": 43.4025756,
-   "lng": -88.7162216,
-   "subjects": [
-    "english"
-   ],
-   "levels": [
-    "middle"
-   ]
-  },
-  {
-   "id": "275432",
-   "title": "Elementary Classroom Teacher - Intern",
-   "district": "Shawano School District",
-   "location": "Hillcrest Primary School",
-   "posted": "2026-10-16",
-   "start": "1/25/2027",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275432",
-   "source": "wecan",
-   "lat": 44.7817214,
-   "lng": -88.7118868,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "275431",
-   "title": "Middle School Teacher",
-   "district": "Fond du Lac School District",
-   "location": "TBD - middle schools",
-   "posted": "2026-10-16",
-   "start": "1/4/2027",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275431",
-   "source": "wecan",
-   "lat": 43.773,
-   "lng": -88.447,
-   "subjects": [],
-   "levels": [
-    "middle"
-   ]
-  },
-  {
-   "id": "275426",
-   "title": "Special Education Teacher (Cross-Categorical) - Elementary",
-   "district": "Fond du Lac School District",
-   "location": "Waters Elementary School",
-   "posted": "2026-10-16",
-   "start": "11/2/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275426",
-   "source": "wecan",
-   "lat": 43.773,
-   "lng": -88.447,
-   "subjects": [],
-   "levels": [
-    "elementary"
-   ]
-  },
-  {
-   "id": "275425",
-   "title": "Special Education Teacher - High School",
-   "district": "Fond du Lac School District",
-   "location": "Fond du Lac High School",
-   "posted": "2026-10-16",
-   "start": "11/2/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275425",
-   "source": "wecan",
-   "lat": 43.773,
-   "lng": -88.447,
-   "subjects": [],
-   "levels": [
-    "high"
-   ]
-  },
-  {
-   "id": "275422",
-   "title": "Primary Special Education Teacher",
-   "district": "East Troy Community School District",
-   "location": "Little Prairie Primary",
-   "posted": "2026-10-15",
-   "start": "11/2/2026",
-   "close": "Until filled",
-   "url": "https://wecan.waspa.org/Vacancy/275422",
-   "source": "wecan",
-   "lat": 42.7851871,
-   "lng": -88.4054374,
-   "subjects": [],
-   "levels": []
   },
   {
    "id": "mmsd:9685",

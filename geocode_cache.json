@@ -9,9 +9,9 @@
     -87.9875348
   ],
   "cesa 1": null,
+  "cesa 11": null,
   "cesa 5": null,
   "cesa 6": null,
-  "chileda": null,
   "christ child academy": [
     43.7387693,
     -87.7192377
@@ -19,14 +19,6 @@
   "cross trainers academy": [
     43.0679737,
     -87.9318298
-  ],
-  "dodgeland school district": [
-    43.4025756,
-    -88.7162216
-  ],
-  "east troy community school district": [
-    42.7851871,
-    -88.4054374
   ],
   "germantown school district": [
     43.2286174,
@@ -37,10 +29,6 @@
     -88.0476792
   ],
   "holyland catholic school": null,
-  "hortonville area school district": [
-    44.3350374,
-    -88.639343
-  ],
   "ithaca public schools": [
     43.3408176,
     -90.2817921
@@ -53,6 +41,7 @@
     43.0169314,
     -88.3760905
   ],
+  "lake country classical academy": null,
   "lake geneva schools": [
     42.571693,
     -88.4152537
@@ -142,6 +131,10 @@
     45.0349745,
     -90.0738874
   ],
+  "school district of hartford j1": [
+    43.317744,
+    -88.3788508
+  ],
   "school district of ladysmith": [
     45.4642517,
     -91.1008637
@@ -166,10 +159,6 @@
     44.9012628,
     -91.9297247
   ],
-  "shawano school district": [
-    44.7817214,
-    -88.7118868
-  ],
   "somerset school district": [
     45.124894,
     -92.6730433
@@ -179,6 +168,10 @@
     -87.934382
   ],
   "the richardson school": null,
+  "tomorrow river school district": [
+    44.430922,
+    -89.2760799
+  ],
   "two rivers public school district": [
     44.149206,
     -87.5682149
